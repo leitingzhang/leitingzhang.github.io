@@ -4,7 +4,7 @@ main:
     url: /publications/
       
   - title: "About the PI"
-    url: /about-the-pi/
+    url: /About-the-PI/
     
   - title: "Team members"
     url: /talks/    
