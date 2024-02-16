@@ -14,17 +14,11 @@ Education
 * B.Eng.(2011), M.Phil.(2014), and Ph.D.(2018) in Chemical Engineering, The Hong Kong University of Science and Technology
 * Collège de France (Ph.D. co-supervision, 2014-2018)
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023–		Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
+* 2021–2023	Postdoctoral Researcher, Uppsala University (UU), Sweden
+* 2018–2021	Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 Skills
 ======
