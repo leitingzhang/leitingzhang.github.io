@@ -31,4 +31,5 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 Contact
 ------
 Visiting address: Room Å2348, Lägerhyddsvägen 1, Uppsala University
+
 Postal address: Box 538, 751 21 Uppsala, Sweden
