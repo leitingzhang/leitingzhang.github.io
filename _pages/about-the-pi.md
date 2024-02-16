@@ -20,26 +20,21 @@ Employment
 * 2021–2023	Postdoctoral Researcher, Uppsala University (UU), Sweden
 * 2018–2021	Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
-Skills
+Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2023–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
+* 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+* 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 2022		Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
+* 2017		Chan Tak Kei & Wong Kwai Ying Award for Excellent Research, HKUST
+* 2016		Overseas Research Awards, School of Engineering, HKUST
+* 2012		Sinopoly Battery Scholarship, Sinopoly Battery Research Center, Shanghai
+* 2011		Gold Award, President’s Cup, HKUST
+* 2011		First Runner-up, Mr. Armin and Mrs. Lillian Kitchell Research Award, HKUST
+* 2010		International Exchange Scholarship, University of Minnesota, Twin Cities
   
 Teaching
 ======
