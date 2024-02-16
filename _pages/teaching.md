@@ -7,15 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-| Course name | Level | Role |
+| Course name | Course code | Role |
 | --- | --- | --- | --- |
-| [Large-scale optimization](https://uppsala.instructure.com/courses/84856) | PhD | Course responsible |
-| [Project in large-scale optimization](https://uppsala.instructure.com/courses/84856) | PhD | Course responsible |
-| [Convex optimization](https://uppsala.instructure.com/courses/52871) | PhD | Course responsible |
-| [Project in convex optimization](https://uppsala.instructure.com/courses/52871) | PhD | Course responsible |
-| [Great Ideas in Learning and Control](https://uppsala.instructure.com/courses/88775) | PhD | Lecturer |
-| [Statistical Machine Learning](https://uppsala.instructure.com/courses/46077) | Master | Course responsible |
-| [Advanced Probabilistic Machine Learning](https://uppsala.instructure.com/courses/68453) | Master | Lecturer |
+| [Rechargeable Batteries](https://uppsala.instructure.com/courses/82141) | 1KB738 | Course responsible |
+| [Future Perspective in Cell Chemistries](https://uppsala.instructure.com/courses/80742) | 1KB741 | Course responsible |
+| [Batteries for Electromobility](https://uppsala.instructure.com/courses/80910) | 1KB276 | Lecturer |
+| [Introduction to Material Synthesis and Characterization](https://uppsala.instructure.com/courses/82184) | 1KB277 | Lecturer |
+| [Materials Syntheses](https://uppsala.instructure.com/courses/88609) | 1KB286 | Lecturer |
+| [Battery Control and Safety](https://uppsala.instructure.com/courses/80723) | 1KB714 | Lecturer |
+| [Synthesis of Battery Materials](https://uppsala.instructure.com/courses/82128) | 1KB729 | Lecturer |
+| [Introduction to Electromobility](https://uppsala.instructure.com/courses/84596) | 1EL003 | Lecturer |
 
 
 <!--
