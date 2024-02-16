@@ -31,16 +31,25 @@ Awards
 * 2022		Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
 * 2017		Chan Tak Kei & Wong Kwai Ying Award for Excellent Research, HKUST
 * 2016		Overseas Research Awards, School of Engineering, HKUST
-* 2012		Sinopoly Battery Scholarship, Sinopoly Battery Research Center, Shanghai
-* 2011		Gold Award, President’s Cup, HKUST
-* 2011		First Runner-up, Mr. Armin and Mrs. Lillian Kitchell Research Award, HKUST
-* 2010		International Exchange Scholarship, University of Minnesota, Twin Cities
   
-Teaching
+Invited talks
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Invited conference talk
+4.	International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).
+3.	European Materials Research Society (E-MRS) Fall Meeting, Warsaw, Poland (18/09/2023).
+2.	Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).
+1.	NanoInnovation Conference, Rome, Italy (21/09/2022)
+
+Invited departmental talk, seminar, workshop
+9.	School of Metallurgy and Environment, Central South University, China (19/10/2023).
+8.	ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).
+7.	Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).
+6.	Battery Pub (14/03/2023, virtual).
+5.	Laboratory “Chimie du Solide et de l’ Énergie”, Collège de France, France (20/12/2022).
+4.	Energy Institute, HKUST, HKSAR (10/11/2022).
+3.	School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).
+2.	School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).
+1.	CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).
   
 Service and leadership
 ======
