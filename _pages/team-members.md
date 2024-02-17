@@ -10,6 +10,12 @@ Current members
 ------
 {% include base_path %}
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
