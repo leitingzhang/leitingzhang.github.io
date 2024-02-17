@@ -17,9 +17,5 @@ My current research interests include
 1. Sustainable and high-energy electrode materials
 1. Advanced operando characterizations, robotics, sensing
 
-
-Contact
-------
-Visiting address: Room Å2348, Lägerhyddsvägen 1, Uppsala University
-
-Postal address: Box 538, 751 21 Uppsala, Sweden
+News
+====
