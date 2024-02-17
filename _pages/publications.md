@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can  find a full list of my publications on my <a href="{{site.author.googlescholar}}"> Google Scholar</a> profile.
+  You can also find a full list of my publications on my <a href="{{site.author.googlescholar}}"> Google Scholar</a> profile.
 {% endif %}
 
 <!-- 
