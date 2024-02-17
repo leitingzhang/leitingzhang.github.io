@@ -23,6 +23,9 @@ main:
     
   # - title: "Guide"
   # url: /markdown/  
+  
+  - title: "Gallery"
+    url: /gallery/
     
   - title: "Contact"
     url: /contact/
