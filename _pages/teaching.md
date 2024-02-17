@@ -24,8 +24,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-
-
-# write table, 
-# write th, 
-# write td { border: none }
