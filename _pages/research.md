@@ -7,7 +7,14 @@ author_profile: true
 
 
 My current research interests include
-1. High-throughput screening of aqueous battery electrolytes
-1. Interfaces and interphases in rechargeable batteries
-1. Sustainable and high-energy electrode materials
-1. Advanced operando characterizations, robotics, sensing
+1. High-throughput robotic screening of aqueous electrolytes
+
+* 
+
+2. Interfaces and interphases in aqueous and non-aqueous batteries
+
+* 
+
+3. Development and application of advanced operando characterizations
+
+* 
