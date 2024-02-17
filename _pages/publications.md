@@ -9,7 +9,7 @@ author_profile: true
   You can  find a full list of my publications on my <a href="{{site.author.googlescholar}}"> Google Scholar</a> profile.
 {% endif %}
 
-# {% include publications %}
+##{% include publications %}
 
 
 
