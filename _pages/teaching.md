@@ -18,6 +18,9 @@ author_profile: true
 | [Synthesis of Battery Materials](https://uppsala.instructure.com/courses/82128) | 1KB729 | Lecturer |
 | [Introduction to Electromobility](https://uppsala.instructure.com/courses/84596) | 1EL003 | Lecturer |
 
+#write table, 
+#write th, 
+#write td { border: none }
 
 <!--
 {% for post in site.teaching reversed %}
