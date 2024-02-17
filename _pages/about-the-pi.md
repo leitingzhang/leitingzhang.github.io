@@ -9,28 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 * B.Eng. (2011), M.Phil. (2014), and Ph.D. (2018) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
 * Ph.D. supervisors: Prof. Guohua Chen, Prof. Jean-Marie Tarascon, Prof. Minhua Shao
 
-## Employment
+# Employment
 * 2023–		Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
 * 2021–2023	Postdoctoral Researcher, Uppsala University (UU), Sweden
 * 2018–2021	Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
-## Grants
+# Grants
 * 2023–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 
-## Awards
+# Awards
 * 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
 * 2016	Overseas Research Awards, School of Engineering, HKUST
   
-## Invited Talks
-### Invited conference talk
+# Invited Talks
+## Invited conference talk
 
 <ol reversed>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
@@ -39,7 +39,7 @@ redirect_from:
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
 
-### Invited departmental lecture, seminar, workshop
+## Invited departmental lecture, seminar, workshop
 
 <ol reversed>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
@@ -56,7 +56,7 @@ redirect_from:
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
   
-## Professional and University Service
+# Professional and University Service
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
