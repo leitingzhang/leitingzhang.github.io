@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-To be updated!
+2024.2.17
+------
+The website is on!
