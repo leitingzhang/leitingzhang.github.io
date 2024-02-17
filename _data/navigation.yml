@@ -2,7 +2,10 @@
 main:
   - title: "Research"
     url: /research/
-      
+
+  - title: "gpublications"
+    url: /gpublications/
+    
   - title: "About the PI"
     url: /About-the-PI/
     
