@@ -30,7 +30,7 @@ redirect_from:
 * 2016	Overseas Research Awards, School of Engineering, HKUST
   
 # Invited Talks
-## Invited conference talk
+### Invited conference talk
 
 <ol reversed>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
@@ -39,7 +39,7 @@ redirect_from:
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
 
-## Invited departmental lecture, seminar, workshop
+### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
