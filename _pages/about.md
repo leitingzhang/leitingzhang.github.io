@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-2024.2.17
+2024.02.17
 ------
-The site is on! Welcome!
+The site is on, welcome!
