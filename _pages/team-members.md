@@ -30,7 +30,7 @@ Alumni
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | Masoud Foroutan Koudahi  | 2023.09–2023.12 | Visiting PhD student | Intercalation mechanism of TiS2 in aqueous batteries |
-| [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) | 2023.01–2023.06 | Master thesis student (w/ Volvo Cars) | Nondestructive acoustic emission monitoring of battery electrodes |
+| Inti Espinoza Ramos | 2023.01–2023.06 | Master thesis student (w/ Volvo Cars) | Operando quantification of Li-plating |
 | Franziska Maria Kühling | 2022.09–2023.01 | Erasmus+ exchange student | Electrochemical characterization of aqueous/organic hybrid electrolytes |
 
 <!--
