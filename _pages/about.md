@@ -9,4 +9,4 @@ redirect_from:
 
 2024.2.17
 ------
-The website is on!
+The site is on! Welcome!
