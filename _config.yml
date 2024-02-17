@@ -20,7 +20,7 @@ repository               : "leitingzhang/leitingzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LZ_profile_pic.jpg"
   name             : "Leiting Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor, Department of Chemistry - Ångström Laboratory"
