@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. (2011), M.Phil. (2014), and Ph.D. (2018) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
-* Collège de France (Ph.D. co-supervision, 2014-2018)
+* Collège de France (Ph.D. co-supervision, 2014–2018)
 * Ph.D. supervisors: Prof. Guohua Chen, Prof. Jean-Marie Tarascon, Prof. Minhua Shao
 
 Employment
