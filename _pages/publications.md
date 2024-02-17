@@ -16,7 +16,7 @@ author_profile: true
 
 
 <ol reversed>
-  <li><strong>L. Zhang*</strong>, F. Kühling, A. M. Mattsson, L. Knijff, X. Hou, G. Ek, T. Dufils, F. Holm Gjørup, I. Kantor, C. Zhang, W. R. Brant, K. Edström, E. J. Berg, Reversible hydration enabling high-rate aqueous Li-ion batteries, <em>ACS Energy Letters</em>, 9 (2024), 959–966. [https://doi.org/10.1021/acsenergylett.4c00224](https://doi.org/10.1021/acsenergylett.4c00224)</li>
+  <li><strong>L. Zhang*</strong>, F. Kühling, A. M. Mattsson, L. Knijff, X. Hou, G. Ek, T. Dufils, F. Holm Gjørup, I. Kantor, C. Zhang, W. R. Brant, K. Edström, E. J. Berg, Reversible hydration enabling high-rate aqueous Li-ion batteries, <em>ACS Energy Letters</em>, 9 (2024), 959–966. <a href="http://doi.org/10.1021/acsenergylett.4c00224">https://doi.org/10.1021/acsenergylett.4c00224</a></li>
   <li>X. Hou, <strong>L. Zhang*</strong>, N. Gogoi, K. Edström, E. J. Berg*, Interfacial chemistry in aqueous lithium-ion batteries: a case study of V2O5 in dilute aqueous electrolytes, <em>Small</em>, (2023) 2308577. (https://doi.org/10.1002/smll.202308577)</li>
   <li>A. Tot, <strong>L. Zhang</strong>, P. H. Svensson, L. Kloo, Tuning of molecular water organization in water-in-salt electrolytes by addition of chaotropic ionic liquids, <em>The Journal of Physical Chemistry C</em>, 127 (2023) 24065–24076. (https://doi.org/10.1021/acs.jpcc.3c07164)</li>
   <li>X. Fu, H. Duan, <strong>L. Zhang</strong>, Y. Hu, Y. Deng, A 3D framework with an in-situ generated Li3N solid electrolyte interphase for superior lithium metal batteries, <em>Advanced Functional Materials</em>, 33 (2023) 2308022. (https://doi.org/10.1002/adfm.202308022)</li>
