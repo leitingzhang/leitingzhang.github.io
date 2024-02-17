@@ -33,6 +33,12 @@ Alumni
 ------
 {% include base_path %}
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | Masoud Foroutan Koudahi  | 2023.09–2023.12 | Visiting PhD student | Intercalation mechanism of TiS2 in aqueous batteries |
