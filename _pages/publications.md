@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You may also find a full list of publications on Dr. Zhang's <a href="{{site.author.googlescholar}}"> Google Scholar</a> profile.
+  You may also find a full list of publications on my <a href="{{site.author.googlescholar}}"> Google Scholar</a> profile.
 {% endif %}
 
 <!-- 
