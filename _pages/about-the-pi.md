@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng.(2011), M.Phil.(2014), and Ph.D.(2018) in Chemical Engineering, The Hong Kong University of Science and Technology
+* B.Eng. (2011), M.Phil. (2014), and Ph.D. (2018) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014-2018)
+* Ph.D. supervisors: Prof. Guohua Chen, Prof. Jean-Marie Tarascon, Prof. Minhua Shao
 
 Employment
 ======
@@ -29,7 +30,7 @@ Grants
 Awards
 ======
 * 2022		Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
-* 2017		Chan Tak Kei & Wong Kwai Ying Award for Excellent Research, HKUST
+* 2017		Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
 * 2016		Overseas Research Awards, School of Engineering, HKUST
   
 Invited Talks
@@ -54,7 +55,7 @@ Invited departmental lecture, seminar, workshop
 Professional and University Service
 ======
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
-* Organized laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
+* Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ 3rd annual meeting at UU (2023)
 * Co-organized the Battery2030+ 1st Young Scientist Event at UU (2022)
