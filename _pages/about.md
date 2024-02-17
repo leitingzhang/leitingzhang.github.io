@@ -11,9 +11,3 @@ redirect_from:
 ------
 The site is on, welcome!
 
-
-<ol reversed>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
