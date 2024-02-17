@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-Current members
-------
+## Current members
 {% include base_path %}
 
 <style>
@@ -29,8 +28,7 @@ td, th {
 {% endfor %}
 -->
 
-Alumni
-------
+## Alumni
 {% include base_path %}
 
 <style>
