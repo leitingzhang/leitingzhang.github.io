@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Dr. Zhang's current research interests include
+My current research interests include
 
 * High-throughput robotic screening of aqueous electrolytes
 
