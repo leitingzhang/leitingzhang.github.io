@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Team members"
+permalink: /team-members/
 author_profile: true
 ---
 
-Research
+Current members
 ------
