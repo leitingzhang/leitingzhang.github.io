@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Jump to: [Work](#Work), [Life](#Life)
+Jump to: [Work](#work), [Life](#life)
 
 
 ## Work
