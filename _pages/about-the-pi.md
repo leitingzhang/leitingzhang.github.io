@@ -44,21 +44,22 @@ Invited conference talk
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
 
-1.	International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).
-1.	European Materials Research Society (E-MRS) Fall Meeting, Warsaw, Poland (18/09/2023).
-1.	Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).
-1.	NanoInnovation Conference, Rome, Italy (21/09/2022)
-
 Invited departmental lecture, seminar, workshop
-1.	School of Metallurgy and Environment, Central South University, China (19/10/2023).
-1.	ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).
-1.	Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).
-1.	Battery Pub (14/03/2023, virtual).
-1.	Laboratory “Chimie du Solide et de l’ Énergie”, Collège de France, France (20/12/2022).
-1.	Energy Institute, HKUST, HKSAR (10/11/2022).
-1.	School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).
-1.	School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).
-1.	CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).
+
+<ol reversed>
+  <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
+  <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
+  <li>Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).</li>
+  <li>Battery Pub (14/03/2023, virtual).</li>
+  <li>Laboratory “Chimie du Solide et de l’ Énergie”, Collège de France, France (20/12/2022).</li>
+  <li>Energy Institute, HKUST, HKSAR (10/11/2022).</li>
+  <li>School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).</li>
+  <li>School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).</li>
+  <li>CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).</li>
+  <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
+  <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
+  <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
+</ol>
   
 Professional and University Service
 ======
