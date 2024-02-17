@@ -29,9 +29,9 @@ Grants
 
 Awards
 ======
-* 2022		Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
-* 2017		Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
-* 2016		Overseas Research Awards, School of Engineering, HKUST
+* 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
+* 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
+* 2016	Overseas Research Awards, School of Engineering, HKUST
   
 Invited Talks
 ======
