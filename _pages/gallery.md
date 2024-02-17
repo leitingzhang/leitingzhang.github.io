@@ -1,9 +1,9 @@
 ---
-title: "Gallery"
-layout: piclay
-excerpt: "Gallery"
 permalink: /gallery/
+title: "Gallery"
+author_profile: true
 ---
+
 
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
