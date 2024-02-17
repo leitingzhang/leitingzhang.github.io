@@ -16,12 +16,12 @@ author_profile: true
 
 
 <ol reversed>
-  <li>L. Zhang*, F. Kühling, A. M. Mattsson, L. Knijff, X. Hou, G. Ek, T. Dufils, F. Holm Gjørup, I. Kantor, C. Zhang, W. R. Brant, K. Edström, E. J. Berg, Reversible hydration enabling high-rate aqueous Li-ion batteries, ACS Energy Letters, 9 (2024), 959–966.</li>
-  <li>X. Hou, L. Zhang*, N. Gogoi, K. Edström, E. J. Berg*, Interfacial chemistry in aqueous lithium-ion batteries: a case study of V2O5 in dilute aqueous electrolytes, Small, (2023) 2308577, https://doi.org/10.1002/smll.202308577.</li>
-  <li>A. Tot, L. Zhang, P. H. Svensson, L. Kloo, Tuning of molecular water organization in water-in-salt electrolytes by addition of chaotropic ionic liquids, The Journal of Physical Chemistry C, 127 (2023) 24065–24076.</li>
-  <li>X. Fu, H. Duan, L. Zhang, Y. Hu, Y. Deng, A 3D framework with an in-situ generated Li3N solid electrolyte interphase for superior lithium metal batteries, Advanced Functional Materials, 33 (2023) 2308022.</li>
-  <li>B. Li, Z. Zhuo, L. Zhang, A. Iadecola, X. Gao, J. Guo, W. Yang, A. V. Morozov, A. M. Abakumov, J. M. Tarascon, Decoupling the roles of Ni and Co in anionic redox activity of Li-rich NMC cathodes, Nature Materials, 22 (2023) 1370–1379.</li>
-  <li>J. T. Yik*, L. Zhang*, J. Sjölund, K. Edström, E. J. Berg, Automated electrolyte formulation and coin cell assembly for high-throughput lithium-ion battery research, Digital Discovery, 2 (2023) 799–808.</li>
+  <li>**L. Zhang***, F. Kühling, A. M. Mattsson, L. Knijff, X. Hou, G. Ek, T. Dufils, F. Holm Gjørup, I. Kantor, C. Zhang, W. R. Brant, K. Edström, E. J. Berg, Reversible hydration enabling high-rate aqueous Li-ion batteries, ACS Energy Letters, 9 (2024), 959–966.</li>
+  <li>X. Hou, **L. Zhang***, N. Gogoi, K. Edström, E. J. Berg*, Interfacial chemistry in aqueous lithium-ion batteries: a case study of V2O5 in dilute aqueous electrolytes, Small, (2023) 2308577, https://doi.org/10.1002/smll.202308577.</li>
+  <li>A. Tot, **L. Zhang**, P. H. Svensson, L. Kloo, Tuning of molecular water organization in water-in-salt electrolytes by addition of chaotropic ionic liquids, The Journal of Physical Chemistry C, 127 (2023) 24065–24076.</li>
+  <li>X. Fu, H. Duan, **L. Zhang**, Y. Hu, Y. Deng, A 3D framework with an in-situ generated Li3N solid electrolyte interphase for superior lithium metal batteries, Advanced Functional Materials, 33 (2023) 2308022.</li>
+  <li>B. Li, Z. Zhuo, **L. Zhang**, A. Iadecola, X. Gao, J. Guo, W. Yang, A. V. Morozov, A. M. Abakumov, J. M. Tarascon, Decoupling the roles of Ni and Co in anionic redox activity of Li-rich NMC cathodes, Nature Materials, 22 (2023) 1370–1379.</li>
+  <li>J. T. Yik*, **L. Zhang***, J. Sjölund, K. Edström, E. J. Berg, Automated electrolyte formulation and coin cell assembly for high-throughput lithium-ion battery research, Digital Discovery, 2 (2023) 799–808.</li>
   <li>A. Tot, L. Zhang, E. J. Berg, P. H. Svensson, L. Kloo, Water-in-salt electrolytes made saltier by Gemini ionic liquids for highly efficient Li-ion batteries, Scientific Reports, 13 (2023) 2154.</li>
   <li>L. Zhang, X. Hou, K. Edström, E. J. Berg, Reactivity of TiS2 anode towards electrolytes in aqueous Li-ion batteries, Batteries & Supercaps, 5 (2022) e202200336.</li>
   <li>L. Li, H. Duan, L. Zhang, Y. Deng, G. Chen, Optimized functional additive enabled stable cathode and anode interfaces for high-voltage all-solid-state lithium batteries with significantly improved cycling performance, Journal of Materials Chemistry A, 10 (2022) 20331–20342.</li>
