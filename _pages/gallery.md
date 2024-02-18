@@ -57,7 +57,7 @@ Jump to: [Work](#work), [Life](#life)
 
 Note.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="30%" >
 </figure>
 
 
@@ -101,6 +101,6 @@ Note.
 
 Note.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="30%" >
 </figure>
 
