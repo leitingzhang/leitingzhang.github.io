@@ -55,9 +55,9 @@ Jump to: [Work](#work), [Life](#life)
 
 <p> &nbsp; </p>
 
-<br>First advertisement.
+Note.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/xxx.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="60%" >
 </figure>
 
 
@@ -99,8 +99,8 @@ Jump to: [Work](#work), [Life](#life)
 
 <p> &nbsp; </p>
 
-<br>First advertisement.
+Note.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/xxx.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="60%" >
 </figure>
 
