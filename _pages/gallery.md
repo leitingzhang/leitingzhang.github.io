@@ -28,7 +28,7 @@ Jump to: [Work](#work), [Life](#life)
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/work/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/work/{{ pic.image }}" class="img-responsive" width="75%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -72,7 +72,7 @@ Note.
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/life/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/life/{{ pic.image }}" class="img-responsive" width="75%" style="float: left" />
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
