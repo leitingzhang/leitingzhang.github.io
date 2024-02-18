@@ -55,7 +55,7 @@ Jump to: [Work](#work), [Life](#life)
 
 <p> &nbsp; </p>
 
-First advertisement.
+<br>First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/xxx.jpg" width="60%" >
 </figure>
@@ -99,7 +99,7 @@ First advertisement.
 
 <p> &nbsp; </p>
 
-First advertisement.
+<br>First advertisement.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/xxx.jpg" width="60%" >
 </figure>
