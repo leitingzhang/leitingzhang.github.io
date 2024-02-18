@@ -57,7 +57,7 @@ Jump to: [Work](#work), [Life](#life)
 
 First advertisement.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/LZ_profile_pic.jpg" width="60%" >
 </figure>
 
 
