@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome to Dr. Leiting Zhang and his research team's website! We are a young and dynamic team, situated at the Ångström Advanced Battery Centre, Uppsala Univeristy. Our ##research vision## is to bridge fundamental understandings of battery components, particularly electrodes, electrolytes, and interphases, with technological and methodological breakthroughs in the production and *operando*/online assessment of high-performance and sustainable batteries. For more details, please refer to [Research][https://leitingzhang.github.io/research/].
+
 #### 2024.02.19
 Leiting gave a Monday Seminar at the Structural Chemistry Program, Uppsala University, discussing proton activities in aqueous batteries. [Twitter](https://x.com/angstromABC/status/1759619242800853058?s=20) [Blog](https://leitingzhang.github.io/posts/2024/02/blog-1/)
 
