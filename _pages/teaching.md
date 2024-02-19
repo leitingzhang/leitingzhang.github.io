@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | Course name | Course code | Role |
 | ----------- | ----------- | ---- |
 | [Rechargeable Batteries](https://uppsala.instructure.com/courses/82141) | 1KB738 | Course responsible |
