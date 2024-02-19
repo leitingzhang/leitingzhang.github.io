@@ -26,7 +26,7 @@ author:
   bio              : "Assistant Professor, Department of Chemistry - Ångström Laboratory"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
-  URI              : "https://katalog.uu.se/profile/?id=N21-45"
+  URI              : # "https://katalog.uu.se/profile/?id=N21-45"
   email            : "leiting.zhang@kemi.uu.se" 
 
   # Academic websites
