@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 #### 2024.02.19
-Leiting gave a Monday Seminar at the Structural Chemistry Program, Uppsala University, discussing proton activities in aqueous batteries. [Link](https://x.com/angstromABC/status/1759619242800853058?s=20)
+Leiting gave a Monday Seminar at the Structural Chemistry Program, Uppsala University, discussing proton activities in aqueous batteries. [Link1](https://x.com/angstromABC/status/1759619242800853058?s=20) [Link2](https://leitingzhang.github.io/posts/2024/02/blog-1/)
 
 #### 2024.02.17
 The site is on, welcome!
