@@ -30,6 +30,9 @@ td, th {
 | <img src="/images/profile1.png" alt="Jackie" style="height: 100px; width:100px;"/> | [Jackie Yik](https://www.katalog.uu.se/profile/?id=N21-1121) <br/> 2021.09– <br/>  PhD student (co-supervisor) <br/> High-throughput screening of aqueous electrolytes |
 | <img src="/images/profile1.png" alt="Caroline" style="height: 100px; width:100px;"/> | [Caroline Albert](https://www.katalog.uu.se/profile/?id=N22-2331) <br/> 2024.01– <br/>  Master thesis student (w/ Volvo Cars) <br/> Characterization of cylindrical Li-ion cells of 46-series |
 
+
+| <img src="/images/profile1.png" alt="Ziyin" style="height: 100px; width:100px;"/> | [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) <br/> 2023.10– <br/>  PhD student (main supervisor) <br/> Interfacial reactivities in aqueous batteries |
+
 <!--
 {% for post in site.team-members reversed %}
   {% include archive-single.html %}
