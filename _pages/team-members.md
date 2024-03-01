@@ -15,10 +15,6 @@ td, th {
 }
 </style>
 
-/* Center 1st column */
-table td:nth-child(1) {
-    text-align: center;
-}
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
