@@ -8,6 +8,12 @@ author_profile: true
 
 ## Current members
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 | <img src="/images/profile1.png" alt="Ziyin" style="height: 100px; width:100px;"/> | [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) <br/> 2023.10– <br/>  PhD student (main supervisor) <br/> Interfacial reactivities in aqueous batteries |
 | <img src="/images/profile1.png" alt="Inti" style="height: 100px; width:100px;"/> | [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) <br/> 2023.09– <br/> PhD student (main supervisor) <br/> Nondestructive acoustic emission monitoring of battery electrodes |
 | <img src="/images/profile1.png" alt="Jackie" style="height: 100px; width:100px;"/> | [Jackie Yik](https://www.katalog.uu.se/profile/?id=N21-1121) <br/> 2021.09– <br/>  PhD student (co-supervisor) <br/> High-throughput screening of aqueous electrolytes |
