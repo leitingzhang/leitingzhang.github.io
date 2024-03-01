@@ -17,10 +17,10 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
-| [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive acoustic emission monitoring of battery electrodes |
-| [Jackie Yik](https://www.katalog.uu.se/profile/?id=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |
-| [Caroline Albert](https://www.katalog.uu.se/profile/?id=N22-2331) | 2024.01– |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
+| <img src="/images/bio-photo.jpg" alt="Ziyin" style="height: 150px; width:150px;"/> <br/> [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
+| <img src="/images/bio-photo.jpg" alt="Inti" style="height: 150px; width:150px;"/> <br/> [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive acoustic emission monitoring of battery electrodes |
+| <img src="/images/bio-photo.jpg" alt="Jackie" style="height: 150px; width:150px;"/> <br/> [Jackie Yik](https://www.katalog.uu.se/profile/?id=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |
+| <img src="/images/bio-photo.jpg" alt="Caroline" style="height: 150px; width:150px;"/> <br/> [Caroline Albert](https://www.katalog.uu.se/profile/?id=N22-2331) | 2024.01– |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
 
 <!--
 {% for post in site.team-members reversed %}
