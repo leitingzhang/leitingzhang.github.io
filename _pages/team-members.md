@@ -23,10 +23,6 @@ td, th {
 | <img src="/images/profile1.png" alt="Caroline" style="height: 100px; width:100px;"/> <br/> [Caroline Albert](https://www.katalog.uu.se/profile/?id=N22-2331) | 2024.01– |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
 
 
-tr td:nth-child(1) {
-  text-align: center;
-}
-
 ## Alumni
 {% include base_path %}
 
