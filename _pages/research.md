@@ -12,5 +12,7 @@ My current research interests include
 
 * Interfaces and interphases in aqueous and non-aqueous batteries
 
-* Development and application of advanced operando characterizations
+* Study of ageing mechanism in commercial battery cells
+
+* Development and application of advanced _operando_ characterizations
  
