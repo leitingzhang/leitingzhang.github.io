@@ -15,8 +15,6 @@ td, th {
 }
 </style>
 
-td:nth-child(1) { text-align: center; }
-
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | <img src="/images/profile1.png" alt="Ziyin" style="height: 100px; width:100px;"/> <br/> [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
