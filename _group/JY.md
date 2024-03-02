@@ -1,7 +1,7 @@
 ---
 firstname: "Jackie"
 lastname: "Yik"
-collection: group
+collection: team-members
 role: "PhD student (co-supervisor)"
 project: "High-throughput robotic screening of aqueous electrolytes"
 startdate: "2021.09"
