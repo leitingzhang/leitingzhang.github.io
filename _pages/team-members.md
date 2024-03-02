@@ -10,9 +10,7 @@ author_profile: true
 
 {% assign sortedGroup = site.group | sort: 'lastname' %}
 
-{% for post in sortedGroup %}
-  {% include group-single.html %}
-{% endfor %}
+
 
 
 ---
