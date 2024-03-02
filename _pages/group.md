@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Current team members"
-permalink: /group/
-author: leitingzhang
+title: "Team members"
+permalink: /team-members/
 author_profile: true
 ---
+
 
 <img src="{{ site.baseurl }}/group/group2022.JPG" alt="Group, Spring 2022">
 
