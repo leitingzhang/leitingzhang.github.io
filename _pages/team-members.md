@@ -7,14 +7,6 @@ author_profile: true
 
 
 
-{% include base_path %}
-
-{% assign sortedGroup = site.group | sort: 'lastname' %}
-
-{% for post in sortedGroup %}
-  {% include group-single.html %}
-{% endfor %}
-
 ---
 Interested in joining the team? Please reach out to [Leiting](mailto:leiting.zhang@kemi.uu.se) or any group member to learn more.
 
