@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Current Meldrum Lab people"
+title: "Team members"
 permalink: /team-members/
-author: meldrumlab
 author_profile: true
 ---
 
-
-<img src="{{ site.baseurl }}/group/group2022.JPG" alt="Group, Spring 2022">
 
 
 {% include base_path %}
