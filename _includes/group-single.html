@@ -1,10 +1,4 @@
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
-
 <div class="group__item">
 
   {% if post.image %}
@@ -22,22 +16,6 @@
 
     <div class="group__item-subtitle1">
       {{ post.role }}
-    </div>
-
-    <div class="group__item-subtitle2">
-      {{ post.project }}
-    </div>
-    
-    <div class="group__item-subtitle3">
-      {{ post.startdate }}
-    </div>
-
-    <div class="group__item-subtitle4">
-      {{ post.previousdegree }}
-    </div>
-
-    <div class="group__item-subtitle5">
-      {{ post.hometown }}
     </div>
     
   </div>
