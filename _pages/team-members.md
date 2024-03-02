@@ -8,9 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sortedGroup = site.group | sort: 'lastname' %}
-
-
 
 
 ---
