@@ -28,37 +28,20 @@
     </div>
 
     <div class="group__item-subtitle1">
-      {{ post.degreedate }}
+      {{ post.role }}
     </div>
 
     <div class="group__item-subtitle2">
+      {{ post.project }}
+    </div>
+
+    <div class="group__item-subtitle3">
+      {{ post.previousdegree }}
+    </div>
+
+    <div class="group__item-subtitle4">
       {{ post.hometown }}
     </div>
-
-    <div class="group__item-excerpt">
-      {% if post.coffee %}
-        <p>Coffee order: {{ post.coffee }}</p>
-      {% elsif post.icecream %}
-        <p>Favorite ice cream: {{ post.icecream }}</p>
-      {% endif %}
-
-      {% if post.charater %}
-        <p>Most relatable TV character: {{ post.character }}</p>
-      {% elsif post.animal %}
-        <p>Favorite animal: {{ post.animal }}</p>
-      {% endif %}
-
-      {% if post.job %}
-        <p>Dream job: {{ post.job }}</p>
-      {% endif %}
-
-      {% if post.bestpart %}
-        <p>Best part of working in the Meldrum Lab: {{ post.bestpart }}</p>
-      {% endif %}
-
-      {% if post.rightnow %}
-        <p>Current projects: {{ post.rightnow }}</p>
-      {% endif %}
-    </div>
+    
   </div>
 </div>
