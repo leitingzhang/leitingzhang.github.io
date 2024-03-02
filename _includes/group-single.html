@@ -12,16 +12,4 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="group__item">
 
-  <div class="group__item-content">
-    <div class="group__item-title">
-      {% if post.personalurl %}
-        <a href="{{ post.personalurl }}" rel="permalink">{{ post.firstname }} {{ post.lastname }}</a>
-      {% else %}
-        {{ post.firstname }} {{ post.lastname }}
-      {% endif %}
-    </div>
-    
-  </div>
-</div>
