@@ -18,7 +18,7 @@ author_profile: true
 {% endfor %}
 
 ---
-Interested in joining the Meldrum lab? Please reach out to [Tyler](mailto:tkmeldrum@wm.edu) or any group member to learn more. Importantly, you do *not* need to have a background in magnets, materials, or NMR to join and learn with the group.
+Interested in joining the team? Please reach out to [Leiting](mailto:leiting.zhang@kemi.uu.se) or any group member to learn more.
 
 
 ---
