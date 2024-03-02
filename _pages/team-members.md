@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: "Team members"
+title: "Current Meldrum Lab people"
 permalink: /team-members/
+author: meldrumlab
 author_profile: true
 ---
 
