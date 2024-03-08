@@ -1,7 +1,6 @@
 ---
 permalink: /gallery/
 title: "Gallery"
-layout: archive
 author_profile: true
 ---
 
