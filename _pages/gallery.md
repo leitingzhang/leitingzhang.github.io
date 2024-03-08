@@ -56,6 +56,7 @@ Jump to: [Work](#work), [Life](#life)
 <p> &nbsp; </p>
 
 
+
 ## Life
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures_life %}
