@@ -55,11 +55,6 @@ Jump to: [Work](#work), [Life](#life)
 
 <p> &nbsp; </p>
 
-Note.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="30%" >
-</figure>
-
 
 ## Life
 {% assign number_printed = 0 %}
@@ -99,8 +94,4 @@ Note.
 
 <p> &nbsp; </p>
 
-Note.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/profile.png" width="30%" >
-</figure>
 
