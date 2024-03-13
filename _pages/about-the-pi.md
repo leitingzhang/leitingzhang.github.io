@@ -15,9 +15,9 @@ redirect_from:
 * Ph.D. supervisors: [Prof. Guohua Chen](https://scholars.cityu.edu.hk/en/persons/guohua-chen(4e987cda-3a4a-45d7-990d-26d3dfb839ba).html), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
 
 ## Employment
-* 2023–		Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
-* 2021–2023	Postdoctoral Researcher, Uppsala University (UU), Sweden
-* 2018–2021	Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
+* 2023.6–		Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
+* 2021.5–2023.5	Postdoctoral Researcher, Uppsala University (UU), Sweden
+* 2018.5–2021.4	Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
 * 2023–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
