@@ -60,8 +60,8 @@ redirect_from:
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
-* Co-organized the Battery2030+ 3rd annual meeting at UU (2023)
-* Co-organized the Battery2030+ 1st Young Scientist Event at UU (2022)
-* Co-organized the Asian Pacific Confederation of Chemical Engineering, Hong Kong (2017)
-* Co-organized the International Advanced Electrochemical Energy Symposium, Hong Kong (2011)
+* Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
+* Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
+* Co-organized the Asian Pacific Confederation of Chemical Engineering, Hong Kong (2017.8)
+* Co-organized the International Advanced Electrochemical Energy Symposium, Hong Kong (2011.12)
 
