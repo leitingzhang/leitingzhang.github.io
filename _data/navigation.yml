@@ -12,8 +12,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Funding"
-    url: /funding/
+  # - title: "Funding"
+  # url: /funding/
 
   - title: "Teaching"
     url: /teaching/    
