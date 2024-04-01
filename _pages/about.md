@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Welcome"
 author_profile: true
 redirect_from: 
