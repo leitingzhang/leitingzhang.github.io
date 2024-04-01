@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.funding reversed %}
-  {% include archive-single.html %}
+  {% include archive.html %}
 {% endfor %}
