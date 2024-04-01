@@ -2,7 +2,6 @@
 layout: archive
 title: "Funding"
 permalink: /funding/
-author: meldrumlab
 author_profile: true
 ---
 
