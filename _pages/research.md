@@ -27,7 +27,7 @@ Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant
 
 ### References:
 
-1. __Zhang, L.*__; Kühling, F.; Mattsson, A. M.; Knijff, L.; Hou, X.; Ek, G.; Dufils, T.; Holm Gjørup, F.; Kantor, I.; Zhang, C.; Brant, W. R.; Edström, K.; Berg, E. J. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
+1. <strong>Zhang, L.*</strong>; Kühling, F.; Mattsson, A. M.; Knijff, L.; Hou, X.; Ek, G.; Dufils, T.; Holm Gjørup, F.; Kantor, I.; Zhang, C.; Brant, W. R.; Edström, K.; Berg, E. J. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
 2. Hou, X.; __Zhang L.*__, Gogoi, N.; Edström, K.; Berg E. J.* [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
 3. __Zhang, L.__; Hou, X.; Edström, K.; Berg, E. J. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
 
