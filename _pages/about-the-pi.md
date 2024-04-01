@@ -24,6 +24,11 @@ redirect_from:
 * 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 
+## Beamtime
+* 2023  18 shifts at the DanMAX beamline, #20230319, MAX IV Laboratory, Sweden
+* 2017  15 shifts at the ROACK beamline, #20170157, Synchrotron SOLEIL, France
+* 2917  0.5 shifts at the 11-ID-B beamline, #RA-GUP-54483, Advanced Photon Source, USA
+
 ## Awards
 * 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
@@ -33,6 +38,7 @@ redirect_from:
 ### Invited conference talk
 
 <ol reversed>
+  <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
   <li>European Materials Research Society (E-MRS) Fall Meeting, Warsaw, Poland (18/09/2023).</li>
   <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
@@ -42,6 +48,7 @@ redirect_from:
 ### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
+  <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/94/2024).</li>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
   <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
   <li>Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).</li>
