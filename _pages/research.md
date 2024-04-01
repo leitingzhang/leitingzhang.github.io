@@ -35,14 +35,14 @@ Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant
 
 To investigate the battery performance degradation, researchers typically need to stop the cell, extract and prepare electrodes and electrolytes for *ex situ* analysis. However, such conditions typically distort the actual working environment of the sample under study. In contrast, *operando* techniques allow for continuous analysis without interrupting the cell, providing a more authentic understanding of transient changes occurring inside functioning batteries in real-time.
 
+I possess extensive experience in developing *operando* techniques, including online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), online acoustic emission testing (AE, for mechanical degradation), and *operando* pH monitoring (for acid-base reaction) [1-3].
+
 <figure>
   <a href="/images/respic/Operando.png">
   <img src="/images/respic/Operando.png" alt = "Operando" />
     </a>
   <figcaption>Complementary <em>operando</em> methods to study batteries</figcaption>
 </figure>
-
-I possess extensive experience in developing *operando* techniques, including online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), online acoustic emission testing (AE, for mechanical degradation), and *operando* pH monitoring (for acid-base reaction) [1-3].
 
 Collaborators include [Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/) (Collège de France) and [Qi Zhao](https://qzucb.github.io/index.html) (Hong Kong PolyU).
 
@@ -56,14 +56,14 @@ Collaborators include [Jean-Marie Tarascon](https://solid-state-chemistry-energy
 
 The integration of data-driven experimentation represents a significant advancement in battery research, substantially expediting progress by closing the experimentation–analysis loop. In contrast to the traditional manual screening of electrodes and electrolytes, automated processes hold the promise of improving both testing efficiency and reproducibility. 
 
+At UU, we have pioneered the development of ODACell, an automated platform for electrolyte formulation preparation and coin cell assembly, equipped with three robotic arms and a liquid-handling robot [1]. Our investigations demonstrate that cells assembled by the robots exhibit exceptional reproducibility and consistency. Presently, we are implementing Bayesian optimization to systematically screen additives for high-performance and low-cost aqueous Li-ion batteries. 
+
 <figure>
   <a href="/images/respic/ODACell.png">
   <img src="/images/respic/ODACell.png" alt = "ODACell" />
     </a>
   <figcaption>The ODACell platform for high-throughput battery research</figcaption>
 </figure>
-
-At UU, we have pioneered the development of ODACell, an automated platform for electrolyte formulation preparation and coin cell assembly, equipped with three robotic arms and a liquid-handling robot [1]. Our investigations demonstrate that cells assembled by the robots exhibit exceptional reproducibility and consistency. Presently, we are implementing Bayesian optimization to systematically screen additives for high-performance and low-cost aqueous Li-ion batteries. 
 
 Collaborators include [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Jens Sjölund](https://jsjol.github.io/) (Uppsala University).
 
