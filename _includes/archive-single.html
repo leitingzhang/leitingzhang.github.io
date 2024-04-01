@@ -31,25 +31,12 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}
-        {% if post.paperurl %}
-          {{ post.pubind }}. <a href="{{ post.paperurl }}" rel="permalink">{{ title }}</a>
-        {% else %}
-          {{ post.pubind }}. {{ title }}
-        {% endif %}
-
-      {% elsif post.collection == 'funding' %}
+      {% if post.collection == 'funding' %}
         {% if post.fundingurl %}
           <a href="{{ post.fundingurl }}" rel="permalink">{{ title }}</a>
         {% else %}
           {{ title }}
         {% endif %}
-
-      {% elsif post.collection == 'teaching' and post.permalink %}
-        <a href="{{ post.permalink }}">{{ title }}</a> <a href="{{ base_path }}{{ post.permalink }}" rel="permalink"></a>
-
-      {% else %}
-        {{ title }}
 
       {% endif %}
     </h2>
@@ -58,47 +45,7 @@
 
 
 
-
-    {% if post.collection == 'teaching' %}
-      {% if post.permalink %}
-        <div class="archive__item-excerpt">
-          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i>
-          {% if post.blurb %}
-            <p><i>{{ post.blurb }}</i></p>
-          {% endif %}
-        </div>
-      {% else %}
-        <div class="archive__item-smallexcerpt">
-          <b>{{ post.courseID }},</b> <i>{{ post.years }}</i>
-          {% if post.excerpt and site.read_more != 'enabled' %}
-            {{ post.excerpt | markdownify }}
-          {% elsif post.excerpt and site.read_more == 'enabled' %}
-            {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-          {% endif %}
-        </div>
-    {% endif %}
-
-
-    {% elsif post.collection == 'outreach' %}
-      <div class="archive__item-excerpt">
-        <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</time></i>
-
-        {% if post.read %}
-          <h4 class="archive__item-title">Read {{ post.read }}</h4>
-        {% endif %}
-
-        {% if post.craft %}
-          <h4 class="archive__item-title">Craft: {{ post.craft }}</h4>
-        {% endif %}
-
-        {% if post.excerpt and site.read_more != 'enabled' %}
-          {{ post.excerpt | markdownify }}
-        {% elsif post.excerpt and site.read_more == 'enabled' %}
-          {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        {% endif %}
-      </div>
-
-    {% elsif post.collection == 'funding' %}
+    {% if post.collection == 'funding' %}
       <div class="archive__item-excerpt">
         {% if post.enddate %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong> <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%Y" }}</time>–<time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.enddate | default: "1900-01-01" | date: "%Y" }}</time></i></p>
@@ -113,20 +60,6 @@
         {% endif %}
       </div>
 
-    {% elsif post.date and post.collection != "publications" %}
-      <div class="archive__item-excerpt">
-        <i><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></i>
-        {% if post.excerpt and site.read_more != 'enabled' %}
-          {{ post.excerpt | markdownify }}
-        {% elsif post.excerpt and site.read_more == 'enabled' %}
-          {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        {% endif %}
-      </div>
-    {% endif %}
-
-    {% if post.citation %}
-      <p>{{ post.citation }}</p>
-    {% endif %}
 
   </article>
 </div>
