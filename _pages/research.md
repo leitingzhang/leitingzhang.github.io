@@ -49,7 +49,7 @@ Collaborators include [Jean-Marie Tarascon](https://solid-state-chemistry-energy
 ### References:
 
 1. Li et al. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). *Nat. Mater.* **2023**, *22* (11), 1370–1379.
-2. Zhang et al. [Elucidating the Humidity-Induced Degradation of Ni-Rich Layered Cathodes for Li-Ion Batteries]*(https://doi.org/10.1021/acsami.1c23128). *ACS Appl. Mater. Interfaces* **2022**, *14* (11), 13240–13249.
+2. Zhang et al. [Elucidating the Humidity-Induced Degradation of Ni-Rich Layered Cathodes for Li-Ion Batteries](https://doi.org/10.1021/acsami.1c23128). *ACS Appl. Mater. Interfaces* **2022**, *14* (11), 13240–13249.
 3. Zhang et al. [Unraveling Gas Evolution in Sodium Batteries by Online Electrochemical Mass Spectrometry](https://doi.org/10.1016/j.ensm.2021.07.005). *Energy Storage Mater.* **2021**, *42*, 12–21.
 
 ## High-throughput robotic screening of aqueous electrolytes
