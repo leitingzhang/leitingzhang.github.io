@@ -25,9 +25,9 @@ redirect_from:
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 
 ## Beamtime
-* 2023  18 shifts at the DanMAX beamline, #20230319, MAX IV Laboratory, Sweden
-* 2017  15 shifts at the ROACK beamline, #20170157, Synchrotron SOLEIL, France
-* 2917  0.5 shifts at the 11-ID-B beamline, #RA-GUP-54483, Advanced Photon Source, USA
+* 2023  18-shift at the DanMAX beamline, #20230319, MAX IV Laboratory, Sweden
+* 2017  15-shift at the ROACK beamline, #20170157, Synchrotron SOLEIL, France
+* 2917  0.5-shift at the 11-ID-B beamline, #RA-GUP-54483, Advanced Photon Source, USA
 
 ## Awards
 * 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
