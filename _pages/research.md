@@ -44,7 +44,7 @@ I possess extensive experience in developing *operando* techniques, including on
   <figcaption>Complementary <em>operando</em> methods to study batteries</figcaption>
 </figure>
 
-Collaborators include [Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/) (Collège de France) and [Qi Zhao](https://qzucb.github.io/index.html) (Hong Kong PolyU).
+Collaborators include [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N11-620) (Volvo Cars), [Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/) (Collège de France) and [Qi Zhao](https://qzucb.github.io/index.html) (HK PolyU).
 
 ### References:
 
