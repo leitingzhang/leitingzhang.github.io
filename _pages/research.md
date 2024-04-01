@@ -39,7 +39,7 @@ To investigate the battery performance degradation, researchers typically need t
   <a href="/images/respic/Operando.png">
   <img src="/images/respic/Operando.png" alt = "Operando" />
     </a>
-  <figcaption>Complementary operando methods to study batteries</figcaption>
+  <figcaption>Complementary <em>operando</em> methods to study batteries</figcaption>
 </figure>
 
 I possess extensive experience in developing *operando* techniques, including online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), online acoustic emission testing (AE, for mechanical degradation), and *operando* pH monitoring (for acid-base reaction) [1-3].
