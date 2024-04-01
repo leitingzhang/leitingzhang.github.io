@@ -27,9 +27,9 @@ Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant
 
 ### References:
 
-1. <strong>Zhang, L.*</strong>; Kühling, F.; Mattsson, A. M.; Knijff, L.; Hou, X.; Ek, G.; Dufils, T.; Holm Gjørup, F.; Kantor, I.; Zhang, C.; Brant, W. R.; Edström, K.; Berg, E. J. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
-2. Hou, X.; __Zhang L.*__, Gogoi, N.; Edström, K.; Berg E. J.* [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
-3. __Zhang, L.__; Hou, X.; Edström, K.; Berg, E. J. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
+1. Zhang et al. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
+2. Hou et al. [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
+3. Zhang et al. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
 
 ## Development and application of advanced *operando* characterizations
 
@@ -48,9 +48,9 @@ Collaborators include [Jean-Marie Tarascon](https://solid-state-chemistry-energy
 
 ### References:
 
-1. Li, B.; Zhuo, Z.; __Zhang, L.__; Iadecola, A.; Gao, X.; Guo, J.; Yang, W.; Morozov, A. V.; Abakumov, A. M.; Tarascon, J. M. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). *Nat. Mater.* **2023**, *22* (11), 1370–1379.
-2. __Zhang, L.*__; Müller Gubler, E. A.; Tai, C.-W.; Kondracki, Ł.; Sommer, H.; Novák, P.; El Kazzi, M.; Trabesinger, S.* [Elucidating the Humidity-Induced Degradation of Ni-Rich Layered Cathodes for Li-Ion Batteries]*(https://doi.org/10.1021/acsami.1c23128). *ACS Appl. Mater. Interfaces* **2022**, *14* (11), 13240–13249.
-3. __Zhang, L.*__; Tsolakidou, C.; Mariyappan, S.; Tarascon, J. M.; Trabesinger, S.* [Unraveling Gas Evolution in Sodium Batteries by Online Electrochemical Mass Spectrometry](https://doi.org/10.1016/j.ensm.2021.07.005). *Energy Storage Mater.* **2021**, *42*, 12–21.
+1. Li et al. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). *Nat. Mater.* **2023**, *22* (11), 1370–1379.
+2. Zhang et al. [Elucidating the Humidity-Induced Degradation of Ni-Rich Layered Cathodes for Li-Ion Batteries]*(https://doi.org/10.1021/acsami.1c23128). *ACS Appl. Mater. Interfaces* **2022**, *14* (11), 13240–13249.
+3. Zhang et al. [Unraveling Gas Evolution in Sodium Batteries by Online Electrochemical Mass Spectrometry](https://doi.org/10.1016/j.ensm.2021.07.005). *Energy Storage Mater.* **2021**, *42*, 12–21.
 
 ## High-throughput robotic screening of aqueous electrolytes
 
@@ -69,4 +69,4 @@ Collaborators include [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) 
 
 ### References:
 
-1. Yik J. T.* ; __Zhang, L.*__; Sjölund, J.; Edström, K.; Berg, E. J. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
+1. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
