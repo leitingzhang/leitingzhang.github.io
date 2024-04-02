@@ -14,7 +14,7 @@ My current research has three themes.
 
 Aqueous batteries emerge as attractive alternatives for large-scale energy storage by offering several advantages, such as non-flammability, cost-effectiveness, and environmental benignity. However, a notable drawback of aqueous electrolytes is the limited battery cell voltage. The narrow electrochemical stability window of water (1.23 V) triggers hydrogen evolution reaction and oxygen evolution reaction during battery overcharging. Unlike some organic electrolytes, water does not form stabilizing electrode passivation layers and rapid battery failure is often observed.
 
-My research team conducts physicochemical and electrochemical testing to elucidate the working mechanisms of model electrodes, such as layered oxide (vanadium pentoxide, V<sub>2</sub>O<sub>5</sub>) and layered sulfide (titanium disulfide, TiS<sub>2</sub>), in sustainable aqueous alkali-ion batteries utilizing dilute electrolytes [1-3]. 
+My research team conducts physicochemical and electrochemical testing to elucidate the working mechanisms of model electrodes, such as layered oxide (vanadium pentoxide, V<sub>2</sub>O<sub>5</sub>) and layered sulfide (titanium disulfide, TiS<sub>2</sub>), in sustainable aqueous alkali-ion batteries with dilute electrolytes [1-3]. 
 
 <figure>
   <a href="/images/respic/ALiB.png">
@@ -23,7 +23,7 @@ My research team conducts physicochemical and electrochemical testing to elucida
   <figcaption>Proposed reaction mechanisms in (a) TiS<sub>2</sub>-based and (b) V<sub>2</sub>O<sub>5</sub>-based aqueous batteries</figcaption>
 </figure>
 
-Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant](https://www.katalog.uu.se/profile/?id=N15-843) (Uppsala University), and [MAX IV Laboraotry](https://www.maxiv.lu.se/) (Sweden).
+Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant](https://www.katalog.uu.se/profile/?id=N15-843) (Uppsala University), and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
 
 ### References:
 
