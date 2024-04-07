@@ -23,7 +23,7 @@ My research team conducts physicochemical and electrochemical testing to elucida
   <figcaption>Proposed reaction mechanisms in (a) TiS<sub>2</sub>-based and (b) V<sub>2</sub>O<sub>5</sub>-based aqueous batteries</figcaption>
 </figure>
 
-Collaborators include [Chao Zhang](https://tec-group.github.io/), [William Brant](https://www.katalog.uu.se/profile/?id=N15-843) (Uppsala University), and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
+Collaborators: [Chao Zhang](https://tec-group.github.io/), [William Brant](https://www.katalog.uu.se/profile/?id=N15-843) (Uppsala University), and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
 
 ### References:
 
@@ -44,7 +44,7 @@ I possess extensive experience in developing *operando* techniques, including on
   <figcaption>Complementary <em>operando</em> methods to study batteries</figcaption>
 </figure>
 
-Collaborators include [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N11-620) (Volvo Cars), [Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/) (Collège de France) and [Qi Zhao](https://qzucb.github.io/index.html) (HK PolyU).
+Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N11-620) (Volvo Cars), [Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/) (Collège de France), and [Qi Zhao](https://qzucb.github.io/index.html) (HK PolyU).
 
 ### References:
 
@@ -65,7 +65,7 @@ At UU, we have pioneered the development of ODACell, an automated platform for e
   <figcaption>The ODACell platform for high-throughput battery research</figcaption>
 </figure>
 
-Collaborators include [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Jens Sjölund](https://jsjol.github.io/) (Uppsala University).
+Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Jens Sjölund](https://jsjol.github.io/) (Uppsala University).
 
 ### References:
 
