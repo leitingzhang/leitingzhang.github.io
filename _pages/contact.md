@@ -1,11 +1,14 @@
 ---
 layout: archive
-title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
+## Opening
 
+If
+
+## Contact
 
 E-mail: [leiting.zhang@kemi.uu.se](mailto:leiting.zhang@kemi.uu.se)
 
