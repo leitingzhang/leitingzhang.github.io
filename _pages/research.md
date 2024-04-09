@@ -8,13 +8,13 @@ author_profile: true
 
 {% include base_path %}
 
-My current research has three main themes.
+Our current research has three main themes.
 
 ## Mechanistic understanding of sustainable aqueous batteries
 
 Aqueous batteries emerge as attractive alternatives for large-scale energy storage by offering several advantages, such as non-flammability, cost-effectiveness, and environmental benignity. However, a notable drawback of aqueous electrolytes is the limited battery cell voltage. The narrow electrochemical stability window of water (1.23 V) triggers hydrogen evolution reaction and oxygen evolution reaction during battery overcharging. Unlike some organic electrolytes, water does not form electrode passivation layers and rapid battery failure is often observed.
 
-My research team conducts physicochemical and electrochemical testing to elucidate the working mechanisms of model electrodes, such as layered oxide (e.g., vanadium pentoxide, V<sub>2</sub>O<sub>5</sub>) and layered sulfide (e.g., titanium disulfide, TiS<sub>2</sub>), in sustainable aqueous alkali-ion batteries with dilute electrolytes [1-3]. 
+Our research team conducts physicochemical and electrochemical testing to elucidate the working mechanisms of model electrodes, such as layered oxide (e.g., vanadium pentoxide, V<sub>2</sub>O<sub>5</sub>) and layered sulfide (e.g., titanium disulfide, TiS<sub>2</sub>), in sustainable aqueous alkali-ion batteries with dilute electrolytes [1-3]. 
 
 <figure>
   <a href="/images/respic/ALiB.png">
@@ -35,7 +35,7 @@ Collaborators: [Chao Zhang](https://tec-group.github.io/), [William Brant](https
 
 To investigate the battery performance degradation, researchers typically need to stop the cell, extract and prepare electrodes and/or electrolytes for *ex situ* analysis. However, such conditions typically distort the actual working environment of the sample under study. In contrast, *operando* techniques allow for continuous analysis without interrupting the cell, providing a more authentic understanding of transient changes occurring inside functioning batteries in real-time.
 
-I possess extensive experience in developing *operando* techniques, including online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), online acoustic emission testing (AE, for mechanical degradation), and *operando* pH monitoring (for acid-base reaction) [1-3].
+We possess extensive experience in developing *operando* techniques, including online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), online acoustic emission testing (AE, for mechanical degradation), and *operando* pH monitoring (for acid-base reaction) [1-3].
 
 <figure>
   <a href="/images/respic/Operando.png">
