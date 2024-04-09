@@ -34,7 +34,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| Masoud Foroutan Koudahi  | 2023.09–2023.12 | Visiting PhD student | Intercalation mechanism of TiS<sub>2</sub> in aqueous batteries |
+| Masoud Foroutan Koudahi  | 2023.09–2023.12 | Visiting PhD student | Electrochemical testing of aqueous/organic hybrid electrolytes |
 | Inti Espinoza Ramos | 2023.01–2023.06 | Master thesis student (w/ Volvo Cars) | <em>Operando</em> quantification of Li-plating |
-| Franziska Maria Kühling | 2022.09–2023.01 | Erasmus+ exchange student | Electrochemical characterization of aqueous/organic hybrid electrolytes |
+| Franziska Maria Kühling | 2022.09–2023.01 | Erasmus+ exchange student | Intercalation mechanism of TiS<sub>2</sub> in aqueous batteries |
 
