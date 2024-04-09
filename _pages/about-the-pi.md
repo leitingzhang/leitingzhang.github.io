@@ -20,13 +20,13 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2023–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
+* 2024–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 
 ## Beamtime
 * 2023  DanMAX beamline (18 shifts), #20230319, MAX IV Laboratory, Sweden
-* 2017  ROACK beamline (15 shifts), #20170157, Synchrotron SOLEIL, France
+* 2017  ROCK beamline (15 shifts), #20170157, Synchrotron SOLEIL, France
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
 
 ## Awards
@@ -48,7 +48,7 @@ redirect_from:
 ### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
-  <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/94/2024).</li>
+  <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
   <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
   <li>Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).</li>
@@ -58,7 +58,6 @@ redirect_from:
   <li>School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).</li>
   <li>School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).</li>
   <li>CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).</li>
-  <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
   <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
