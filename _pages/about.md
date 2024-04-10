@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.04.10
-Our recent paper, titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries*, is highlighted on Chinese social media platform "AqueousEnergyStorage". [Link](https://mp.weixin.qq.com/s/cAjI2nMm_881vVT5-RGfOA)
+Our recent paper, titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries*, is highlighted on the social media platform "AqueousEnergyStorage" (in Chinese). [Link](https://mp.weixin.qq.com/s/cAjI2nMm_881vVT5-RGfOA)
 
 ### 2024.04.03
 Leiting gave a presentation on acoustic emission monitoring of battery degradation at the Battery Sweden (BASE) annual meeting in Uppsala. [Tweet](https://twitter.com/LeitingZhang/status/1775583701729943954)
