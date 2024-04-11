@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.04.11
-Jackie received travel scholarships from the C.F. Liljewalchs stipendiestiftelse and the ÅForsk Foundation to attend the IMLB meeting in Hong Kong in June 2024. Congratulations, Jackie!
+Jackie received travel scholarships from the [C.F. Liljewalchs stipendiestiftelse](https://stiftelsemedel.se/c-f-liljewalchs-stipendiestiftelse/) and the [ÅForsk Foundation](https://aforsk.com/en) to attend the IMLB meeting in Hong Kong in June 2024. Congratulations, Jackie!
 
 ### 2024.04.10
 Our recent paper, titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries*, is highlighted on the social media platform "AqueousEnergyStorage" (in Chinese). [Link](https://mp.weixin.qq.com/s/cAjI2nMm_881vVT5-RGfOA)
