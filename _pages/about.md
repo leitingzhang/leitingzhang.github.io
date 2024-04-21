@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.04.15
+Leiting represented Battery 2030+ to participate in the Transport Research Arena conference (TRA2024) in Dublin, Ireland. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7185551231694630912/)
+
 ### 2024.04.11
 Jackie received travel scholarships from the [C.F. Liljewalchs stipendiestiftelse](https://stiftelsemedel.se/c-f-liljewalchs-stipendiestiftelse/) and the [ÅForsk Foundation](https://aforsk.com/en) to attend the IMLB meeting in Hong Kong in June 2024. Congratulations, Jackie!
 
