@@ -49,6 +49,7 @@ redirect_from:
 
 <ol reversed>
   <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
+  <li>Structural Chemistry Programme, Uppsala University, Sweden (19/02/2024).</li>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
   <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
   <li>Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).</li>
@@ -58,8 +59,6 @@ redirect_from:
   <li>School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).</li>
   <li>School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).</li>
   <li>CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).</li>
-  <li>Octagon Bay International Innovation Forum, Yantai, China (06/08/2023).</li>
-  <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
   
 ## Professional and University Service
