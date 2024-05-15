@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.05.08
+Leiting hosted a study visit for students from the MSc program in Smart Electrical Networks and Systems (SENSE) of KTH Royal Institute of Technology, EIT InnoEnergy, on battery technologies at the Department of Chemistry - Ångström, Uppsala University. During the day, topics such as historical developments of battery chemistries, batteries for electric vehicles, next-generation battery technologies, and the future of batteries from young scientist perspectives were discussed. The study visit ended up with a lab tour to showcase the ongoing battery research activities at ÅABC. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7194073318008754176/).
+
 ### 2024.04.15
 Leiting represented Battery 2030+ to participate in the Transport Research Arena conference (TRA2024) in Dublin, Ireland. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7185551231694630912/)
 
