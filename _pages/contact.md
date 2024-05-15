@@ -17,5 +17,7 @@ Visiting address: Room 2348, Ångström Laboratory, Lägerhyddsvägen 1
 
 ## Opening
 
-[PhD position in sustainable aqueous batteries](https://uu.varbi.com/what:job/jobID:707558/) (joint supervision with Prof. Erik Berg), application deadline 06/05/2024.
+The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open. If you are interested in applying together with Leiting and Uppsala University, please get in touch with us!
+
+[PhD position in sustainable aqueous batteries](https://uu.varbi.com/what:job/jobID:707558/) (joint supervision with Prof. Erik Berg), application deadline 06/05/2024 (closed now).
 
