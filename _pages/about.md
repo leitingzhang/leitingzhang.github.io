@@ -15,6 +15,8 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open and the deadline is on September 11. If you are interested in applying together with us, please get in touch!
+
 ### 2024.05.08
 Leiting hosted a study visit for students from the MSc program in Smart Electrical Networks and Systems (SENSE) of KTH Royal Institute of Technology on battery technologies at the Department of Chemistry - Ångström, Uppsala University. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7194073318008754176/)
 
