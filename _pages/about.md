@@ -18,7 +18,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open and the deadline is on September 11. If you are interested in applying together with us, please get in touch!
 
 ### 2024.06.25
-Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of *JACS Au*. [Link](https://pubs.acs.org/doi/full/10.1021/jacsau.4c00484)
+Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of [JACS Au](https://pubs.acs.org/journal/jaaucr). [Link](https://pubs.acs.org/doi/full/10.1021/jacsau.4c00484)
 
 ### 2024.06.18
 Leiting and Jackie attended the International Meeting on Lithium Batteries (IMLB) in Hong Kong and presented posters titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries* and *Bayesian Optimization-Based Robotic Screening of Electrolytes for Sustainable Aqueous Lithium-Ion Batteries*.
