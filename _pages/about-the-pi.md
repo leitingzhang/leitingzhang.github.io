@@ -25,11 +25,14 @@ redirect_from:
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 
 ## Beamtime
+* 2024  Balder beamline (18 shifts), #20240472, MAX IV Laboratory, Sweden
+* 2024  DanMAX beamline (18 shifts), #20240474, MAX IV Laboratory, Sweden
 * 2023  DanMAX beamline (18 shifts), #20230319, MAX IV Laboratory, Sweden
 * 2017  ROCK beamline (15 shifts), #20170157, Synchrotron SOLEIL, France
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
 
 ## Awards
+* 2024  Finalist, Energy Lectureship (Early Career), Energy & Fuels Division (ENFL), American Chemical Society (ACS)
 * 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
 * 2016	Overseas Research Awards, School of Engineering, HKUST
@@ -61,7 +64,7 @@ redirect_from:
   <li>CRISMAT Laboratory, CNRS, France (08/12/2020, virtual).</li>
 </ol>
   
-## Professional and University Service
+## University and Professional Service
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
@@ -69,4 +72,7 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * Co-organized the Asian Pacific Confederation of Chemical Engineering, Hong Kong (2017.8)
 * Co-organized the International Advanced Electrochemical Energy Symposium, Hong Kong (2011.12)
+* Peer reviewer: Nature Communications, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Materials Advances.
+* JACS Au Early Carrier Advisory Board member (2024–2025)
+* Board member, Metrilytics AB
 
