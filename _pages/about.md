@@ -17,6 +17,24 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open and the deadline is on September 11. If you are interested in applying together with us, please get in touch!
 
+### 2024.06.25
+Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of *JACS Au*. [Link](https://pubs.acs.org/doi/full/10.1021/jacsau.4c00484)
+
+### 2024.06.18
+Leiting and Jackie attended the International Meeting on Lithium Batteries (IMLB) in Hong Kong and presented posters titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries* and *Bayesian Optimization-Based Robotic Screening of Electrolytes for Sustainable Aqueous Lithium-Ion Batteries*.
+
+### 2024.06.06
+Prof. Veronica Augustyn from the North Carolina State University visited us and discussed the science of sustainable aqueous batteries. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204516008290664448/)
+
+### 2024.06.05
+Leiting represented Battery Sweden (BASE) to participate in the ALISTORE bi-annual meeting in Göteborg, Sweden. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204499716934451200/)
+
+### 2024.06.03
+Inti was awarded this year's educational award from the K-section (Chemical Engineering section)! Congratulations, Inti! The nomination reads: *He received this award for the work he has done as a lab teacher in the Inorganic Chemistry course. He has contributed enormously to the learning of the students with his detailed and nuanced explanations. He has also made the lab a fun and safe place. This has made him worthy of K's educational award in 2024!*
+
+### 2024.05.24
+Leiting led a study visit with a group of students to the Northvolt Labs in Västeras. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7199714255523225601/)
+
 ### 2024.05.08
 Leiting hosted a study visit for students from the MSc program in Smart Electrical Networks and Systems (SENSE) of KTH Royal Institute of Technology on battery technologies at the Department of Chemistry - Ångström, Uppsala University. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7194073318008754176/)
 
