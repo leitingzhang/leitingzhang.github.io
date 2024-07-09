@@ -17,6 +17,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open and the deadline is on September 11. If you are interested in applying together with us, please get in touch!
 
+### 2024.07.09
+Leiting was selected as a finalist for the 2024 Energy Lectureship (Early Career) Award, jointly sponsored by the ACS Energy Letters, the ACS Energy & Fuels (ENFL) Division, and ACS Publications. He will give an invited talk on sustainable aqueous batteries at the award symposium during #ACSFall2024 in Denver. [Announcement](https://pubs.acs.org/doi/full/10.1021/acsenergylett.4c01667)
+
 ### 2024.06.25
 Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of [JACS Au](https://pubs.acs.org/journal/jaaucr). [Link](https://pubs.acs.org/doi/full/10.1021/jacsau.4c00484)
 
