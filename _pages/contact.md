@@ -19,5 +19,3 @@ Visiting address: Room 2348, Ångström Laboratory, Lägerhyddsvägen 1
 
 The [MSCA Postdoctoral Fellowships 2024](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2024) application is open. If you are interested in applying together with Leiting and Uppsala University, please get in touch with us!
 
-[PhD position in sustainable aqueous batteries](https://www.jobb.uu.se/details/?positionId=730330) (joint supervision with Prof. Erik Berg), application deadline 20/06/2024.
-
