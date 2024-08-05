@@ -51,6 +51,8 @@ redirect_from:
 ### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
+  <li>Guangzhou Municipal Key Laboratory of Materials Informatics, Guangzhou, China (26/07/2024).</li>
+  <li>School of Chemical Engineering and Technology, Sun Yat-sen University, China (25/07/2024).</li>
   <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
   <li>Structural Chemistry Programme, Uppsala University, Sweden (19/02/2024).</li>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
