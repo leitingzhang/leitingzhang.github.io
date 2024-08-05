@@ -48,8 +48,8 @@ Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N1
 
 ### References:
 
-1. Li et al. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). *Nat. Mater.* **2023**, *22* (11), 1370–1379.
-2. Espinoza Ramos et al. [Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects](https://doi.org/10.1039/d4ta04571h). *J. Mater. Chem. A* **2024**, *in press*.
+1. Espinoza Ramos et al. [Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects](https://doi.org/10.1039/d4ta04571h). *J. Mater. Chem. A* **2024**, *in press*.
+2. Li et al. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). *Nat. Mater.* **2023**, *22* (11), 1370–1379.
 3. Zhang et al. [Unraveling Gas Evolution in Sodium Batteries by Online Electrochemical Mass Spectrometry](https://doi.org/10.1016/j.ensm.2021.07.005). *Energy Storage Mater.* **2021**, *42*, 12–21.
 
 ## High-throughput robotic screening of aqueous electrolytes
