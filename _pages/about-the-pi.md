@@ -74,7 +74,7 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * Co-organized the Asian Pacific Confederation of Chemical Engineering, Hong Kong (2017.8)
 * Co-organized the International Advanced Electrochemical Energy Symposium, Hong Kong (2011.12)
-* Peer reviewer: Nature Communications, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Materials Advances.
+* Peer reviewer: Nature Communications, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Journal of Energy Storage, Materials Advances.
 * JACS Au Early Carrier Advisory Board member (2024–2025)
 * Board member, Metrilytics AB
 
