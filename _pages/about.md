@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.08.05
-Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects", was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi-org/10.1039/d4ta04571h)
+Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects", was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi.org/10.1039/d4ta04571h)
 
 ### 2024.07.26
 Leiting was invited by Prof. Jiaqiang Huang and Prof. Tongyi Zhang to give a seminar at the Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou). [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5169.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/773b99964a28a216dc581e4b2e298c8b.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/1137a2e1d5a547d544b8f07310507a11.jpg) [Photo4](https://leitingzhang.github.io/images/aboutpic/c6427428274c740a88fd6daad5dc5f84.jpg)
