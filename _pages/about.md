@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.08.15
-We have a 4-year fully funded PhD position (**MSCA COFUND PRISMAS** project) available. The project aims to develop combined synchrotron XRD–XAS analysis protocols to study next-generation batteries. **Deadline for application**: September 2nd, 2024. [Link](https://uu.varbi.com/what:job/jobID:746942/) Look forward to talented students joining our team!
+We have a 4-year fully funded PhD position (MSCA COFUND PRISMAS project) available. The project aims to develop combined synchrotron XRD–XAS analysis protocols to study next-generation batteries. Deadline for application: September 2nd, 2024. [Link](https://uu.varbi.com/what:job/jobID:746942/) Look forward to talented students joining our team!
 
 ### 2024.08.05
 Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects", was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi.org/10.1039/d4ta04571h)
