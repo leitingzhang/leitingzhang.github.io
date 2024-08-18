@@ -51,6 +51,7 @@ redirect_from:
 ### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
+  <li>Department of Materials Science & Engineering, Seoul National University, Seoul, Korea (15/11/2024).</li>
   <li>Guangzhou Municipal Key Laboratory of Materials Informatics, Guangzhou, China (26/07/2024).</li>
   <li>School of Chemical Engineering and Technology, Sun Yat-sen University, China (25/07/2024).</li>
   <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
@@ -72,9 +73,15 @@ redirect_from:
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
-* Co-organized the Asian Pacific Confederation of Chemical Engineering, Hong Kong (2017.8)
-* Co-organized the International Advanced Electrochemical Energy Symposium, Hong Kong (2011.12)
 * Peer reviewer: Nature Communications, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Journal of Energy Storage, Materials Advances.
 * JACS Au Early Carrier Advisory Board member (2024–2025)
 * Board member, Metrilytics AB
 
+## Pedagogy and Leadership Development
+* Science Diplomacy Academy, SKERIC (two-year Sweden–Korea academic leadership program)
+* Curious about Leadership (two-day leadership training)
+* Course Development Course (two-week pedagogic training)
+* Supervising Doctoral Students (three-week pedagogic training)
+* Academic Teacher Training (five-week pedagogic training)
+* TekNat faculty mentorship (one year)
+* TUR faculty mentorship (one year)
