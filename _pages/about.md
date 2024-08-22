@@ -15,8 +15,17 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.08.22
+Our invited Perspective paper, "Mastering Proton Activities in Aqueous Batteries", was accepted in a special issue of Advanced Materials to celebrate the 30th anniversary of The Hong Kong University of Science and Technology. [Link](https://doi.org/10.1002/adma.202407852)
+
+### 2024.08.18
+Leiting gave an invited talk at the Energy Lectureship Award Symposium of the ACS Fall 2024 meeting in Denver, CO. [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_5540.jpg)
+
 ### 2024.08.15
 We have a 4-year fully funded PhD position (MSCA COFUND PRISMAS project) available. The project aims to develop combined synchrotron XRD–XAS analysis protocols to study next-generation batteries. Deadline for application: September 2nd, 2024. Look forward to talented students joining us! [Link](https://uu.varbi.com/what:job/jobID:746942/)
+
+### 2024.08.09
+A paper that Leiting contributed to, "Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure", was accepted by Advanced Energy Materials. [Link](https://doi.org/10.1002/aenm.202402793)
 
 ### 2024.08.05
 Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects", was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi.org/10.1039/d4ta04571h)
@@ -31,7 +40,7 @@ Leiting was invited by Prof. Fangxi Xie to give a seminar at the School of Chemi
 Leiting was selected as a finalist for the 2024 Energy Lectureship (Early Career) Award, jointly sponsored by the ACS Energy Letters, the ACS Energy & Fuels (ENFL) Division, and ACS Publications. He will give an invited talk on sustainable aqueous batteries at the award symposium during #ACSFall2024 in Denver. [Announcement](https://pubs.acs.org/doi/full/10.1021/acsenergylett.4c01667)
 
 ### 2024.06.28
-The review paper that Leiting contributed to, "Gas Evolution in Li-Ion Rechargeable Batteries: A Review on <em>Operando</em> Sensing Technologies, Gassing Mechanisms, and Emerging Trends", was accepted by ChemElectroChem. Congratulations! [Link](https://doi.org/10.1002/celc.202400065)
+A review paper that Leiting contributed to, "Gas Evolution in Li-Ion Rechargeable Batteries: A Review on <em>Operando</em> Sensing Technologies, Gassing Mechanisms, and Emerging Trends", was accepted by ChemElectroChem. [Link](https://doi.org/10.1002/celc.202400065)
 
 ### 2024.06.25
 Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of [JACS Au](https://pubs.acs.org/journal/jaaucr). [Link](https://pubs.acs.org/doi/full/10.1021/jacsau.4c00484)
