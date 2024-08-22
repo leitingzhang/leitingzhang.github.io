@@ -16,6 +16,7 @@ author_profile: true
 
 
 <ol reversed>
+  <li><strong>Zhang, L.*</strong>; Zhang, C.*; Berg, E. J.*; Mastering Proton Activities in Aqueous Batteries, <em>Adv. Mater.</em> <strong>2024</strong>, <em>in press</em>. <a href="https://doi.org/10.1002/adma.202407852">https://doi.org/10.1002/adma.202407852</a> (Invited Perspectives)</li>
   <li>Espinoza Ramos, I.*; Coric, A.; Su, B.; Zhao, Q.; Eriksson, L.; Krysander, M.; Ahlberg Tidblad, A.; <strong>Zhang, L.*</strong> Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects. <em>J. Mater. Chem. A</em> <strong>2024</strong>, <em>in press</em>. <a  href="https://doi.org/10.1039/d4ta04571h">https://doi.org/10.1039/d4ta04571h</a> (Invited Review)</li> 
   <li>Gao, X.; Rousse, G.; Morozov, A. V.; Deschamps, M.; <strong>Zhang, L.</strong>; Kummer, K.; Abakumov, A. M.; Tarascon, J. M. Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure. <em>Adv. Energy Mater.</em> <strong>2024</strong>, <em>in press</em>. <a href="https://doi.org/10.1002/aenm.202402793">https://doi.org/10.1002/aenm.202402793</a> </li>
   <li>Zheng, T.; Muneeswara, M.; Bao, H.; <strong>Zhang, L.</strong>; Hall, D. S.; Boles, S. T.; Jin, W. Gas Evolution in Li-Ion Rechargeable Batteries: A Review on <em>Operando</em> Sensing Technologies, Gassing Mechanisms, and Emerging Trends. <em>ChemElectroChem</em> <strong>2024</strong>, <em>11</em> (15), e202400065. <a href="https://doi.org/10.1002/celc.202400065">https://doi.org/10.1002/celc.202400065</a> (Invited Review)</li> 
