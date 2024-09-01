@@ -17,5 +17,4 @@ Visiting address: Room 2348, Ångström Laboratory, Lägerhyddsvägen 1
 
 ## Opening
 
-We have a 4-year fully funded PhD position (MSCA COFUND PRISMAS project) available. The project aims to develop combined synchrotron XRD–XAS analysis protocols to study next-generation batteries. Deadline for application: September 2nd, 2024. [Link](https://uu.varbi.com/what:job/jobID:746942/)
-
+Currently, we do not have openings for PhD students and postdocs. Please come back later!
