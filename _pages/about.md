@@ -15,8 +15,11 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
-### 2024.08.22
-Our invited Perspective paper, "Mastering Proton Activities in Aqueous Batteries", was accepted in a special issue of Advanced Materials to celebrate the 30th anniversary of The Hong Kong University of Science and Technology. [Link](https://doi.org/10.1002/adma.202407852)
+### 2024.09.03
+Leiting received the prestigious Bergstedt Prize from the Royal Society of Sciences in Uppsala (Kungliga Vetenskaps-Societeten i Uppsala) for "his significant efforts and basic research for sustainable aqueous batteries." The Royal Society of Sciences in Uppsala is Sweden’s oldest learned society, founded in 1710. The Bergstedt Prize is the second oldest prize awarded by the academy, first offered in 1827. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5750.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_5754.jpg)
+
+### 2024.09.03
+Our invited Perspective paper, "Mastering Proton Activities in Aqueous Batteries", was published in Advanced Materials. It will be included in a special issue of the journal to celebrate the 30th anniversary of The Hong Kong University of Science and Technology (Leiting is a proud graduate of HKUST). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202407852)
 
 ### 2024.08.18
 Leiting gave an invited talk at the Energy Lectureship Award Symposium of the ACS Fall 2024 meeting in Denver, CO. [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_5540.jpg)
