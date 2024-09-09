@@ -22,7 +22,8 @@ td, th {
 | [Materials Syntheses](https://uppsala.instructure.com/courses/88609) | 1KB286 | Lecturer |
 | [Battery Control and Safety](https://uppsala.instructure.com/courses/80723) | 1KB714 | Lecturer |
 | [Synthesis of Battery Materials](https://uppsala.instructure.com/courses/82128) | 1KB729 | Lecturer |
-| [Advanced Battery Materials](https://www.uu.se/en/study/course?query=1KB747) | 1KB747 | Lecturer |
+| [Introduction to Energy Storage](https://uppsala.instructure.com/courses/95371) | 1KB744 | Lecturer |
+| [Advanced Battery Materials](https://uppsala.instructure.com/courses/94522) | 1KB747 | Lecturer |
 | [Introduction to Electromobility](https://uppsala.instructure.com/courses/84596) | 1EL003 | Lecturer |
 
 

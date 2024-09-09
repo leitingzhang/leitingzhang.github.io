@@ -32,6 +32,7 @@ redirect_from:
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
 
 ## Awards
+* 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
 * 2024  Finalist, Energy Lectureship (Early Career), Energy & Fuels Division (ENFL), American Chemical Society (ACS)
 * 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
