@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are a young and dynamic team, located at the [Ångström Advanced Battery Centre](https://www.kemi.uu.se/angstrom/research/structural-chemistry/aabc), Uppsala Univeristy. Our **research vision** is to bridge fundamental understandings of battery components, particularly electrodes, electrolytes, and interphases, with technological and methodological breakthroughs in the production and *operando*/online assessment of high-performance and sustainable batteries. For more details, please refer to [Research](https://leitingzhang.github.io/research/).
+Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are a young and dynamic team, located at the [Ångström Advanced Battery Centre](https://www.kemi.uu.se/angstrom/research/structural-chemistry/aabc), Uppsala Univeristy. Our **research vision** is to bridge fundamental understandings of battery components, particularly electrodes, electrolytes, and interphases, with technological and methodological breakthroughs in the *operando*/online assessment of sustainable and smart batteries. For more details, please refer to [Research](https://leitingzhang.github.io/research/).
  
 ---
 
