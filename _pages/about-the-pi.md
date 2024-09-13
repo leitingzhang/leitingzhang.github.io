@@ -21,8 +21,15 @@ redirect_from:
   
 ## Grants
 * 2024–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
-* 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
+* 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+
+
+## Awards
+* 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
+* 2024  Finalist award, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
+* 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
+* 2016	Overseas Research Awards, School of Engineering, HKUST
 
 ## Beamtime
 * 2024  Balder beamline (18 shifts), #20240472, MAX IV Laboratory, Sweden
@@ -30,18 +37,12 @@ redirect_from:
 * 2023  DanMAX beamline (18 shifts), #20230319, MAX IV Laboratory, Sweden
 * 2017  ROCK beamline (15 shifts), #20170157, Synchrotron SOLEIL, France
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
-
-## Awards
-* 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
-* 2024  Finalist, Energy Lectureship (Early Career), Energy & Fuels Division (ENFL), American Chemical Society (ACS)
-* 2022	Seal of Excellence Award, MSCA Postdoctoral Fellowships 2021, European Commission
-* 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
-* 2016	Overseas Research Awards, School of Engineering, HKUST
   
 ## Invited Talks
 ### Invited conference talk
 
 <ol reversed>
+  <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
   <li>European Materials Research Society (E-MRS) Fall Meeting, Warsaw, Poland (18/09/2023).</li>
@@ -75,8 +76,8 @@ redirect_from:
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * Peer reviewer: Nature Communications, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Journal of Energy Storage, Materials Advances.
-* JACS Au Early Carrier Advisory Board member (2024–2025)
-* Board member, Metrilytics AB
+* JACS Au Early Career Advisory Board member (2024–2025)
+* Board member and vice CEO, Metrilytics AB
 
 ## Pedagogy and Leadership Development
 * Science Diplomacy Academy, SKERIC (two-year Sweden–Korea academic leadership program)
