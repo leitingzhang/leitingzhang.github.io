@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.09.13
+We conducted synchrotron *operando* X-ray diffraction experiments at the DanMAX beamline of the MAX IV Laboratory in Lund, Sweden! [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5906.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_5928.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_5940.jpg)
+
 ### 2024.09.03
 Leiting received the prestigious Bergstedt Prize from the Royal Society of Sciences in Uppsala (Kungliga Vetenskaps-Societeten i Uppsala) for "his significant efforts and basic research for sustainable aqueous batteries." The Royal Society of Sciences in Uppsala is Sweden’s oldest learned society, founded in 1710. The Bergstedt Prize is the second oldest prize awarded by the academy, first offered in 1827. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5750.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_5754.jpg)
 
