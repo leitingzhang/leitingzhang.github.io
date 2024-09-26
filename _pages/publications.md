@@ -16,6 +16,7 @@ author_profile: true
 
 
 <ol reversed>
+  <li>Vanoppen, V.; <strong>Zhang, L.</strong>; Berg, E. J.; Hou, X. Manipulating Horizontal Zn Deposition with Indium Salt Additive for Anode-Free Zn Batteries, <em>ACS Matter. Lett.</em> <strong>2024</strong>, <em>in press</em>.
   <li><strong>Zhang, L.*</strong>; Zhang, C.*; Berg, E. J.*; Mastering Proton Activities in Aqueous Batteries, <em>Adv. Mater.</em> <strong>2024</strong>, <em>in press</em>. <a href="https://doi.org/10.1002/adma.202407852">https://doi.org/10.1002/adma.202407852</a> (Invited Perspectives)</li>
   <li>Espinoza Ramos, I.*; Coric, A.; Su, B.; Zhao, Q.; Eriksson, L.; Krysander, M.; Ahlberg Tidblad, A.; <strong>Zhang, L.*</strong> Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects. <em>J. Mater. Chem. A</em> <strong>2024</strong>, <em>12</em> (35), 23280–23296. <a  href="https://doi.org/10.1039/d4ta04571h">https://doi.org/10.1039/d4ta04571h</a> (Invited Review)</li> 
   <li>Gao, X.; Rousse, G.; Morozov, A. V.; Deschamps, M.; <strong>Zhang, L.</strong>; Kummer, K.; Abakumov, A. M.; Tarascon, J. M. Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure. <em>Adv. Energy Mater.</em> <strong>2024</strong>, <em>in press</em>. <a href="https://doi.org/10.1002/aenm.202402793">https://doi.org/10.1002/aenm.202402793</a> </li>
