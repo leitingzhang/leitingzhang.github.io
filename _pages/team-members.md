@@ -17,6 +17,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
+| [Selen Günaydın](https://www.researchgate.net/profile/Selen-Gunaydin) | 2025– |  Postdoc | Synchrotron studies of next-generation battery materials |
 | [Qianyun Bai](https://www.researchgate.net/profile/Qianyun-Bai) | 2025.01– |  PhD student (co-supervisor) | Quantification of side reactions in aqueous batteries |
 | [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
 | [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission monitoring |
