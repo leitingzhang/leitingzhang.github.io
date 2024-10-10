@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.10.10
+Leiting participated in this year's [SciFest](https://www.scifest.se/w/sf/en) and showed school classes and the general public how to assemble fruit batteries and prepare Prussian blue analog samples. SciFest is a science festival with a wide range of workshops and shows, where curious people of all ages get a taste of the research being conducted, with laboratory work, current research questions, and hands-on activities. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_6996.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7026.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_7036.jpg) (If a 5-year-old kid can understand how a fruit battery works, you know you are a good teacher.)
+
 ### 2024.09.13
 We conducted synchrotron *operando* X-ray diffraction experiments at the DanMAX beamline of the MAX IV Laboratory in Lund, Sweden! [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5906.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_5928.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_5940.jpg)
 
