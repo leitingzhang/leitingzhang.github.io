@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.11.04
+Prof. Yang Xu from the University College London visited us and gave an invited seminar titled "Competition for ion intercalation in Prussian blue analogs as cathode materials for post-lithium-ion batteries." [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7327.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7310.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_7329.jpg)
+
 ### 2024.10.10
 Leiting participated in this year's [SciFest](https://www.scifest.se/w/sf/en) and showed school classes and the general public how to assemble fruit batteries and prepare Prussian blue analog samples. SciFest is a science festival with a wide range of workshops and shows, where curious people of all ages get a taste of the research being conducted, with laboratory work, current research questions, and hands-on activities. If a 5-year-old kid can understand how a fruit battery works, you prove to be a good teacher. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_6996.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7026.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_7036.jpg)
 
