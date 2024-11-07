@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.11.07
+Leiting commented on the fast-charging capabilities of electric vehicle batteries on omEV. [English version](https://omev.se/2024/11/07/on-the-fast-charging-capabilities-of-ev-batteries/) [Swedish version](https://omev.se/2024/11/07/5618/) Also available in [Blog 3](https://leitingzhang.com/posts/2024/10/blog-2/).
+
 ### 2024.11.04
 Prof. Yang Xu from the University College London visited us and gave an invited seminar titled "Competition for ion intercalation in Prussian blue analogs as cathode materials for post-lithium-ion batteries." [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7327.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7310.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/IMG_7329.jpg)
 
