@@ -18,11 +18,12 @@ td, th {
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | [Dr. Selen Günaydın](https://www.researchgate.net/profile/Selen-Gunaydin) | 2025– |  Postdoc | Synchrotron studies of next-generation battery materials |
+| XXX | 2025.01– |  PhD student (main-supervisor) | Development of synchrotron-based X-ray techniques for next-generation batteries |
 | [Qianyun Bai](https://www.researchgate.net/profile/Qianyun-Bai) | 2025.01– |  PhD student (co-supervisor) | Quantification of side reactions in aqueous batteries |
-| [Ziyin Guo](https://www.katalog.uu.se/profile/?id=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
-| [Inti Espinoza Ramos](https://www.katalog.uu.se/profile/?id=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission monitoring |
-| [Jackie Yik](https://www.katalog.uu.se/profile/?id=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |
-
+| [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
+| [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission monitoring |
+| [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |
+| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO2 batteries |
 
 
 ## Alumni
