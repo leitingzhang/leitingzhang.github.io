@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.11.13
-Leiting was invited by Prof. Yoon-Mook Kang from the Korea University for lab visit and scientific discussion about potential collaboration projects between Sweden and Korea. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7494.jpg)
+Leiting was invited by Prof. Yoon-Mook Kang from the Korea University for lab visit and scientific discussion about potential collaboration projects between Sweden and Korea. [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_7494.jpg)
 
 ### 2024.11.07
 Leiting commented on the fast-charging capabilities of electric vehicle batteries on omEV. [EN](https://omev.se/2024/11/07/on-the-fast-charging-capabilities-of-ev-batteries/) [SV](https://omev.se/2024/11/07/5618/) Also available in [Blog 3](https://leitingzhang.com/posts/2024/11/blog-3/).
