@@ -72,7 +72,3 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 1. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
 
-
-
- <a href='https://www.free-counters.org/'>free Counters on Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=aa2fda6bc370ce53317310be89e740457ba18abe'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1268257/t/4"></script>

@@ -20,7 +20,7 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2024–2027	FFI project grant (SEK 6,600,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Agency for Innovation Systems (Vinnova), Sweden (main PI)
+* 2024–2027	FFI project grant (SEK 5,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 * 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 
@@ -88,6 +88,3 @@ redirect_from:
 * TekNat faculty mentorship (one year)
 * TUR faculty mentorship (one year)
 
-
- <a href='https://www.free-counters.org/'>free Counters on Free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=aa2fda6bc370ce53317310be89e740457ba18abe'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1268257/t/4"></script>
