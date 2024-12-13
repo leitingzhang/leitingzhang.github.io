@@ -53,6 +53,7 @@ redirect_from:
 ### Invited departmental lecture, seminar, workshop
 
 <ol reversed>
+  <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>
   <li>Department of Materials Science & Engineering, Seoul National University, Seoul, Korea (15/11/2024).</li>
   <li>Guangzhou Municipal Key Laboratory of Materials Informatics, Guangzhou, China (26/07/2024).</li>
   <li>School of Chemical Engineering and Technology, Sun Yat-sen University, China (25/07/2024).</li>
@@ -75,7 +76,7 @@ redirect_from:
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
-* Peer reviewer: Nature Communications, ACS Energy Letters, Journal of Materials Chemistry A, ACS Applied Energy Materials, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Energy Storage, Materials Advances, Ionics.
+* Peer reviewer: Nature Communications, ACS Energy Letters, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
 * JACS Au Early Career Advisory Board member (2024–2025)
 * Board member and vice CEO, Metrilytics AB
 
