@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.12.10
+Leiting was invited by Berlin Technology Center to give a "L(a)unch seminar" (online), titled "Online battery health monitoring: principles, technologies, and applications." [Photo](https://leitingzhang.github.io/images/aboutpic/Launch talk.JPG)
+
 ### 2024.11.22
 We conducted simultaneous <em>operando</em> X-ray absorption spectroscopy and X-ray diffraction experiments at the Balder beamline of the MAX IV Laboratory to study the reaction mechanism of advanced aqueous batteries. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7627.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7604.jpg)
 
