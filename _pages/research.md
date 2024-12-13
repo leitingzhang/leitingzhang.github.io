@@ -70,5 +70,6 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 ### References:
 
-1. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
+1. Yik et al. [Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization](https://chemrxiv.org/engage/chemrxiv/article-details/675afe7f7be152b1d0bfef20), *submitted*.
+2. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
 
