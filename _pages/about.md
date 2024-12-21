@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2024.12.21
-Leiting gave an invited talk (virtual) at the 2024 International Conference on the Cooperation and Integration of Industry, Education, Research and Application - Energy Materials, titled "Towards Self-Driving Labs for Better Aqueous Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization."
+Leiting gave an invited talk (online) at the 2024 International Conference on the Cooperation and Integration of Industry, Education, Research and Application - Energy Materials, titled "Towards Self-Driving Labs for Better Aqueous Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization."
 
 ### 2024.12.10
 Leiting was invited by Berlin Technology Center to give a "L(a)unch seminar" (online), titled "Online battery health monitoring: principles, technologies, and applications." [Photo](https://leitingzhang.github.io/images/aboutpic/Launch_talk.jpg)
