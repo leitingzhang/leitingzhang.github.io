@@ -18,8 +18,8 @@ td, th {
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | [Dr. Selen Günaydın](https://www.researchgate.net/profile/Selen-Gunaydin) | 2025– |  Postdoc | Synchrotron studies of next-generation battery materials |
-| XXX | 2025.01– |  PhD student (main supervisor) | Synchrotron-based X-ray techniques for batteries - PRISMAS (MSCA COFUND) |
-| [Qianyun Bai](https://www.researchgate.net/profile/Qianyun-Bai) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
+| XXX | 2025– |  PhD student (main supervisor) | Synchrotron-based X-ray techniques for batteries - PRISMAS (MSCA COFUND) |
+| [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
 | [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |

@@ -43,6 +43,7 @@ redirect_from:
 
 <ol reversed>
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
+  <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
   <li>European Materials Research Society (E-MRS) Fall Meeting, Warsaw, Poland (18/09/2023).</li>

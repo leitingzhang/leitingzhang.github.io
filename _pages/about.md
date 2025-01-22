@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2024.12.21
+Leiting gave an invited talk (online) at the 2024 International Conference on the Cooperation and Integration of Industry, Education, Research and Application - Energy Materials, titled "Towards Self-Driving Labs for Better Aqueous Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization."
+
 ### 2024.12.10
 Leiting was invited by Berlin Technology Center to give a "L(a)unch seminar" (online), titled "Online battery health monitoring: principles, technologies, and applications." [Photo](https://leitingzhang.github.io/images/aboutpic/Launch_talk.jpg)
 
@@ -22,7 +25,7 @@ Leiting was invited by Berlin Technology Center to give a "L(a)unch seminar" (on
 We conducted simultaneous <em>operando</em> X-ray absorption spectroscopy and X-ray diffraction experiments at the Balder beamline of the MAX IV Laboratory to study the reaction mechanism of advanced aqueous batteries. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7627.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7604.jpg)
 
 ### 2024.11.15
-Leiting participated in the two-year international academic leadership training program (WP2. Science Diplomacy Adademy) of the [SKERIC](https://www.skeric.org/) project (Sweden Korea Education, Research, and Innovation Collaboration). [Photo](https://leitingzhang.github.io/images/aboutpic/1731921148047.jpg)
+Leiting participated in the two-year international academic leadership training program (WP2. Science Diplomacy Academy) of the [SKERIC](https://www.skeric.org/) project (Sweden Korea Education, Research, and Innovation Collaboration). [Photo](https://leitingzhang.github.io/images/aboutpic/1731921148047.jpg)
 
 ### 2024.11.15
 Leiting visited Prof. In-suk Choi, Prof. Kisuk Kang, and Prof. Stephen Dongmin Kang from the Seoul National University and gave a seminar on chemistries and technologies for next-generation aqueous batteries. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_7527.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_7533.jpg)
