@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.01.20
+Prof. Vilas G. Pol from Purdue University (US) visited us and gave an invited talk titled "Unlocking sub-zero battery power: revolutionizing cold weather energy storage." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_8804.jpg)
+
 ### 2024.12.21
 Leiting gave an invited talk (online) at the 2024 International Conference on the Cooperation and Integration of Industry, Education, Research and Application - Energy Materials, titled "Towards Self-Driving Labs for Better Aqueous Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization."
 
