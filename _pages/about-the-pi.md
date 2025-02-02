@@ -27,7 +27,7 @@ redirect_from:
 
 ## Awards
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
-* 2024  Finalist award, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
+* 2024  Finalist awardee, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
 * 2016	Overseas Research Awards, School of Engineering, HKUST
 
@@ -39,7 +39,7 @@ redirect_from:
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
   
 ## Invited Talks
-### Invited conference talk
+### Invited conference talks
 
 <ol reversed>
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
@@ -51,7 +51,7 @@ redirect_from:
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
 
-### Invited departmental lecture, seminar, workshop
+### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
   <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>
@@ -77,9 +77,10 @@ redirect_from:
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
-* Peer reviewer: Nature Communications, ACS Energy Letters, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
 * JACS Au Early Career Advisory Board member (2024–2025)
 * Board member and vice CEO, Metrilytics AB
+* Peer reviewer: Nature Communications, ACS Energy Letters, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
+
 
 ## Pedagogy and Leadership Development
 * Science Diplomacy Academy, SKERIC (two-year Sweden–Korea academic leadership program)
@@ -87,6 +88,7 @@ redirect_from:
 * Course Development Course (two-week pedagogic training)
 * Supervising Doctoral Students (three-week pedagogic training)
 * Academic Teacher Training (five-week pedagogic training)
+* Supervising student presentations (2.5-day pedagogic training)
 * TekNat faculty mentorship (one year)
 * TUR faculty mentorship (one year)
 
