@@ -79,7 +79,7 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * JACS Au Early Career Advisory Board member (2024–2025)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Communications, ACS Energy Letters, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
+* Peer reviewer: Nature Communications, ACS Energy Letters, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
 
 
 ## Pedagogy and Leadership Development
