@@ -26,6 +26,7 @@ redirect_from:
 
 
 ## Awards
+* 2025	2025 Rising Star in Materials Science, ACS Materials Au
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
 * 2024  Finalist awardee, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
@@ -72,6 +73,8 @@ redirect_from:
 </ol>
   
 ## University and Professional Service
+* PhD thesis examiner, Chemnitz University of Technology, Germany (2025)
+* PhD thesis examiner, Tongji University, China (2025)
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)

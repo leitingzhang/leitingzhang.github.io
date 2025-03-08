@@ -15,8 +15,11 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.03.05
+Leiting was invited by Prof. Fei Wang to give a seminar at Fudan University (Shanghai, China), titled "Chemistries and Technologies for Next-Generation Aqueous Batteries." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_9246.jpg)
+
 ### 2025.03.03
-Leiting was invited by Prof. Jiwei Ma to give a seminar at Tongji University (Shanghai, China), titled "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization."
+Leiting was invited by Prof. Jiwei Ma to give a seminar at Tongji University (Shanghai, China), titled "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_9228.jpg)
 
 ### 2025.01.20
 Prof. Vilas G. Pol from Purdue University (US) visited us and gave an invited talk titled "Unlocking sub-zero battery power: revolutionizing cold weather energy storage." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_8804.jpg)
