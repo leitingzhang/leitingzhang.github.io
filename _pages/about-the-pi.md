@@ -26,7 +26,7 @@ redirect_from:
 
 
 ## Awards
-* 2025	2025 Rising Star in Materials Science, ACS Materials Au
+* 2025	Rising Star in Materials Science, ACS Materials Au
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
 * 2024  Finalist awardee, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
