@@ -30,8 +30,8 @@ Collaborators: [Chao Zhang](https://tec-group.github.io/), [William Brant](https
 1. Espinoza Ramos et al. Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing, *submitted*.
 2. Zhang et al. [Mastering Proton Activities in Aqueous Batteries](https://doi.org/10.1002/adma.202407852). *Adv. Mater.* **2024**, *in press*.
 3. Zhang et al. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
-2. Hou et al. [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
-4. Zhang et al. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
+4. Hou et al. [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
+5. Zhang et al. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
 
 ## Development and application of advanced *operando* characterizations
 
@@ -72,6 +72,6 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 ### References:
 
-1. <li>Yik et al. Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization. *Cell Rep. Phys. Sci.* **2025**, *in press*.
+1. Yik et al. Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization. *Cell Rep. Phys. Sci.* **2025**, *in press*.
 2. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). *Digit. Discov.* **2023**, *2* (3), 799–808.
 
