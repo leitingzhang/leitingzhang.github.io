@@ -43,6 +43,7 @@ redirect_from:
 ### Invited conference talks
 
 <ol reversed>
+  <li>Electrochemcial Society (ECS) Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
@@ -55,6 +56,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
   <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>
   <li>Department of Materials Science & Engineering, Seoul National University, Seoul, Korea (15/11/2024).</li>
   <li>Guangzhou Municipal Key Laboratory of Materials Informatics, Guangzhou, China (26/07/2024).</li>

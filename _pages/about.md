@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.03.19
+Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden.
+
 ### 2025.03.05
 Leiting was invited by Prof. Fei Wang to give a seminar at Fudan University (Shanghai, China), titled "Chemistries and Technologies for Next-Generation Aqueous Batteries." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_9246.jpg)
 
