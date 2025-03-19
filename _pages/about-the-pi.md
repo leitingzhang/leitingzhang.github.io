@@ -43,11 +43,7 @@ redirect_from:
 ### Invited conference talks
 
 <ol reversed>
-<<<<<<< HEAD
   <li>Electrochemcial Society (ECS) Fall Meeting, Chicago, USA (12/10/2025).</li>
-=======
-  <li>Electrochemical Society (ECS) Fall Meeting, Chicago, USA (12/10/2025).</li>
->>>>>>> 24f9319caeac2bd72bb00580b2fab3572a0be22b
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
@@ -88,7 +84,7 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * JACS Au Early Career Advisory Board member (2024–2025)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Communications, ACS Energy Letters, Materials Today, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
+* Peer reviewer: Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Materials Today, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
 
 
 ## Pedagogy and Leadership Development
