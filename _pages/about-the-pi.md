@@ -20,12 +20,14 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2024–2027	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
+* 2025–2028 Göran Gustafsson Prize for Young Researchers (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", Göran Gustafsson Foundation, Sweden
+* 2024–2028	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
-* 2023–2026	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+* 2023–2027	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 
 
 ## Awards
+* 2025  Göran Gustafsson Prize for Young Researchers, Göran Gustafsson Foundation, Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
 * 2024  Finalist awardee, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
@@ -33,6 +35,7 @@ redirect_from:
 * 2016	Overseas Research Awards, School of Engineering, HKUST
 
 ## Beamtime
+* 2025  DanMAX beamtime (6 shifts), MAX IV Laboratory, Sweden
 * 2024  Balder beamline (18 shifts), #20240472, MAX IV Laboratory, Sweden
 * 2024  DanMAX beamline (18 shifts), #20240474, MAX IV Laboratory, Sweden
 * 2023  DanMAX beamline (18 shifts), #20230319, MAX IV Laboratory, Sweden
