@@ -8,6 +8,12 @@ author_profile: true
 {% include base_path %}
 
 <figure>
+  <a href="/images/funpic/GG.png">
+  <img src="/images/funpic/GG.png" alt = "GG" />
+    </a>
+</figure><be>
+
+<figure>
   <a href="/images/funpic/VR.png">
   <img src="/images/funpic/VR.png" alt = "VR" />
     </a>
