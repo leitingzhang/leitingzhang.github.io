@@ -16,7 +16,10 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.03.31
-Leiting received the Göran Gustafsson Prize for Young Researchers from the [Göran Gustafsson Foundation](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a SEK 3.75 M project grant.
+Leiting received the Göran Gustafsson Prize for Young Researchers from the [Göran Gustafsson Foundation](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a SEK 3.75 M project grant. [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
+
+### 2025.03.30
+Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials Au.
 
 ### 2025.03.19
 Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden.
