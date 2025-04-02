@@ -25,12 +25,11 @@ redirect_from:
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 * 2023–2027	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 
-
 ## Awards
 * 2025  Göran Gustafsson Prize for Young Researchers, Göran Gustafsson Foundation, Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
-* 2024  Finalist awardee, Energy Lectureship (Early Career), Energy & Fuels Division, American Chemical Society (ACS)
+* 2024  Finalist awardee, inaugural Energy Lectureship (Early Career), American Chemical Society (ACS)
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
 * 2016	Overseas Research Awards, School of Engineering, HKUST
 
@@ -59,6 +58,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
   <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
   <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>
   <li>Department of Materials Science & Engineering, Seoul National University, Seoul, Korea (15/11/2024).</li>
@@ -87,7 +87,7 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * JACS Au Early Career Advisory Board member (2024–2025)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Materials Today, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
+* Peer reviewer: Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Materials Today, Energy Storage Materials, Journal of Materials Chemistry A, ACS Applied Energy Materials, ChemSusChem, ChemElectroChem, Journal of the Electrochemical Society, Science China Chemistry, Materials Today Energy, Journal of Power Sources, Carbon Energy, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Materials Advances, Ionics.
 
 
 ## Pedagogy and Leadership Development
