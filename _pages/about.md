@@ -22,7 +22,7 @@ Leiting received the Göran Gustafsson Prize for Young Researchers from the [Gö
 Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials Au.
 
 ### 2025.03.19
-Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden.
+Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden. [Link](https://www.maxiv.lu.se/article/max-iv-battery-matrix-kicked-off/)
 
 ### 2025.03.13
 We submitted a preprint to ChemRxiv titled "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing". [Link](https://chemrxiv.org/engage/chemrxiv/article-details/67d1839e81d2151a021e0b79)
