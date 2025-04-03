@@ -24,6 +24,9 @@ Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials
 ### 2025.03.19
 Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden.
 
+### 2025.03.13
+We submitted a preprint to ChemRxiv titled "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing". [Link](https://chemrxiv.org/engage/chemrxiv/article-details/67d1839e81d2151a021e0b79)
+
 ### 2025.03.05
 Leiting was invited by Prof. Fei Wang to give a seminar at Fudan University (Shanghai, China), titled "Chemistries and Technologies for Next-Generation Aqueous Batteries." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_9246.jpg)
 
