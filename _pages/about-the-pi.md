@@ -20,10 +20,16 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2025–2028 	Göran Gustafsson Prize for Young Researchers (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", Göran Gustafsson Foundation, Sweden
-* 2024–2028	FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
+* 2025–2028  Göran Gustafsson Prize for Young Researchers (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", Göran Gustafsson Foundation, Sweden
+* 2024–2028  FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
-* 2023–2027	Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+* 2023–2027  Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+
+* 2025  Young Professional Travel Grant, Electrochemical Society (ECS) Battery Division
+* 2024  Uppsala University Travel Grant, Sweden
+* 2015  University Grants Committee Travel Grant, HKSAR
+* 2014  University Grants Committee Travel Grant, HKSAR
+* 2011  Research Grants Council Conference Grant, HKSAR
 
 ## Awards
 * 2025  Göran Gustafsson Prize for Young Researchers, Göran Gustafsson Foundation, Sweden
@@ -45,7 +51,7 @@ redirect_from:
 ### Invited conference talks
 
 <ol reversed>
-  <li>Electrochemcial Society (ECS) Fall Meeting, Chicago, USA (12/10/2025).</li>
+  <li>ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
