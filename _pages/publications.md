@@ -57,6 +57,6 @@ author_profile: true
   <li><strong>Zhang, L.</strong>; Tarascon, J. M.; Sougrati, M. T.; Rousse, G.; Chen, G. Influence of Relative Humidity on the Structure and Electrochemical Performance of Sustainable LiFeSO<sub>4</sub>F Electrodes for Li-Ion Batteries. <em>J. Mater. Chem. A</em> <strong>2015</strong>, <em>3</em> (33), 16988–16997. <a href="https://doi.org/10.1039/c5ta05107j">https://doi.org/10.1039/c5ta05107j</a></li>
   <li>Deng, Y.; Zhang, Q.; Tang, S.; <strong>Zhang, L.</strong>; Deng, S.; Shi, Z.; Chen, G. One-Pot Synthesis of ZnFe<sub>2</sub>O<sub>4</sub>/C Hollow Spheres as Superior Anode Materials for Lithium Ion Batteries. <em>Chem. Commun.</em> <strong>2011</strong>, <em>47</em> (24), 6828–6830. <a href="https://doi.org/10.1039/c0cc05001f">https://doi.org/10.1039/c0cc05001f</a></li>
   <li>Deng, Y.; Tang, S.; Zhang, Q.; Shi, Z.; <strong>Zhang, L.</strong>; Zhan, S.; Chen, G. Controllable Synthesis of Spinel Nano-ZnMn<sub>2</sub>O<sub>4</sub> via a Single Source Precursor Route and Its High Capacity Retention as Anode Material for Lithium Ion Batteries. <em>J. Mater. Chem.</em> <strong>2011</strong>, <em>21</em> (32), 11987–11995. <a href="https://doi.org/10.1039/c1jm11575h">https://doi.org/10.1039/c1jm11575h</a></li>
-</ol>
+
 
 
