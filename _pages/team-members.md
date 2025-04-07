@@ -23,7 +23,7 @@ td, th {
 | [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of aqueous electrolytes |
 | [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01– |  Master thesis student | Anode-free lithium batteries |
-| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO2 batteries |
+| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO<sub>2</sub> batteries |
 
 
 ## Alumni
