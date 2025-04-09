@@ -20,7 +20,7 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2025–2028  Göran Gustafsson Big Prize for Young Researchers (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", Göran Gustafsson Foundation (UU/KTH), Sweden
+* 2025–2028  Göran Gustafsson Large Prize for Young Researchers (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2024–2028  FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
 * 2023–2027  Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
@@ -32,7 +32,7 @@ redirect_from:
 * 2011  Student Conference Grant, Research Grants Council, HKSAR
 
 ## Awards
-* 2025  Göran Gustafsson Big Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
+* 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
 * 2024  Finalist awardee, inaugural Energy Lectureship (Early Career), ACS

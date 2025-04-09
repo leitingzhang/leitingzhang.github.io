@@ -19,7 +19,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 Leiting received the Electrochemical Society (ECS) Battery Division Young Professional Travel Grant to attend the 247th ECS Meeting in Montréal, Canada, and present Jackie's paper "Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization" (A01-0088), on May 22nd at 9:00. Thank you, ECS Battery Division!
 
 ### 2025.03.31
-Leiting received the Göran Gustafsson Prize for Young Researchers from the [Göran Gustafsson Foundation](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a SEK 3.75 M project grant. [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
+Leiting received the Göran Gustafsson Large Prize for Young Researchers from the [Göran Gustafsson Foundation (UU/KTH)](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a SEK 3.75 M project grant. [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
 
 ### 2025.03.30
 Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials Au.
