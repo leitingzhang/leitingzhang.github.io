@@ -32,6 +32,7 @@ redirect_from:
 * 2011  Student Conference Grant, Research Grants Council, HKSAR
 
 ## Awards
+* 2025	Promising Early Career Scientists, Materials Today Energy, Elsevier
 * 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
@@ -53,6 +54,8 @@ redirect_from:
 
 <ol reversed>
   <li>ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
+  <li>Applied Materials & Interfaces Conference 2025, Singapore (04/07/2025).</li>
+  <li>International Conference on Functional Materials and Chemical Engineering (ICFMCE), London, UK (18/06/2025).</li>
   <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
@@ -65,6 +68,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
   <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
   <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
   <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>

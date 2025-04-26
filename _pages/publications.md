@@ -16,6 +16,7 @@ author_profile: true
 
 
 <ol reversed>
+  <li>Espinoza Ramos, I.; Guo, Z.; Clulow, R.; Su, B.; Zhao, Q.; Holm Gjørup, F.; Ahlberg Tidblad, A.; <strong>Zhang, L.*</strong> Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing. <em>Mater. Today Energy</em> <strong>2025</strong>, <em>in press</em>. <em>[Promising Early Career Scientist 2025]</em>.
   <li>Yik, J. T.; Hvarfner, C.; Sjölund, J.; Berg, E. J.; <strong>Zhang, L.*</strong> Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization. <em>Cell Rep. Phys. Sci.</em> <strong>2025</strong>, <em>in press</em>.
   <li>Gao, X.; Rousse, G.; Morozov, A. V.; Deschamps, M.; <strong>Zhang, L.</strong>; Kummer, K.; Abakumov, A. M.; Tarascon, J. M. Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure. <em>Adv. Energy Mater.</em> <strong>2025</strong>, <em>15</em> (3),  2402793. <a href="https://doi.org/10.1002/aenm.202402793">https://doi.org/10.1002/aenm.202402793</a> </li>
   <li>Vanoppen, V.; <strong>Zhang, L.</strong>; Berg, E. J.; Hou, X. Manipulating Horizontal Zn Deposition with Indium Salt Additive for Anode-Free Zn Batteries, <em>ACS Matter. Lett.</em> <strong>2024</strong>, <em>6</em> (11), 4881–4888. <a href="https://doi.org/10.1021/acsmaterialslett.4c01561">https://doi.org/10.1021/acsmaterialslett.4c01561</a> </li>
