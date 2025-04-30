@@ -42,7 +42,9 @@ redirect_from:
 * 2021  Gold Award, President's Cup, HKUST
 
 ## Beamtime
-* 2025  DanMAX beamtime (6 shifts), MAX IV Laboratory, Sweden
+* 2025  Balder beamtime (24 shifts), #20250598, MAX IV Laboratory, Sweden
+* 2025  DanMAX beamtime (24 shifts), #20250597, MAX IV Laboratory, Sweden
+* 2025  DanMAX beamtime (6 shifts), #20250967, MAX IV Laboratory, Sweden
 * 2024  Balder beamline (18 shifts), #20240472, MAX IV Laboratory, Sweden
 * 2024  DanMAX beamline (18 shifts), #20240474, MAX IV Laboratory, Sweden
 * 2023  DanMAX beamline (18 shifts), #20230319, MAX IV Laboratory, Sweden
