@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.04.23
-Inti and Ziyin's manuscript "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing" was accepted by *Materials Today Energy* and will be included in the special issue *Promising Early Career Scientists 2025*. Congratulations!
+Inti and Ziyin's co-first-authored paper "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing" was accepted by *Materials Today Energy* and will be included in the special issue *Promising Early Career Scientists 2025*. Congratulations! [Link](https://doi.org/10.1016/j.mtener.2025.101899)
 
 ### 2025.04.16
 Jackie's paper "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization" was published online at *Cell Reports Physical Science*. Congratulations, Jackie! [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X)
