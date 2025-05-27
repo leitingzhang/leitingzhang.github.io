@@ -15,6 +15,15 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.05.22
+Leiting attended the 247th ECS meeting in Montréal, Canada, with a Young Professional Travel Grant and presented Jackie's latest work on automated electrolyte screening.
+
+### 2025.05.12-14
+Leiting was invited by Dr. Minshen Zhu (Technische Universität Chemnitz) and Dr. Minghao Yu (Technische Universität Dresden) and gave an invited talk, titled "Chemistries and technologies for next-generation aqueous batteries."
+
+### 2025.05.09
+Leiting attended the Göran Gustafsson Foundation prize ceremony and received the prize certificate. [Link](https://gustafssonsstiftelser.se/prisutdelningsceremoni-och-bankett-pa-operakallaren-9-maj-2025/)
+
 ### 2025.04.23
 Inti and Ziyin's co-first-authored paper "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing" was accepted by *Materials Today Energy* and will be included in the special issue *Promising Early Career Scientists 2025*. Congratulations! [Link](https://doi.org/10.1016/j.mtener.2025.101899)
 
