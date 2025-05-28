@@ -25,8 +25,8 @@ td, th {
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of battery electrolytes |
 | [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01– |  Master thesis student | Anode-free lithium batteries |
 | [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO<sub>2</sub> batteries |
-| Yue Zhang | 2025.06– |  Machine-learning-assisted signal process of battery acoustic emission sensing |
-| William Johansson | 2025.06– |  Student assistant | Machine-learning-assisted signal process of battery acoustic emission sensing |
+| Yue Zhang | 2025.06– |  Student assistant |  Machine-learning-assisted signal process of battery acoustic emission sensing |
+| William Johansson | 2025.06– |  Student assistant |  Machine-learning-assisted signal process of battery acoustic emission sensing |
 
 
 ## Alumni
