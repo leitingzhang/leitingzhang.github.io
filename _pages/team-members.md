@@ -17,6 +17,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
+| xxx | 2025.09– |  Researcher (incoming) | Chemomechanics of all-solid-state batteries |
 | [Dr. Selen Günaydın](https://www.researchgate.net/profile/Selen-Gunaydin) | 2025– |  Postdoc (incoming) | Synchrotron studies of next-generation battery materials |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
