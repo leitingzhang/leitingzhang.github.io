@@ -17,7 +17,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| xxx | 2025.09– |  Researcher (incoming) | Chemomechanics of all-solid-state batteries |
+| Dr. xxx | 2025.09– |  Researcher (incoming) | Chemomechanics of all-solid-state batteries |
 | [Dr. Selen Günaydın](https://www.researchgate.net/profile/Selen-Gunaydin) | 2025– |  Postdoc (incoming) | Synchrotron studies of next-generation battery materials |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
@@ -25,6 +25,8 @@ td, th {
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of battery electrolytes |
 | [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01– |  Master thesis student | Anode-free lithium batteries |
 | [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO<sub>2</sub> batteries |
+| Yue Zhang | 2025.06– |  Machine-learning-assisted signal process of battery acoustic emission sensing |
+| William Johansson | 2025.06– |  Student assistant | Machine-learning-assisted signal process of battery acoustic emission sensing |
 
 
 ## Alumni
