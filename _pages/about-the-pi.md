@@ -98,9 +98,9 @@ redirect_from:
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
-* JACS Au Early Career Advisory Board member (2024–2025)
+* JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Nanotechnology, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
+* Peer reviewer: Nature Nanotechnology, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Scripta Materialia, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
 
 
 ## Pedagogy and Leadership Development
