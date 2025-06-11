@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.06.10
-Leiting gave an invited online seminar (in Chinese) at the Research Cloud online platform to promote the recent [paper](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X) in Cell Reports Physical Science. The recording is available [here](https://www.bilibili.com/video/BV1RqMjz6EJx).
+Leiting gave an invited webinar (in Chinese) at the Research Cloud online platform to promote the team's recent [paper](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X). The recording is available [here](https://www.bilibili.com/video/BV1RqMjz6EJx).
 
 ### 2025.06.05
 Leiting was invited by Prof. Linas Vilčiauskas to present at the International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss. [Link](https://www.grotthuss2025.ftmc.lt/)
