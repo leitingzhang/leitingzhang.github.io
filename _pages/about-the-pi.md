@@ -13,7 +13,7 @@ redirect_from:
 * Docent (2025) in Chemistry with specialization in Materials Chemistry, Faculty of Science and Technology, Uppsala University (UU)
 * Ph.D. (2018), M.Phil. (2014), and B.Eng. (2011) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
-* Ph.D. supervisors: [Prof. Guohua Chen](https://scholars.cityu.edu.hk/en/persons/guohua-chen(4e987cda-3a4a-45d7-990d-26d3dfb839ba).html), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
+* Ph.D. supervisors: [Prof. Guohua Chen](https://cbe.hkust.edu.hk/people/guohua-chen), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
 
 ## Employment
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
@@ -70,6 +70,8 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
+  <li>Scientific Frontier Seminar, Research Cloud online platform, China (10/06/2025, virtual).</li>
   <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
   <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
   <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
