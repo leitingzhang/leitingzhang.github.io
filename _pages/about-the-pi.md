@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-* B.Eng. (2011), M.Phil. (2014), and Ph.D. (2018) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
+## Degrees
+* Docent (2025) in Chemistry with specialization in Materials Chemistry, Faculty of Science and Technology, Uppsala University (UU)
+* Ph.D. (2018), M.Phil. (2014), and B.Eng. (2011) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
-* Ph.D. supervisors: [Prof. Guohua Chen](https://scholars.cityu.edu.hk/en/persons/guohua-chen(4e987cda-3a4a-45d7-990d-26d3dfb839ba).html), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
+* Ph.D. supervisors: [Prof. Guohua Chen](https://cbe.hkust.edu.hk/people/guohua-chen), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
 
 ## Employment
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
@@ -69,6 +70,8 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
+  <li>Scientific Frontier Seminar, Research Cloud online platform, China (10/06/2025, virtual).</li>
   <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
   <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
   <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
@@ -97,9 +100,9 @@ redirect_from:
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
-* JACS Au Early Career Advisory Board member (2024–2025)
+* JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Nanotechnology, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
+* Peer reviewer: Nature Nanotechnology, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Scripta Materialia, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
 
 
 ## Pedagogy and Leadership Development

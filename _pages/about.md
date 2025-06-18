@@ -15,6 +15,15 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.06.10
+Leiting gave an invited webinar (in Chinese) at the Research Cloud online platform to promote the team's recent [paper](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X). The recording is available [here](https://www.bilibili.com/video/BV1RqMjz6EJx).
+
+### 2025.06.05
+Leiting was invited by Prof. Linas Vilčiauskas to present at the International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss. [Link](https://www.grotthuss2025.ftmc.lt/)
+
+### 2025.06.03
+Leiting was appointed by the Faculty of Natural Science and Technology, Uppsala University, as Docent in Chemistry with specialization in Materials Chemistry.
+
 ### 2025.05.22
 Leiting attended the 247th ECS meeting in Montréal, Canada, with a Young Professional Travel Grant and presented Jackie's latest work on automated electrolyte screening.
 
