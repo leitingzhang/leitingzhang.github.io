@@ -17,10 +17,11 @@ redirect_from:
 
 ## Employment
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
-* 2021.5–2023.5  Postdoctoral Researcher, Uppsala University (UU), Sweden
+* 2021.5–2023.5  Postdoctoral Researcher, Uppsala University, Sweden
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
+* 2025–2030  Future Research Leaders (FFL-9) Grant (SEK 15,000,000), "High-energy anode-free batteries", FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2024–2028  FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
@@ -33,6 +34,7 @@ redirect_from:
 * 2011  Student conference grant, Research Grants Council, HKSAR
 
 ## Awards
+* 2025  Future Research Leader, Swedish Foundation for Strategic Research, Sweden
 * 2025	Promising Early Career Scientists, Materials Today Energy, Elsevier
 * 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
@@ -93,8 +95,7 @@ redirect_from:
 </ol>
   
 ## University and Professional Service
-* PhD thesis examiner, Chemnitz University of Technology, Germany (2025)
-* PhD thesis examiner, Tongji University, China (2025)
+* PhD examination committee, Uppsala University (2025), Chemnitz University of Technology (2025), Tongji University (2025)
 * Steering committee member & UU representative, SENSE education program (coordinated by KTH)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
@@ -102,10 +103,11 @@ redirect_from:
 * Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Nanotechnology, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Scripta Materialia, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
+* Peer reviewer: Nature Nanotechnology, Joule, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Scripta Materialia, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
 
 
 ## Pedagogy and Leadership Development
+* SSF Future Research Leaders (five-year research & leadership career program)
 * Science Diplomacy Academy, SKERIC (two-year Sweden–Korea academic leadership program)
 * Curious about Leadership (two-day leadership training)
 * Course Development Course (two-week pedagogic training)
