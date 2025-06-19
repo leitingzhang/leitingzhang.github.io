@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.06.17
+Leiting received a prestigious SSF Future Research Leaders (FFL-9) grant from the Swedish Foundation for Strategic Research, with SEK 15 million (EUR ~1.4 million) for 5 years, along with comprehensive leadership training. The team will be developing next-generation anode-free batteries with high energy density and improved safety, applicable to future electric aircraft or drones. Openings will be available soon! [Link](https://strategiska.se/en/they-are-the-research-leaders-of-the-future-ffl9/)
+
 ### 2025.06.10
 Leiting gave an invited webinar (in Chinese) at the Research Cloud online platform to promote the team's recent [paper](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X). The recording is available [here](https://www.bilibili.com/video/BV1RqMjz6EJx).
 
