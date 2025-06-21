@@ -28,6 +28,7 @@ redirect_from:
 * 2023–2027  Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
 
 * 2025  Young professional travel grant (Battery Division), Electrochemical Society (ECS)
+| 2025  Travel grant, Uppsala University, Sweden
 * 2024  Travel grant, Uppsala University, Sweden
 * 2015  Travel grant, University Grants Committee, HKSAR
 * 2014  Travel grant, University Grants Committee, HKSAR
