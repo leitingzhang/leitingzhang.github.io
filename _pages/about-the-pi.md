@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Degrees
-* Docent (2025) in Chemistry with specialization in Materials Chemistry, Faculty of Science and Technology, Uppsala University (UU)
+* Docent (2025) in Chemistry with Specialization in Materials Chemistry, Uppsala University (UU)
 * Ph.D. (2018), M.Phil. (2014), and B.Eng. (2011) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
 * Ph.D. supervisors: [Prof. Guohua Chen](https://cbe.hkust.edu.hk/people/guohua-chen), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
@@ -21,14 +21,14 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2025–2030  Future Research Leaders (FFL-9) Grant (SEK 15,000,000), "High-energy anode-free batteries", FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
-* 2025–2028  Göran Gustafsson Young Researcher Grant (SEK 3,750,000), "Electro-chemo-mechanics of solid-state batteries", #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
-* 2024–2028  FFI project grant (SEK 3,300,000), “Online acoustic emission monitoring of electric vehicle battery health”, #2023-00990, Swedish Energy Agency, Sweden (main PI)
-* 2023	Young scientist grant (SEK 500,000), “Sound of gas evolution: an acoustic emission study of battery aging”, #23-372, ÅForsk Foundation, Sweden
-* 2023–2027  Starting grant (SEK 4,000,000), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries”, #2022-03856, Swedish Research Council (VR), Sweden
+* 2025–2030  Future Research Leaders (FFL-9) Grant (15 MSEK), "High-energy anode-free batteries," FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
+* 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
+* 2024–2028  FFI project grant (3.3 MSEK), “Online acoustic emission monitoring of electric vehicle battery health,” #2023-00990, Swedish Energy Agency, Sweden (main PI)
+* 2023	Young scientist grant (0.5 MSEK), “Sound of gas evolution: an acoustic emission study of battery aging,” #23-372, ÅForsk Foundation, Sweden
+* 2023–2027  Starting grant (4 MSEK), “Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries,” #2022-03856, Swedish Research Council (VR), Sweden
 
 * 2025  Young professional travel grant (Battery Division), Electrochemical Society (ECS)
-| 2025  Travel grant, Uppsala University, Sweden
+* 2025  Travel grant, Uppsala University, Sweden
 * 2024  Travel grant, Uppsala University, Sweden
 * 2015  Travel grant, University Grants Committee, HKSAR
 * 2014  Travel grant, University Grants Committee, HKSAR
@@ -36,7 +36,7 @@ redirect_from:
 
 ## Awards
 * 2025  Future Research Leader, Swedish Foundation for Strategic Research, Sweden
-* 2025	Promising Early Career Scientists, Materials Today Energy, Elsevier
+* 2025	Promising Early Career Scientists, Materials Today Energy
 * 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
 * 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
@@ -74,6 +74,8 @@ redirect_from:
 
 <ol reversed>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
+  <li>Institutes of Physical Science and Information Technology, Anhui University, Hefei, China (21/07/2025).</li>
+  <li>Sustainable Energy and Environment Thrust, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (30/06/2025).</li>
   <li>Scientific Frontier Seminar, Research Cloud online platform, China (10/06/2025, virtual).</li>
   <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
   <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
@@ -97,24 +99,23 @@ redirect_from:
   
 ## University and Professional Service
 * PhD examination committee, Uppsala University (2025), Chemnitz University of Technology (2025), Tongji University (2025)
-* Steering committee member & UU representative, SENSE education program (coordinated by KTH)
+* Teacher representative in the Program Board of the Master's Program in Battery Technology and Energy Storage, UU (since 2025)
+* Steering committee member, SENSE MSc program, EIT InnoEnergy (since 2023)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
 * Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
-* Co-organized the Battery2030+ Third Annual Meeting at UU (2023.5)
-* Co-organized the Battery2030+ First Young Scientist Event at UU (2022.6)
+* Co-organized the Battery2030+ 1st Young Scientist Event (2022.6) and the 3rd Annual Meeting (2023.5)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB
-* Peer reviewer: Nature Nanotechnology, Joule, Nature Communications, ACS Energy Letters, Angewandte Chemie International Edition, Energy Storage Materials, Materials Today, Materials Today Energy, Chemical Engineering Journal, Journal of Materials Chemistry A, Digital Discovery, ACS Applied Energy Materials, Journal of Power Sources, ChemSusChem, ChemElectroChem, Scripta Materialia, Journal of the Electrochemical Society, Science China Chemistry, Carbon Energy, Applied Energy, Journal of Energy Storage, Sensors and Actuators B: Chemical, Journal of Electroanalytical Chemistry, Materials Advances, Ionics, etc.
-
+* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, & Sensors and Actuators B: Chemical
 
 ## Pedagogy and Leadership Development
-* SSF Future Research Leaders (five-year research & leadership career program)
+* SSF Future Research Leaders (five-year research & leadership training program)
 * Science Diplomacy Academy, SKERIC (two-year Sweden–Korea academic leadership program)
 * Curious about Leadership (two-day leadership training)
 * Course Development Course (two-week pedagogic training)
 * Supervising Doctoral Students (three-week pedagogic training)
 * Academic Teacher Training (five-week pedagogic training)
-* Supervising student presentations (2.5-day pedagogic training)
-* TekNat faculty mentorship (one year)
-* TUR faculty mentorship (one year)
+* Supervising Student Presentations (2.5-day pedagogic training)
+* TekNat Faculty Mentorship (one year)
+* TUR Assistant Professor Mentorship (one year)
 
