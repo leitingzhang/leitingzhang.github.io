@@ -25,10 +25,10 @@ Leiting gave an invited webinar (in Chinese) at the Research Cloud online platfo
 Leiting was invited by Prof. Linas Vilčiauskas to present at the International Conference Celebrating the 220<sup>th</sup> Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss. [Link](https://www.grotthuss2025.ftmc.lt/)
 
 ### 2025.06.03
-Leiting was appointed by the Faculty of Natural Science and Technology, Uppsala University, as Docent in Chemistry with specialization in Materials Chemistry.
+Leiting was appointed by the Faculty of Natural Science and Technology, Uppsala University, as Docent in Chemistry with Specialization in Materials Chemistry.
 
 ### 2025.05.22
-Leiting attended the 247th ECS meeting in Montréal, Canada, with a Young Professional Travel Grant and presented Jackie's latest work on automated electrolyte screening.
+Leiting attended the 247<sup>th</sup> ECS meeting in Montréal, Canada, with a Young Professional Travel Grant and presented Jackie's latest work on automated electrolyte screening.
 
 ### 2025.05.12-14
 Leiting was invited by Dr. Minshen Zhu (Technische Universität Chemnitz) and Dr. Minghao Yu (Technische Universität Dresden) and gave an invited talk, titled "Chemistries and technologies for next-generation aqueous batteries."
@@ -43,10 +43,10 @@ Inti and Ziyin's co-first-authored paper "Unveiling Chemomechanical Degradation 
 Jackie's paper "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization" was published at *Cell Reports Physical Science*. Congratulations, Jackie! [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X)
 
 ### 2025.04.04
-Leiting received the Electrochemical Society (ECS) Battery Division Young Professional Travel Grant to attend the 247th ECS Meeting in Montréal, Canada, and present Jackie's paper "Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization" (A01-0088), on May 22nd at 9:00. Thank you, ECS Battery Division!
+Leiting received the Electrochemical Society (ECS) Battery Division Young Professional Travel Grant to attend the 247<sup>th</sup> ECS Meeting in Montréal, Canada, and present Jackie's paper "Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization" (A01-0088), on May 22nd at 9:00. Thank you, ECS Battery Division!
 
 ### 2025.03.31
-Leiting received the Göran Gustafsson Large Prize for Young Researchers from the [Göran Gustafsson Foundation (UU/KTH)](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a SEK 3.75 M project grant. [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
+Leiting received the Göran Gustafsson Large Prize for Young Researchers from the [Göran Gustafsson Foundation (UU/KTH)](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a project grant (SEK 3.75 million for three years). [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
 
 ### 2025.03.30
 Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials Au.
