@@ -22,7 +22,7 @@ Leiting received a prestigious SSF Future Research Leaders (FFL-9) grant from th
 Leiting gave an invited webinar (in Chinese) at the Research Cloud online platform to promote the team's recent [paper](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X). The recording is available [here](https://www.bilibili.com/video/BV1RqMjz6EJx).
 
 ### 2025.06.05
-Leiting was invited by Prof. Linas Vilčiauskas to present at the International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss. [Link](https://www.grotthuss2025.ftmc.lt/)
+Leiting was invited by Prof. Linas Vilčiauskas to present at the International Conference Celebrating the 220<sup>th</sup> Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss. [Link](https://www.grotthuss2025.ftmc.lt/)
 
 ### 2025.06.03
 Leiting was appointed by the Faculty of Natural Science and Technology, Uppsala University, as Docent in Chemistry with specialization in Materials Chemistry.
