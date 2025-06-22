@@ -59,9 +59,9 @@ redirect_from:
 ### Invited conference talks
 
 <ol reversed>
-  <li>ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
+  <li>248<sup>th</sup> ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>Applied Materials & Interfaces Conference 2025, Singapore (04/07/2025).</li>
-  <li>International Conference Celebrating the 220th Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
+  <li>International Conference Celebrating the 220<sup>th</sup> Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
   <li>International Conference on the Cooperation and Integration of Industry, Education, Research and Application: Energy Materials and Magnetic Materials, Hefei, China (21/12/2024, virtual).</li>
   <li>American Chemical Society (ACS) Fall Meeting (Award symposium), Denver, USA (18/8/2024).</li>
   <li>International Conference on Low Carbon Green Development, Changsha, China (20/10/2023).</li>
@@ -100,12 +100,12 @@ redirect_from:
 ## University and Professional Service
 * PhD examination committee, Uppsala University (2025), Chemnitz University of Technology (2025), Tongji University (2025)
 * Teacher representative in the Program Board of the Master's Program in Battery Technology and Energy Storage, UU (since 2025)
-* Steering committee member, SENSE MSc program, EIT InnoEnergy (since 2023)
+* Steering Committee member, SENSE MSc program, EIT InnoEnergy (since 2023)
 * Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
-* Organized weekly seminars at the Structural Chemistry Program, UU (50–70 regular attendees)
+* Organized weekly Ångström Battery Monday Seminar series, UU (50–70 regular attendees)
 * Co-organized the Battery2030+ 1st Young Scientist Event (2022.6) and the 3rd Annual Meeting (2023.5)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
-* Board member and vice CEO, Metrilytics AB
+* Board member and vice CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
 * Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, & Sensors and Actuators B: Chemical
 
 ## Pedagogy and Leadership Development
