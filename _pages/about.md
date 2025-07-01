@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.07.01
+A paper from Chaofeng Zhang's group at the Anhui University, to which Leiting contributed, "Design Strategy for Small-Molecule Organic Cathodes: Regulated Active Groups Enable High Capacity and Voltage in Aqueous and Seawater Aluminium Ion Batteries," was accepted by Angewandte Chemie International Edition. [Link](https://doi.org/10.1002/anie.202508057)
+
+### 2025.06.29
+A paper from Sathiya Mariyappan's group at the Collège de France, to which Leiting contributed, "O3 vs P2 Sodium Layered Oxides: A Comparative Study on Electrode–Electrolyte Reactivity and Structural Stability for Cycling Performance," was accepted by Energy Storage Materials. [Link](https://doi.org/10.1016/j.ensm.2025.104423)
+
 ### 2025.06.17
 Leiting received a prestigious SSF Future Research Leaders (FFL-9) grant from the Swedish Foundation for Strategic Research, with SEK 15 million (EUR ~1.4 million) for 5 years, along with comprehensive leadership training. The team will be developing next-generation anode-free batteries with high energy density and improved safety, applicable to future electric aircraft or drones. Openings will be available soon! [Link](https://strategiska.se/en/they-are-the-research-leaders-of-the-future-ffl9/)
 
@@ -40,10 +46,10 @@ Leiting attended the Göran Gustafsson Foundation prize ceremony and received th
 Inti and Ziyin's co-first-authored paper "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing" was accepted by *Materials Today Energy* and will be included in the special issue *Promising Early Career Scientists 2025*. Congratulations! [Link](https://doi.org/10.1016/j.mtener.2025.101899)
 
 ### 2025.04.16
-Jackie's paper "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization" was published at *Cell Reports Physical Science*. Congratulations, Jackie! [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X)
+Jackie's paper, "Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization," was published at *Cell Reports Physical Science*. Congratulations, Jackie! [link](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00147-X)
 
 ### 2025.04.04
-Leiting received the Electrochemical Society (ECS) Battery Division Young Professional Travel Grant to attend the 247<sup>th</sup> ECS Meeting in Montréal, Canada, and present Jackie's paper "Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization" (A01-0088), on May 22nd at 9:00. Thank you, ECS Battery Division!
+Leiting received the Electrochemical Society (ECS) Battery Division Young Professional Travel Grant to attend the 247<sup>th</sup> ECS Meeting in Montréal, Canada, and present Jackie's paper "Towards Self-Driving Labs for Better Batteries: Accelerating Electrolyte Discovery with Automation and Bayesian Optimization," (A01-0088) on May 22nd at 9:00. Thank you, ECS Battery Division!
 
 ### 2025.03.31
 Leiting received the Göran Gustafsson Large Prize for Young Researchers from the [Göran Gustafsson Foundation (UU/KTH)](https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/). The Prize comes with a project grant (SEK 3.75 million for three years). [News](https://www.uu.se/vetenskapsomrade/teknik-och-naturvetenskap/nyheter/arkiv/2025-03-31-unga-uppsalaforskare-far-pris-av-goran-gustafssons-stiftelse#:~:text=Tv%C3%A5%20unga%20forskare%20vid%20Uppsala,institutionen%20f%C3%A5r%20det%20ett%C3%A5riga%20priset.)
@@ -52,10 +58,10 @@ Leiting received the Göran Gustafsson Large Prize for Young Researchers from th
 Leiting was selected as a 2025 Rising Star in Materials Science by ACS Materials Au.
 
 ### 2025.03.19
-Leiting was invited By Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden. [Link](https://www.maxiv.lu.se/article/max-iv-battery-matrix-kicked-off/)
+Leiting was invited by Dr. Robert Temperton to present research activities associated with synchrotron X-rays at the MAX IV Battery Workshop in Lund, Sweden. [Link](https://www.maxiv.lu.se/article/max-iv-battery-matrix-kicked-off/)
 
 ### 2025.03.13
-We submitted a preprint to ChemRxiv titled "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing". [Link](https://chemrxiv.org/engage/chemrxiv/article-details/67d1839e81d2151a021e0b79)
+We submitted a preprint to ChemRxiv titled "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing." [Link](https://chemrxiv.org/engage/chemrxiv/article-details/67d1839e81d2151a021e0b79)
 
 ### 2025.03.05
 Leiting was invited by Prof. Fei Wang to give a seminar at Fudan University (Shanghai, China), titled "Chemistries and Technologies for Next-Generation Aqueous Batteries." [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_9246.jpg)
@@ -100,19 +106,16 @@ We conducted synchrotron *operando* X-ray diffraction experiments at the DanMAX 
 Leiting received the prestigious Bergstedt Prize from the Royal Society of Sciences in Uppsala (Kungliga Vetenskaps-Societeten i Uppsala) for "his significant efforts and basic research for sustainable aqueous batteries." The Royal Society of Sciences in Uppsala is Sweden’s oldest learned society, founded in 1710. The Bergstedt Prize is the second oldest prize awarded by the academy, first offered in 1827. [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5750.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/IMG_5754.jpg)
 
 ### 2024.09.03
-Our invited Perspective paper, "Mastering Proton Activities in Aqueous Batteries", was published in Advanced Materials. It will be included in a special issue of the journal to celebrate the 30th anniversary of The Hong Kong University of Science and Technology (Leiting is a proud graduate of HKUST). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202407852)
+Our invited Perspective paper, "Mastering Proton Activities in Aqueous Batteries," was published in Advanced Materials. It will be included in a special issue of the journal to celebrate the 30<sup>th<sup> anniversary of The Hong Kong University of Science and Technology (Leiting is a proud graduate of HKUST). [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/adma.202407852)
 
 ### 2024.08.18
 Leiting gave an invited talk at the Energy Lectureship Award Symposium of the ACS Fall 2024 meeting in Denver, CO. [Photo](https://leitingzhang.github.io/images/aboutpic/IMG_5540.jpg)
 
-### 2024.08.15
-We have a 4-year fully funded PhD position (MSCA COFUND PRISMAS project) available. The project aims to develop combined synchrotron XRD–XAS analysis protocols to study next-generation batteries. Deadline for application: September 2nd, 2024. Look forward to talented students joining us! [Link](https://uu.varbi.com/what:job/jobID:746942/)
-
 ### 2024.08.09
-A paper that Leiting contributed to, "Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure", was accepted by Advanced Energy Materials. [Link](https://doi.org/10.1002/aenm.202402793)
+A paper that Leiting contributed to, "Achieving High-Voltage Stability in Li-Rich Ni-Rich Oxides with Local W/Ni(Li) Superstructure," was accepted by Advanced Energy Materials. [Link](https://doi.org/10.1002/aenm.202402793)
 
 ### 2024.08.05
-Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects", was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi.org/10.1039/d4ta04571h)
+Our invited review paper, "Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects," was accepted by the Journal of Materials Chemistry A. Congratulations to Inti (first author) and all collaborators (Linköping University, Hong Kong Polytechnic University, and Volvo Cars)! [Link](https://doi.org/10.1039/d4ta04571h)
 
 ### 2024.07.26
 Leiting was invited by Prof. Jiaqiang Huang and Prof. Tongyi Zhang to give a seminar at the Guangzhou Municipal Key Laboratory of Materials Informatics, The Hong Kong University of Science and Technology (Guangzhou). [Photo1](https://leitingzhang.github.io/images/aboutpic/IMG_5169.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/773b99964a28a216dc581e4b2e298c8b.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/1137a2e1d5a547d544b8f07310507a11.jpg) [Photo4](https://leitingzhang.github.io/images/aboutpic/c6427428274c740a88fd6daad5dc5f84.jpg)
@@ -133,10 +136,10 @@ Leiting was selected to serve on the 2024 Early Career Advisory Board (ECAB) of 
 Leiting and Jackie attended the International Meeting on Lithium Batteries (IMLB) in Hong Kong and presented posters titled *Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries* and *Bayesian Optimization-Based Robotic Screening of Electrolytes for Sustainable Aqueous Lithium-Ion Batteries*.
 
 ### 2024.06.06
-Prof. Veronica Augustyn from the North Carolina State University visited us and discussed the science of sustainable aqueous batteries. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204516008290664448/)
+Prof. Veronica Augustyn from North Carolina State University visited us and discussed the science of sustainable aqueous batteries. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204516008290664448/)
 
 ### 2024.06.05
-Leiting represented Battery Sweden (BASE) to participate in the ALISTORE bi-annual meeting in Göteborg, Sweden. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204499716934451200/)
+Leiting represented Batteries Sweden (BASE) to participate in the ALISTORE bi-annual meeting in Göteborg, Sweden. [Link](https://www.linkedin.com/feed/update/urn:li:activity:7204499716934451200/)
 
 ### 2024.06.03
 Inti was awarded this year's educational award from the K-section (Chemical Engineering section)! Congratulations, Inti! The nomination reads: *He received this award for the work he has done as a lab teacher in the Inorganic Chemistry course. He has contributed enormously to the learning of the students with his detailed and nuanced explanations. He has also made the lab a fun and safe place. This has made him worthy of K's educational award in 2024!*
