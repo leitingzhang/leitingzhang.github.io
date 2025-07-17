@@ -9,17 +9,23 @@ redirect_from:
 ---
 
 
-Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are a young and dynamic team, located at the [Ångström Advanced Battery Centre](https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry), Uppsala Univeristy. Our **research vision** is to bridge fundamental understandings of battery components, particularly electrodes, electrolytes, and interphases, with technological and methodological breakthroughs in the *operando*/online assessment of sustainable and smart batteries. For more details, please refer to [Research](https://leitingzhang.github.io/research/).
+Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are a young and dynamic team, located at the [Ångström Advanced Battery Centre](https://www.uu.se/en/department/chemistry-angstrom-laboratory/research/structural-chemistry), Uppsala University. Our **research vision** is to bridge fundamental understandings of battery components, particularly electrodes, electrolytes, and interphases, with technological and methodological breakthroughs in the *operando*/online assessment of sustainable and smart batteries. For more details, please refer to [Research](https://leitingzhang.github.io/research/).
  
 ---
 
 # News
 
+### 2025.07.03
+Leiting was invited by Prof. Jijian Xu to give a talk at the AMI Conference in Singapore, titled "Unveiling chemomechanical degradation in aqueous batteries with online acoustic emission sensing."
+
 ### 2025.07.01
-A paper from Chaofeng Zhang's group at the Anhui University, to which Leiting contributed, "Design Strategy for Small-Molecule Organic Cathodes: Regulated Active Groups Enable High Capacity and Voltage in Aqueous and Seawater Aluminium Ion Batteries," was accepted by Angewandte Chemie International Edition. [Link](https://doi.org/10.1002/anie.202508057)
+A paper from Chaofeng Zhang's group at Anhui University, to which Leiting contributed, "Design Strategy for Small-Molecule Organic Cathodes: Regulated Active Groups Enable High Capacity and Voltage in Aqueous and Seawater Aluminium Ion Batteries," was accepted by Angewandte Chemie International Edition. [Link](https://doi.org/10.1002/anie.202508057)
+
+### 2025.06.30
+Leiting was invited by Prof. Jiaqiang Huang to give a lecture at The Hong Kong University of Science and Technology (Guangzhou), titled "Online electrochemical mass spectrometry for battery research."
 
 ### 2025.06.29
-A paper from Sathiya Mariyappan's group at the Collège de France, to which Leiting contributed, "O3 vs P2 Sodium Layered Oxides: A Comparative Study on Electrode–Electrolyte Reactivity and Structural Stability for Cycling Performance," was accepted by Energy Storage Materials. [Link](https://doi.org/10.1016/j.ensm.2025.104423)
+A paper from Sathiya Mariyappan's group at Collège de France, to which Leiting contributed, "O3 vs P2 Sodium Layered Oxides: A Comparative Study on Electrode–Electrolyte Reactivity and Structural Stability for Cycling Performance," was accepted by Energy Storage Materials. [Link](https://doi.org/10.1016/j.ensm.2025.104423)
 
 ### 2025.06.17
 Leiting received a prestigious SSF Future Research Leaders (FFL-9) grant from the Swedish Foundation for Strategic Research, with SEK 15 million (EUR ~1.4 million) for 5 years, along with comprehensive leadership training. The team will be developing next-generation anode-free batteries with high energy density and improved safety, applicable to future electric aircraft or drones. Openings will be available soon! [Link](https://strategiska.se/en/they-are-the-research-leaders-of-the-future-ffl9/)
