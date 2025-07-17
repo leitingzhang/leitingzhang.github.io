@@ -74,7 +74,10 @@ redirect_from:
 
 <ol reversed>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
+  <li>Department of Applied Chemistry, University of Science and Technology of China, Hefei, China (22/07/2025).</li>
   <li>Institutes of Physical Science and Information Technology, Anhui University, Hefei, China (21/07/2025).</li>
+  <li>School of Chemistry and Chemical Engineering, South China University of Technology, Guangzhou, China (11/07/2025).</li>
+  <li>Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Hong Kong, China (08/07/2025).</li>
   <li>Sustainable Energy and Environment Thrust, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (30/06/2025).</li>
   <li>Scientific Frontier Seminar, Research Cloud online platform, China (10/06/2025, virtual).</li>
   <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
@@ -106,7 +109,7 @@ redirect_from:
 * Co-organized the Battery2030+ 1st Young Scientist Event (2022.6) and the 3rd Annual Meeting (2023.5)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
-* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, & Sensors and Actuators B: Chemical
+* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
 
 ## Pedagogy and Leadership Development
 * SSF Future Research Leaders (five-year research & leadership training program)
