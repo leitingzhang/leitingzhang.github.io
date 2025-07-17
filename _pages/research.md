@@ -28,7 +28,7 @@ Collaborators: [Chao Zhang](https://tec-group.github.io/), [William Brant](https
 ### References:
 
 1. Espinoza Ramos et al. [Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing](https://doi.org/10.1016/j.mtener.2025.101899), *Mater. Today Energy* **2025**, *51*, 101899.
-2. Zhang et al. [Mastering Proton Activities in Aqueous Batteries](https://doi.org/10.1002/adma.202407852). *Adv. Mater.* **2024**, *in press*.
+2. Zhang et al. [Mastering Proton Activities in Aqueous Batteries](https://doi.org/10.1002/adma.202407852). *Adv. Mater.* **2024**, *37*(13), 202407852.
 3. Zhang et al. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). *ACS Energy Letter.* **2024**, *9* (3), 959–966.
 4. Hou et al. [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). *Small* **2023**, 2308577.
 5. Zhang et al. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). *Batter. Supercaps* **2022**, *5* (12), e202200336. 
