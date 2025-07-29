@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.07.29
+Leiting will serve for the second term on the Early Career Advisory Board of JACS Au. [Anouncement](https://pubs.acs.org/doi/10.1021/jacsau.5c00822)
+
 ### 2025.07.22
 Leiting was invited by Prof. Wei Chen to give a seminar at the University of Science and Technology of China.
 
