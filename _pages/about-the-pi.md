@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Degrees
+## Academic Qualifications
 * Docent (2025) in Chemistry with Specialization in Materials Chemistry, Uppsala University (UU)
 * Ph.D. (2018), M.Phil. (2014), and B.Eng. (2011) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
