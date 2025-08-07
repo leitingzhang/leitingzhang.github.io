@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.08.07
+A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Analyses of Electrode–Electrolyte Interactions in Commercial Layered Oxide/Hard Carbon Na-Ion Cells via Optical Sensors," was accepted by Advanced Energy Materials. [Link](https://doi.org/10.1002/aenm.202503527)
+
+### 2025.08.05
+A paper from Wei Jin's group at The Hong Kong Polytechnic University, to which Leiting contributed, "Revealing Electrochemical Pathways in Lithium-Ion Batteries with Operando Optical Fiber Photothermal Spectroscopy," was accepted by Energy & Environmental Science.
+
 ### 2025.07.29
 Leiting will serve for the second term on the Early Career Advisory Board of JACS Au. [Anouncement](https://pubs.acs.org/doi/10.1021/jacsau.5c00822)
 
