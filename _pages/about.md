@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.08.08
-A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Unconventional High-Temperature Cycling Stability of O2-Type Li<sub>0.75</sub>[Li<sub>0.25</sub>Mn<sub>0.75</sub>]O<sub>2</sub> Cathode," was accepted by Joule. [Link](https://doi.org/10.1016/j.joule.2025.102089))
+A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Unconventional High-Temperature Cycling Stability of O2-Type Li<sub>0.75</sub>[Li<sub>0.25</sub>Mn<sub>0.75</sub>]O<sub>2</sub> Cathode," was accepted by Joule. [Link](https://doi.org/10.1016/j.joule.2025.102089)
 
 ### 2025.08.07
 A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Analyses of Electrode–Electrolyte Interactions in Commercial Layered Oxide/Hard Carbon Na-Ion Cells via Optical Sensors," was accepted by Advanced Energy Materials. [Link](https://doi.org/10.1002/aenm.202503527)
