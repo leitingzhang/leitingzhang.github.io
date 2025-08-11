@@ -21,7 +21,7 @@ redirect_from:
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
   
 ## Grants
-* 2025–2030  Future Research Leaders (FFL-9) Grant (15 MSEK), "High-energy anode-free batteries," FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
+* 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2024–2028  FFI project grant (3.3 MSEK), “Online acoustic emission monitoring of electric vehicle battery health,” #2023-00990, Swedish Energy Agency, Sweden (main PI)
 * 2023	Young scientist grant (0.5 MSEK), “Sound of gas evolution: an acoustic emission study of battery aging,” #23-372, ÅForsk Foundation, Sweden
