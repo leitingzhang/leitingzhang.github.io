@@ -109,7 +109,7 @@ redirect_from:
 * Co-organized the Battery2030+ 1st Young Scientist Event (2022.6) and the 3rd Annual Meeting (2023.5)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
-* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
+* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Advanced Functional Materials, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
 
 ## Pedagogy and Leadership Development
 * SSF Future Research Leaders (five-year research & leadership training program)
