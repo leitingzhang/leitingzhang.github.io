@@ -19,7 +19,18 @@ redirect_from:
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
 * 2021.5–2023.5  Postdoctoral Researcher, Uppsala University, Sweden
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
-  
+
+## Awards
+* 2025  Future Research Leader, Swedish Foundation for Strategic Research (SSF), Sweden
+* 2025	Promising Early Career Scientists, Materials Today Energy
+* 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
+* 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
+* 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
+* 2024  Finalist, inaugural Energy Lectureship (Early Career), ACS
+* 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, CBME, HKUST
+* 2016	Overseas Research Awards, School of Engineering, HKUST
+* 2021  Gold Award, President's Cup, HKUST
+
 ## Grants
 * 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
@@ -33,17 +44,6 @@ redirect_from:
 * 2015  Travel grant, University Grants Committee, HKSAR
 * 2014  Travel grant, University Grants Committee, HKSAR
 * 2011  Student conference grant, Research Grants Council, HKSAR
-
-## Awards
-* 2025  Future Research Leader, Swedish Foundation for Strategic Research, Sweden
-* 2025	Promising Early Career Scientists, Materials Today Energy
-* 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
-* 2025	Rising Star in Materials Science, ACS Materials Au, American Chemical Society (ACS)
-* 2024  Bergstedt Prize, Royal Society of Sciences in Uppsala, Sweden
-* 2024  Finalist, inaugural Energy Lectureship (Early Career), ACS
-* 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, HKUST
-* 2016	Overseas Research Awards, School of Engineering, HKUST
-* 2021  Gold Award, President's Cup, HKUST
 
 ## Beamtime
 * 2025  Balder beamtime (24 shifts), #20250598, MAX IV Laboratory, Sweden
@@ -103,10 +103,10 @@ redirect_from:
 ## University and Professional Service
 * PhD examination committee, Uppsala University (2025), Chemnitz University of Technology (2025), Tongji University (2025)
 * Teacher representative in the Program Board of the Master's Program in Battery Technology and Energy Storage, UU (since 2025)
-* Steering Committee member, SENSE MSc program, EIT InnoEnergy (since 2023)
-* Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees)
-* Organized weekly Ångström Battery Monday Seminar series, UU (50–70 regular attendees)
-* Co-organized the Battery2030+ 1st Young Scientist Event (2022.6) and the 3rd Annual Meeting (2023.5)
+* Steering Committee member, Smart Electrical Networks and Systems (SENSE) MSc program, EIT InnoEnergy (since 2023)
+* Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees, since 2023)
+* Organized weekly Ångström Battery Monday Seminar series, UU (50–70 regular attendees, since 2023)
+* Co-organized the Battery2030+ 1st Young Scientist Event (2022) and the 3rd Annual Meeting (2023)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Board member and vice CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
 * Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Advanced Functional Materials, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
