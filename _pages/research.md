@@ -23,7 +23,7 @@ Our research team conducts physicochemical and electrochemical testing to elucid
   <figcaption>Proposed reaction mechanisms in (a) TiS<sub>2</sub>-based and (b) V<sub>2</sub>O<sub>5</sub>-based aqueous batteries</figcaption>
 </figure>
 
-Collaborators: [Chao Zhang](https://tec-group.github.io/) (Uppsala University), [Xu Hou](https://www.lunduniversity.lu.se/lucat/user/3b5156dbc9f0353538722b22741c6f3c) (Lund University), [Chaofeng Zhang](https://wky.ahu.edu.cn/2023/0215/c13481a300963/page.htm) (Anhui University)， and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
+Collaborators: [Chao Zhang](https://tec-group.github.io/) (Uppsala University), [Xu Hou](https://www.lunduniversity.lu.se/lucat/user/3b5156dbc9f0353538722b22741c6f3c) (Lund University), [Chaofeng Zhang](https://wky.ahu.edu.cn/2023/0215/c13481a300963/page.htm) (Anhui University), and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
 
 ### References:
 
