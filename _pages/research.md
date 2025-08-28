@@ -27,12 +27,12 @@ Collaborators: [Chao Zhang](https://tec-group.github.io/) (Uppsala University), 
 
 ### References:
 
-1. Espinoza Ramos et al. [Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing](https://doi.org/10.1016/j.mtener.2025.101899), **Mater. Today Energy** 2025, *51*, 101899.
-2. Li et al. [Design Strategy for Small-Molecule Organic Cathodes: Regulated Active Groups Enable High Capacity and Voltage in Aqueous and Seawater Aluminum Ion Batteries](https://onlinelibrary.wiley.com/doi/10.1002/anie.202508057), **Angew. Chem. Int. Ed.** 2025, *64*(35), e202508057.
-3. Zhang et al. [Mastering Proton Activities in Aqueous Batteries](https://doi.org/10.1002/adma.202407852). **Adv. Mater.** 2024, *37*(13), 202407852.
-4. Zhang et al. [Reversible Hydration Enabling High-Rate Aqueous Li-Ion Batteries](https://doi.org/10.1021/acsenergylett.4c00224). **ACS Energy Letter.** 2024, *9* (3), 959–966.
-5. Hou et al. [Interfacial Chemistry in Aqueous Lithium-Ion Batteries: a Case Study of V<sub>2</sub>O<sub>5</sub> in Dilute Aqueous Electrolytes](https://doi.org/10.1002/smll.202308577). **Small** 2023, 2308577.
-6. Zhang et al. [Reactivity of TiS<sub>2</sub> Anode Towards Electrolytes in Aqueous Li-Ion Batteries](https://doi.org/10.1002/batt.202200336). **Batter. Supercaps** 2022, *5* (12), e202200336. 
+1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
+2. Li et al. **Angew. Chem. Int. Ed.** 2025, *64*(35), e202508057.
+3. Zhang et al. **Adv. Mater.** 2024, *37*(13), 202407852.
+4. Zhang et al. **ACS Energy Letter.** 2024, *9* (3), 959–966.
+5. Hou et al. **Small** 2023, 2308577.
+6. Zhang et al. **Batter. Supercaps** 2022, *5* (12), e202200336. 
 
 ## Development and application of advanced *operando* characterizations
 
@@ -51,11 +51,11 @@ Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N1
 
 ### References:
 
-1. Espinoza Ramos et al. [Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing](https://doi.org/10.1016/j.mtener.2025.101899), **Mater. Today Energy** 2025, *51*, 101899.
-2. Zheng et al. [Operando Monitoring of Gassing Dynamics in Lithium-Ion Batteries with Optical Fiber Photothermal Spectroscopy](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d5ee04211a), **Energy Environ. Sci** 2025, *in press*.
-3. Espinoza Ramos et al. [Online Acoustic Emission Sensing of Rechargeable Batteries: Technology, Status, and Prospects](https://doi.org/10.1039/d4ta04571h). **J. Mater. Chem. A** 2024, *12* (35), 23280–23296.
-4. Li et al. [Decoupling the Roles of Ni and Co in Anionic Redox Activity of Li-Rich NMC Cathodes](https://doi.org/10.1038/s41563-023-01679-x). **Nat. Mater.** 2023, *22* (11), 1370–1379.
-5. Zhang et al. [Unraveling Gas Evolution in Sodium Batteries by Online Electrochemical Mass Spectrometry](https://doi.org/10.1016/j.ensm.2021.07.005). **Energy Storage Mater.** 2021, *42*, 12–21.
+1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
+2. Zheng et al. **Energy Environ. Sci** 2025, *in press*.
+3. Espinoza Ramos et al. **J. Mater. Chem. A** 2024, *12* (35), 23280–23296.
+4. Li et al. **Nat. Mater.** 2023, *22* (11), 1370–1379.
+5. Zhang et al. **Energy Storage Mater.** 2021, *42*, 12–21.
 
 ## High-throughput robotic screening of battery electrolytes
 
@@ -74,5 +74,5 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 ### References:
 
-1. Yik et al. [Accelerating Aqueous Electrolyte Design with Automated Full-Cell Battery Experimentation and Bayesian Optimization](https://doi.org/10.1016/j.xcrp.2025.102548). **Cell Rep. Phys. Sci.** 2025, *6*, 102548.
-2. Yik et al. [Automated Electrolyte Formulation and Coin Cell Assembly for High-Throughput Lithium-Ion Battery Research](https://doi.org/10.1039/d3dd00058c). **Digit. Discov.** 2023, *2* (3), 799–808.
+1. Yik et al. **Cell Rep. Phys. Sci.** 2025, *6*, 102548.
+2. Yik et al. **Digit. Discov.** 2023, *2* (3), 799–808.
