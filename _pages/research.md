@@ -54,8 +54,7 @@ Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N1
 1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
 2. Zheng et al. **Energy Environ. Sci** 2025, *in press*.
 3. Espinoza Ramos et al. **J. Mater. Chem. A** 2024, *12* (35), 23280–23296.
-4. Li et al. **Nat. Mater.** 2023, *22* (11), 1370–1379.
-5. Zhang et al. **Energy Storage Mater.** 2021, *42*, 12–21.
+4. Zhang et al. **Energy Storage Mater.** 2021, *42*, 12–21.
 
 ## High-throughput robotic screening of battery electrolytes
 
