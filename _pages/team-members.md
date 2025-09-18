@@ -19,7 +19,7 @@ td, th {
 | --- | --- | --- | --- | --- |
 | [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025.09–2026.08 |  Researcher | Chemomechanics of all-solid-state batteries |
 | [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09–2026.06 |  Postdoc | Synchrotron studies of next-generation battery materials |
-| Sisi Wang | 2026.01– |  PhD student (main supervisor) | Anode-free lithium batteries |
+| Sisi Wang | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
 | [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
