@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.09.15
-We warmly welcome two colleagues joining our team, Dr. Hwamyung Jang (researcher) and Dr. Selen Gunaydin (visiting postdoc)!
+We warmly welcome two colleagues joining our team, Dr. Hwamyung Jang (researcher) and Dr. Selen Gunaydin (postdoc)!
 
 ### 2025.09.09
 Jackie and Inti participated in the 76<sup>th</sup> Annual Meeting of the International Society of Electrochemistry (ISE) in Mainz, Germany, and presented their posters.
