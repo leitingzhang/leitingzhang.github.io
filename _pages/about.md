@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.09.15
+We warmly welcome two colleagues joining our team, Dr. Hwamyung Jang (researcher) and Dr. Selen Gunaydin (visiting postdoc)!
+
+### 2025.09.09
+Jackie and Inti participated in the 76<sup>th</sup> Annual Meeting of the International Society of Electrochemistry (ISE) in Mainz, Germany, and presented their posters.
+
 ### 2025.08.08
 A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Unconventional High-Temperature Cycling Stability of O2-Type Li<sub>0.75</sub>[Li<sub>0.25</sub>Mn<sub>0.75</sub>]O<sub>2</sub> Cathode," was accepted by Joule. [Link](https://doi.org/10.1016/j.joule.2025.102089)
 
