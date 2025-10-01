@@ -73,6 +73,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
   <li>Department of Applied Chemistry, University of Science and Technology of China, Hefei, China (22/07/2025).</li>
   <li>Institutes of Physical Science and Information Technology, Anhui University, Hefei, China (21/07/2025).</li>
@@ -80,14 +81,17 @@ redirect_from:
   <li>Department of Chemical and Biological Engineering, The Hong Kong University of Science and Technology, Hong Kong, China (08/07/2025).</li>
   <li>Sustainable Energy and Environment Thrust, The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China (30/06/2025).</li>
   <li>Scientific Frontier Seminar, Research Cloud online platform, China (10/06/2025, virtual).</li>
-  <li>Center for Advancing Electronics Dresden, Dresden University of Technology, Germany (14/05/2025).</li>
-  <li>Research Center MAIN, Chemnitz University of Technology, Germany (12/05/2025).</li>
+  <li>Chair of Molecular Functional Materials, Dresden University of Technology, Germany (14/05/2025).</li>
+  <li>Center for Materials, Architectures and Integration of Nanomembranes, Chemnitz University of Technology, Germany (12/05/2025).</li>
+  <li>Department of Earth Sciences, Uppsala University - Campus Gotland, Sweden (06/05/2025).</li>
   <li>MAX IV Battery Matrix Workshop, MAX IV Laboratory, Sweden (19/03/2025).</li>
+  <li>Department of Materials Science, Fudan University, China (05/03/2025).</li>
+  <li>Department of Materials Science and Engineering, Tongji University, China (03/03/2025).</li>
   <li>L(a)unch Seminar, Berlin Technology Center, Germany (10/12/2024, virtual).</li>
   <li>Department of Materials Science & Engineering, Seoul National University, Seoul, Korea (15/11/2024).</li>
   <li>Guangzhou Municipal Key Laboratory of Materials Informatics, Guangzhou, China (26/07/2024).</li>
   <li>School of Chemical Engineering and Technology, Sun Yat-sen University, China (25/07/2024).</li>
-  <li>Battery Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
+  <li>Batteries Sweden (BASE) Annual Meeting, Uppsala University, Sweden (03/04/2024).</li>
   <li>Structural Chemistry Programme, Uppsala University, Sweden (19/02/2024).</li>
   <li>School of Metallurgy and Environment, Central South University, China (19/10/2023).</li>
   <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
