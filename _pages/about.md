@@ -16,7 +16,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 # News
 
 ### 2025.09.30
-Leiting's invited Perspective was published by ACS Materials Au, titled "Unveiling Gas Evolution in Sustainable Aqueous Batteries by Online Electrochemical Mass Spectrometry: Progress and Perspectives." [Link](https://doi.org/10.1021/acsmaterialsau.5c00124)
+Leiting's invited Perspective was published by *ACS Materials Au*, titled "Unveiling Gas Evolution in Sustainable Aqueous Batteries by Online Electrochemical Mass Spectrometry: Progress and Perspectives." [Link](https://doi.org/10.1021/acsmaterialsau.5c00124)
 
 ### 2025.09.15
 We warmly welcome two colleagues to our team, Dr. Hwamyung Jang (researcher) and Dr. Selen Gunaydin (postdoc)!
