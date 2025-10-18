@@ -73,6 +73,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+  <li>COMPEL meeting, Gothenburg, Sweden (11/11/2025).</li>
   <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
   <li>Department of Applied Chemistry, University of Science and Technology of China, Hefei, China (22/07/2025).</li>
