@@ -29,7 +29,7 @@ Collaborators: [Chao Zhang](https://tec-group.github.io/) (Uppsala University), 
 
 1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
 2. Li et al. **Angew. Chem. Int. Ed.** 2025, *64*(35), e202508057.
-3. Zhang et al. **Adv. Mater.** 2024, *37*(13), 202407852.
+3. Zhang et al. **Adv. Mater.** 2025, *37*(13), 2407852.
 4. Zhang et al. **ACS Energy Letter.** 2024, *9* (3), 959–966.
 5. Hou et al. **Small** 2023, 2308577.
 6. Zhang et al. **Batter. Supercaps** 2022, *5* (12), e202200336. 
@@ -52,7 +52,7 @@ Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N1
 ### References:
 
 1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
-2. Zheng et al. **Energy Environ. Sci** 2025, *in press*.
+2. Zheng et al. **Energy Environ. Sci** 2025, *18*, 8499-8514.
 3. Espinoza Ramos et al. **J. Mater. Chem. A** 2024, *12* (35), 23280–23296.
 4. Zhang et al. **Energy Storage Mater.** 2021, *42*, 12–21.
 
