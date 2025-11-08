@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.11.12
+Leiting presented the group's research highlight at the third COMPEL biannual meeting in Gothenburg, Sweden.
+
+### 2025.11.05
+Leiting was invited by Prof. Yang Xu to give a seminar at the Department of Chemistry, University College London. The seminar titled "Optimizing Next-Generation Batteries: from Chemomechanical Sensing to High-Throughput Electrolyte Screening."
+
 ### 2025.10.12
 Leiting was invited to give a talk, titled "Water Cointercalation in Aqueous Batteries," at the 248th ECS Meeting in Chicago, Symposium A06-Next Generation Aqueous Batteries: Electrodes, Electrolytes, and Interphases.
 
