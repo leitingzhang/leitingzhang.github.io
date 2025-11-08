@@ -73,7 +73,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
-  <li>COMPEL meeting, Gothenburg, Sweden (11/11/2025).</li>
+  <li>COMPEL biannual meeting, Gothenburg, Sweden (12/11/2025).</li>
   <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
   <li>Department of Applied Chemistry, University of Science and Technology of China, Hefei, China (22/07/2025).</li>
@@ -113,6 +113,7 @@ redirect_from:
 * Organized weekly Ångström Battery Monday Seminar series, UU (50–70 regular attendees, since 2023)
 * Co-organized the Battery2030+ 1st Young Scientist Event (2022) and the 3rd Annual Meeting (2023)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
+* Guest editor, JACS Au Special Issue "Future Perspectives on Battery Chemistries"
 * Board Member and Deputy CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
 * Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Advanced Functional Materials, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
 
