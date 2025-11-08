@@ -17,7 +17,7 @@ Visiting address: Room 2348, Ångström Laboratory, Regementsvägen 10
 
 ## Opening
 
-We are seeking a highly motivated postdoctoral researcher to work on aqueous battery cathode materials/systems. Please contact me with your cover letter and CV.
+We are seeking a highly motivated postdoctoral researcher to work on electrode-electrolyte interactions in aqueous batteries. Please contact me with your cover letter and CV.
 
 
 
