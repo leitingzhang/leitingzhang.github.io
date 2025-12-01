@@ -98,7 +98,7 @@ redirect_from:
   <li>ESS Knowledge Day, AB Volvo, Gothenburg, Sweden (29/06/2023).</li>
   <li>Stockholm Materials Hub (SMH) Workshop, Stockholm University, Sweden (25/05/2023).</li>
   <li>Battery Pub (14/03/2023, virtual).</li>
-  <li>Laboratory “Chimie du Solide et de l’ Énergie”, Collège de France, France (20/12/2022).</li>
+  <li>Laboratory “Chimie du Solide et de l’Énergie”, Collège de France, France (20/12/2022).</li>
   <li>Energy Institute, HKUST, HKSAR (10/11/2022).</li>
   <li>School of Chemistry, Chinese University of Hong Kong, HKSAR (10/11/2022).</li>
   <li>School of Materials, Sun Yat-sen University, China (13/05/2021, virtual).</li>
