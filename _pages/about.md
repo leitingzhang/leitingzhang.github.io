@@ -15,6 +15,15 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2025.11.27
+The group carried out a beamtime campaign, led by Ziyin, at the DanMAX beamline at MAX IV Laboratory, Sweden.
+
+### 2025.11.18
+The group carried out a beamtime campaign, led by Haohui, at the Balder beamline at MAX IV Laboratory, Sweden.
+
+### 2025.11.17
+Leiting participated in the [SKERIC](https://www.skeric.org/) Science Diplomacy Academy training for future academic leaders in Seoul, Korea.
+
 ### 2025.11.12
 Leiting presented the group's research highlight at the third COMPEL biannual meeting in Gothenburg, Sweden.
 
