@@ -22,10 +22,16 @@ The group carried out a beamtime campaign, led by Ziyin, at the DanMAX beamline 
 The group carried out a beamtime campaign, led by Haohui, at the Balder beamline at MAX IV Laboratory, Sweden.
 
 ### 2025.11.17
+Inti paid a two-week research stay with Prof. Qi Zhao's group at the Hong Kong Polytechnic University, China, to consolidate our knowledge of acoustic emission sensing for batteries.
+
+### 2025.11.17
 Leiting participated in the [SKERIC](https://www.skeric.org/) Science Diplomacy Academy training for future academic leaders in Seoul, Korea.
 
 ### 2025.11.12
 Leiting presented the group's research highlight at the third COMPEL biannual meeting in Gothenburg, Sweden.
+
+### 2025.11.11
+Inti presented a poster, titled "Unveiling Chemomechanical Degradation in Aqueous Batteries with Online Acoustic Emission Sensing," at the International Battery Materials Association Annual Meeting 2025 in Singapore.
 
 ### 2025.11.05
 Leiting was invited by Prof. Yang Xu to give a seminar at the Department of Chemistry, University College London. The seminar titled "Optimizing Next-Generation Batteries: from Chemomechanical Sensing to High-Throughput Electrolyte Screening."
