@@ -32,6 +32,7 @@ redirect_from:
 * 2021  Gold Award, President's Cup, HKUST
 
 ## Grants
+* 2026–2028  Compel postdoc grant (2.2 MSEK), "Learning switching dynamical systems for predictive and mechanistic insights into battery aging," CompelUU, Sweden
 * 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
 * 2024–2028  FFI project grant (3.3 MSEK), “Online acoustic emission monitoring of electric vehicle battery health,” #2023-00990, Swedish Energy Agency, Sweden (main PI)
