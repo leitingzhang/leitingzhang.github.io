@@ -17,14 +17,14 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025.09–2026.08 |  Researcher | Chemomechanics of all-solid-state batteries |
-| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09–2026.06 |  Postdoc | Synchrotron studies of next-generation battery materials |
+| [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025.09– |  Researcher | Chemomechanics of all-solid-state batteries |
+| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09– |  Postdoc | Synchrotron studies of next-generation battery materials |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
 | [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09– |  PhD student (co-supervisor) | High-throughput screening of battery electrolytes |
-| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Student assistant | Benchmarking aqueous MnO<sub>2</sub> batteries |
+| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Master thesis student | Benchmarking aqueous MnO<sub>2</sub> batteries |
 | [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025.08– |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
 
 
