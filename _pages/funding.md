@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+Ongoing
 <figure>
   <a href="/images/funpic/SSF.png">
   <img src="/images/funpic/SSF.png" alt = "SSF" />
@@ -31,6 +31,7 @@ author_profile: true
     </a>
 </figure><br>
 
+Past
 <figure>
   <a href="/images/funpic/ÅForsk.png">
   <img src="/images/funpic/ÅForsk.png" alt = "ÅForsk" />
