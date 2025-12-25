@@ -40,8 +40,8 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of battery acoustic emission sensing |
-| [William Johansson](https://www.linkedin.com/in/william-johansson-218191241/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of battery acoustic emission sensing |
+| [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
+| [William Johansson](https://www.linkedin.com/in/william-johansson-218191241/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
 | [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01–2025.07 |  Master thesis student | Anode-free lithium batteries |
 | [Caroline Albert](https://www.linkedin.com/in/caroline-albert/) | 2024.01–2024.06 |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
 | [Masoud Foroutan Koudahi](https://www.linkedin.com/in/masoudforoutan/)  | 2023.09–2023.12 | Visiting PhD student | Electrochemical testing of hybrid electrolytes |
