@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.01.12
+Sisi started her PhD studies in our team. She will be working on anode-free lithium-metal batteries, funded by SSF. Welcome!
+
+### 2025.12.17
+Leiting was visited by Dr. Yongkuk (Jake) Jeong, assistant professor in production logistics at KTH Royal Institute of Technology.
+
 ### 2025.11.27
 The group carried out a beamtime campaign, led by Ziyin, at the DanMAX beamline at MAX IV Laboratory, Sweden.
 
