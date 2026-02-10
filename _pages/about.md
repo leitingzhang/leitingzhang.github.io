@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.02.07
+The group carried out a beamtime campaign, led by Haohui, at the Balder beamline at MAX IV Laboratory, Sweden.
+
 ### 2026.01.12
 Sisi started her PhD studies in our team. She will be working on anode-free lithium-metal batteries, funded by SSF. Welcome!
 
