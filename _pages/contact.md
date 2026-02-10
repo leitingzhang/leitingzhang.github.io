@@ -17,7 +17,7 @@ Visiting address: Room 3403, Ångström Laboratory, Regementsvägen 10
 
 ## Opening
 
-We are seeking a highly motivated postdoctoral researcher to work on machine-learning-guided battery aging prediction. Please contact Leiting with your cover letter and CV.
+We do not have any openings at the moment. Stay tuned!
 
 
 
