@@ -19,7 +19,7 @@ td, th {
 | --- | --- | --- | --- | --- |
 | [Dr. Sicheng Wu](https://www.linkedin.com/in/sicheng-wu-a485b3300/) | 2026.04– |  Postdoc | Sustainable aqueous batteries |
 | [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025.09– |  Researcher | Chemomechanics of all-solid-state batteries |
-| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09– |  Postdoc | Synchrotron studies of next-generation battery materials |
+| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09– |  Visiting postdoc | Synchrotron studies of next-generation battery materials |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
 | [Axel Hällgren](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482) | 2025.09– |  PhD student (co-supervisor) | Predictive modeling of battery aging |
 | [Lukas Lindén Thöming](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
