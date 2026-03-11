@@ -32,6 +32,7 @@ redirect_from:
 * 2021  Gold Award, President's Cup, HKUST
 
 ## Grants
+* 2026–2027  Staff exchange grant for early-career AI project (0.3 MSEK), "Machine-learning-assisted battery time-series data interpretation," Faculty of Science and Technology, UU, Sweden
 * 2026–2028  CompelUU postdoc grant (2.2 MSEK), "Learning switching dynamical systems for predictive and mechanistic insights into battery aging," CompelUU, Sweden
 * 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
@@ -74,6 +75,7 @@ redirect_from:
 ### Invited departmental lectures, seminars, workshops
 
 <ol reversed>
+ <li>Machine Learning for Materials and Molecular Discoveries (ML2MD) Workshop, Uppsala University, Sweden (18/06/2026).</li>
   <li>COMPEL biannual meeting, Gothenburg, Sweden (12/11/2025).</li>
   <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
@@ -116,7 +118,7 @@ redirect_from:
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Guest editor, JACS Au Special Issue "Future Perspectives on Battery Chemistries"
 * Board Member and Deputy CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
-* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Advanced Functional Materials, Angewandte Chemie International Edition, Applied Energy, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
+* Peer reviewer: ACS Applied Energy Materials, ACS Energy Letters, Advanced Functional Materials, Advanced Materials, Angewandte Chemie International Edition, Applied Energy, Batteries, Batteries & Supercaps, Carbon Energy, ChemElectroChem, Chemical Engineering Journal, Chemical Science, ChemSusChem, Chinese Chemical Letters, Digital Discovery, Energy Storage Materials, Ionics, Joule, Journal of Electroanalytical Chemistry, Journal of Energy Storage, Journal of Materials Chemistry A, Journal of Power Sources, Journal of the Electrochemical Society, Materials Advances, Materials Science Engineering B, Materials Today, Materials Today Energy, Nano Energy, Nature Communications, Nature Nanotechnology, Science China Chemistry, Scripta Materialia, Sensors and Actuators B: Chemical
 
 ## Pedagogy and Leadership Development
 * SSF Future Research Leaders (five-year research & leadership training program)
