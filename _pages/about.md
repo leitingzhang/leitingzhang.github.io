@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.02.16
+Leiting received the TekNat Faculty staff exchange fund to spend two months working on machine-learning-assisted analysis of battery time-series data with Dr. Jens Sjölund's team at the Department of Information Technology, UU.
+
 ### 2026.02.07
 The group carried out a beamtime campaign, led by Haohui, at the Balder beamline at MAX IV Laboratory, Sweden.
 
