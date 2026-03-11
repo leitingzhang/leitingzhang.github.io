@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.03.11
+Leiting was featured as a 2025 Rising Star in Materials Science by ACS Materials Au. [Link](https://pubs.acs.org/doi/10.1021/acsmaterialsau.6c00052). Leiting contributed to the special issue with a Perspective paper, titled "Unveiling Gas Evolution in Sustainable Aqueous Batteries by Online Electrochemical Mass Spectrometry: Progress and Perspectives." [Paper](https://pubs.acs.org/doi/10.1021/acsmaterialsau.5c00124)
+
 ### 2026.02.16
 Leiting received the TekNat Faculty staff exchange fund to spend two months working on machine-learning-assisted analysis of battery time-series data with Dr. Jens Sjölund's team at the Department of Information Technology, UU.
 
