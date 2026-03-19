@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.03.19
+Jackie successfully defended his PhD thesis, titled "A Self-Driving Lab for Battery Electrolyte Design." Congratulations, Jackie! [Photo1](https://leitingzhang.github.io/images/aboutpic/defense.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/Selfie.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/Group.jpg)
+
 ### 2026.03.11
 Leiting was featured as a 2025 Rising Star in Materials Science by ACS Materials Au. [Link](https://pubs.acs.org/doi/10.1021/acsmaterialsau.6c00052). Leiting contributed to the special issue with a Perspective paper, titled "Unveiling Gas Evolution in Sustainable Aqueous Batteries by Online Electrochemical Mass Spectrometry: Progress and Perspectives." [Paper](https://pubs.acs.org/doi/10.1021/acsmaterialsau.5c00124)
 
