@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.03.24
+Leiting co-organized the symposium "F1 Safe Materials for Advanced Battery Systems" at the Materials for Sustainable Development (MATSUS) Conference in Barcelona, Spain. [Link](https://www.nanoge.org/MATSUSSpring26/symposia?t=68a8321fab10ab7d05f6f8d3)
+
 ### 2026.03.19
 Jackie successfully defended his PhD thesis, titled "A Self-Driving Lab for Battery Electrolyte Design." Congratulations, Jackie! [Photo1](https://leitingzhang.github.io/images/aboutpic/defense.jpg) [Photo2](https://leitingzhang.github.io/images/aboutpic/Selfie.jpg) [Photo3](https://leitingzhang.github.io/images/aboutpic/Group.jpg)
 
