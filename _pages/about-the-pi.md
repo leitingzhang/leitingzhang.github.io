@@ -29,7 +29,7 @@ redirect_from:
 * 2024  Finalist, inaugural Energy Lectureship (Early Career), ACS
 * 2017	Chan Tak Kei & Wong Kwai Ying Best PG Award for Excellent Research, CBME, HKUST
 * 2016	Overseas Research Awards, School of Engineering, HKUST
-* 2021  Gold Award, President's Cup, HKUST
+* 2011  Gold Award, President's Cup, HKUST
 
 ## Grants
 * 2026–2027  Staff exchange grant for early-career AI project (0.3 MSEK), "Machine-learning-assisted battery time-series data interpretation," Faculty of Science and Technology, UU, Sweden
