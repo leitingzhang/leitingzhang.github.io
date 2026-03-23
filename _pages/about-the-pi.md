@@ -58,9 +58,10 @@ redirect_from:
 * 2017  11-ID-B beamline (0.5 shifts), #RA-GUP-54483, Advanced Photon Source, USA
   
 ## Invited Talks
-### Invited conference talks
+### Invited conference and workshop talks
 
 <ol reversed>
+  <li>Machine Learning for Materials and Molecular Discoveries (ML2MD) Workshop, Uppsala University, Sweden (18/06/2026).</li>
   <li>248<sup>th</sup> ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>Applied Materials & Interfaces Conference 2025, Singapore (04/07/2025).</li>
   <li>International Conference Celebrating the 220<sup>th</sup> Anniversary of the First Theory of Electrolysis by Theodor von Grotthuss, Vilnius, Lithuania (05/06/2025).</li>
@@ -72,10 +73,9 @@ redirect_from:
   <li>NanoInnovation Conference, Rome, Italy (21/09/2022)</li>
 </ol>
 
-### Invited departmental lectures, seminars, workshops
+### Invited departmental lectures and seminars
 
 <ol reversed>
- <li>Machine Learning for Materials and Molecular Discoveries (ML2MD) Workshop, Uppsala University, Sweden (18/06/2026).</li>
   <li>COMPEL biannual meeting, Gothenburg, Sweden (12/11/2025).</li>
   <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
