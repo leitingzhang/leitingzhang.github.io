@@ -15,6 +15,18 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.04.20
+Leiting offered a one-day battery module to MSc students taking the SENSE programme from KTH. This has been the fourth time that Leiting offered such events.
+
+### 2026.04.17
+A new team photo was taken, followed by a joint lunch.
+
+### 2026.04.13
+Pius Appiah joined the group as a visiting PhD student for three months. He's a 3rd year PhD student from Chungnam National University in South Korea. He will be working on machine learning-assisted battery electrolyte discovery. Welcome!
+
+### 2026.04.07
+Dr. Sicheng (Chase) Wu joined the group as a postdoctoral researcher! He will be working on aqueous batteries. Welcome!
+
 ### 2026.03.24
 Leiting co-organized the symposium "F1 Safe Materials for Advanced Battery Systems" at the Materials for Sustainable Development (MATSUS) Conference in Barcelona, Spain. [Link](https://www.nanoge.org/MATSUSSpring26/symposia?t=68a8321fab10ab7d05f6f8d3)
 
