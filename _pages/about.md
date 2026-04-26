@@ -19,7 +19,7 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 Leiting offered a one-day battery module to MSc students taking the SENSE programme from KTH. This has been the fourth time that Leiting offered such events.
 
 ### 2026.04.17
-A new team photo was taken, followed by a joint lunch.
+A new team photo was taken, followed by a joint lunch. [Photo](https://leitingzhang.github.io/images/aboutpic/0C2A0301.jpg)
 
 ### 2026.04.13
 Pius Appiah joined the group as a visiting PhD student for three months. He's a 3rd year PhD student from Chungnam National University in South Korea. He will be working on machine learning-assisted battery electrolyte discovery. Welcome!
