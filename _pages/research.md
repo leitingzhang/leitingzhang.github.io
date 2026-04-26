@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Our current research has three main themes.
+Our current research has four main themes.
 
 ## Mechanistic understanding of sustainable aqueous batteries
 
@@ -75,3 +75,7 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 1. Yik et al. **Cell Rep. Phys. Sci.** 2025, *6*, 102548.
 2. Yik et al. **Digit. Discov.** 2023, *2* (3), 799–808.
+
+## High-energy anode-free batteries
+
+We aim to develop anode-free lithium batteries with much higher energy densities and improved safety, potentially transforming the electric aviation landscape. 
