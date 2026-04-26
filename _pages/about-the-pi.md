@@ -20,7 +20,7 @@ redirect_from:
 * 2021.5–2023.5  Postdoctoral Researcher, Uppsala University, Sweden
 * 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
 
-## Awards
+## Awards and honors
 * 2025  Future Research Leader, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025	Promising Early Career Scientists, Materials Today Energy
 * 2025  Göran Gustafsson Large Prize for Young Researchers, Göran Gustafsson Foundation (UU/KTH), Sweden
@@ -32,7 +32,7 @@ redirect_from:
 * 2011  Gold Award, President's Cup, HKUST
 
 ## Grants
-* 2026–2027  Staff exchange grant for early-career AI project (0.3 MSEK), "Machine-learning-assisted battery time-series data interpretation," Faculty of Science and Technology, UU, Sweden
+* 2026–2027  Staff grant for early-career AI project (0.3 MSEK), "Machine-learning-assisted battery time-series data interpretation," Faculty of Science and Technology, UU, Sweden
 * 2026–2028  CompelUU postdoc grant (2.2 MSEK), "Learning switching dynamical systems for predictive and mechanistic insights into battery aging," CompelUU, Sweden
 * 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
 * 2025–2028  Göran Gustafsson Young Researcher Grant (3.75 MSEK), "Electro-chemo-mechanics of solid-state batteries," #2533, Göran Gustafsson Foundation (UU/KTH), Sweden
@@ -61,6 +61,8 @@ redirect_from:
 ### Invited conference and workshop talks
 
 <ol reversed>
+  <li>International Symposium on Frontiers in Chemical Engineering & The 18<sup>th</sup> Annual Conference of the Global Chinese Chemical Engineering Scholars, Shanghai, China (11/08/2026).</li>
+  <li>3<sup>rd</sup> International Aqueous Batteries Conference, Hong Kong, China (20/08/2026).</li>
   <li>Machine Learning for Materials and Molecular Discoveries (ML2MD) Workshop, Uppsala University, Sweden (18/06/2026).</li>
   <li>248<sup>th</sup> ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>Applied Materials & Interfaces Conference 2025, Singapore (04/07/2025).</li>
@@ -111,10 +113,10 @@ redirect_from:
 ## University and Professional Service
 * PhD examination committee, Uppsala University (2025), Chemnitz University of Technology (2025), Tongji University (2025)
 * Teacher representative in the Program Board of the Master's Program in Battery Technology and Energy Storage, UU (since 2025)
-* Steering Committee member, Smart Electrical Networks and Systems (SENSE) MSc program, EIT InnoEnergy (since 2023)
-* Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees, since 2023)
+* Steering Committee member and UU representative, Smart Electrical Networks and Systems (SENSE) MSc program, EIT InnoEnergy (since 2023)
+* Organized biweekly laboratory meetings at the Structural Chemistry Program, UU (10–15 regular attendees, 2023-2025)
 * Organized weekly Ångström Battery Monday Seminar series, UU (50–70 regular attendees, since 2023)
-* Co-organized the Battery2030+ 1st Young Scientist Event (2022) and the 3rd Annual Meeting (2023)
+* Co-organized the Battery2030+ 1<sup>st</sup> Young Scientist Event (2022) and the 3<sup>rd</sup> Annual Meeting (2023)
 * JACS Au Early Career Advisory Board member (2024–2025, 2025–2026)
 * Guest editor, JACS Au Special Issue "Future Perspectives on Battery Chemistries"
 * Board Member and Deputy CEO, Metrilytics AB (spin-off company commercializing operando gas analysis)
