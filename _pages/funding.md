@@ -8,30 +8,33 @@ author_profile: true
 {% include base_path %}
 
 <figure>
-  <img src="/images/funpic/SSF.png" alt="Swedish Foundation for Strategic Research">
-  <figcaption>Swedish Foundation for Strategic Research</figcaption>
-</figure>
+  <a href="/images/funpic/SSF.png">
+  <img src="/images/funpic/SSF.png" alt = "SSF" />
+    </a>
+</figure><br>
+  
+  <figure>
+  <a href="/images/funpic/GG.png">
+  <img src="/images/funpic/GG.png" alt = "GG" />
+    </a>
+</figure><br>
 
 <figure>
-  <img src="/images/funpic/GG.png" alt="Göran Gustafsson Foundation">
-  <figcaption>Göran Gustafsson Foundation</figcaption>
-</figure>
+  <a href="/images/funpic/VR.png">
+  <img src="/images/funpic/VR.png" alt = "VR" />
+    </a>
+</figure><br>
 
 <figure>
-  <img src="/images/funpic/VR.png" alt="Swedish Research Council">
-  <figcaption>Swedish Research Council</figcaption>
-</figure>
+  <a href="/images/funpic/SEA.png">
+  <img src="/images/funpic/SEA.png" alt = "SEA" />
+    </a>
+</figure><br>
 
 <figure>
-  <img src="/images/funpic/SEA.png" alt="Swedish Energy Agency">
-  <figcaption>Swedish Energy Agency</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/funpic/ÅForsk.png" alt="ÅForsk Foundation">
-  <figcaption>ÅForsk Foundation</figcaption>
-</figure>
-
-
+  <a href="/images/funpic/ÅForsk.png">
+  <img src="/images/funpic/ÅForsk.png" alt = "ÅForsk" />
+    </a>
+</figure><br>
 
 
