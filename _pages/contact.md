@@ -17,7 +17,7 @@ Visiting address: Room 3403, Ångström Laboratory, Regementsvägen 10
 
 ## Opening
 
-We do not have any openings at the moment. Stay tuned!
+We have a 2-year COMPEL postdoctoral position on machine-learning-asssited battery time series data analysis, in collaboration with Dr. Jens Sjölund from the Department of Information Technology, UU.
 
 
 

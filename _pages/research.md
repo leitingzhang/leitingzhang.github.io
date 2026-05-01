@@ -78,4 +78,8 @@ Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Je
 
 ## High-energy anode-free batteries
 
-We aim to develop anode-free lithium batteries with much higher energy densities and improved safety, potentially transforming the electric aviation landscape. 
+Funding by the Swedish Foundation for Strategic Research (SSF), we develop anode-free lithium batteries with much higher energy densities and improved safety, potentially transforming the electric aviation landscape. To be updated!
+
+## Chemomechanics in solid-state batteries
+
+Funded by the Göran Gustafsson Foundation (UU/KTH), we develop methods to examine chemomechanical degradations in solid-state batteries. To be updated!

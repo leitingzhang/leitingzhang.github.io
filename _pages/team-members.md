@@ -28,7 +28,7 @@ td, th {
 | [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
 | [Pius Appiah](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1010) | 2026.04– | Visiting PhD student | Machine-learning-assisted electrolyte optimization |
 | [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10– |  Master thesis student | Benchmarking aqueous MnO<sub>2</sub> batteries |
-| [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025.08– |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
+
 
 
 
@@ -44,6 +44,7 @@ td, th {
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09–2026.03 |  PhD student (co-supervisor) | A self-driving lab for battery electrolyte design |
+| [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025.08 |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
 | [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
 | [William Johansson](https://www.linkedin.com/in/william-johansson-218191241/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
 | [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01–2025.07 |  Master thesis student | Anode-free lithium batteries |
