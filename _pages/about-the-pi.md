@@ -17,8 +17,8 @@ redirect_from:
 
 ## Employment
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
-* 2021.5–2023.5  Postdoctoral Researcher, Uppsala University, Sweden
-* 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland
+* 2021.5–2023.5  Postdoctoral Researcher, Uppsala University, Sweden (with Prof. Kristina Edström and Prof. Erik J. Berg)
+* 2018.5–2021.4  Postdoctoral Researcher, Paul Scherrer Institute (PSI), Switzerland (with Prof. Petr Novák and Dr. Sigita Trabesinger)
 
 ## Awards and honors
 * 2025  Future Research Leader, Swedish Foundation for Strategic Research (SSF), Sweden
@@ -61,8 +61,8 @@ redirect_from:
 ### Invited conference and workshop talks
 
 <ol reversed>
-  <li>International Symposium on Frontiers in Chemical Engineering & The 18<sup>th</sup> Annual Conference of the Global Chinese Chemical Engineering Scholars, Shanghai, China (11/08/2026).</li>
   <li>3<sup>rd</sup> International Aqueous Batteries Conference, Hong Kong, China (20/08/2026).</li>
+  <li>International Symposium on Frontiers in Chemical Engineering & The 18<sup>th</sup> Annual Conference of the Global Chinese Chemical Engineering Scholars, Shanghai, China (11/08/2026).</li>
   <li>Machine Learning for Materials and Molecular Discoveries (ML2MD) Workshop, Uppsala University, Sweden (18/06/2026).</li>
   <li>248<sup>th</sup> ECS Fall Meeting, Chicago, USA (12/10/2025).</li>
   <li>Applied Materials & Interfaces Conference 2025, Singapore (04/07/2025).</li>
