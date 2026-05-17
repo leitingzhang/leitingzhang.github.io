@@ -19,7 +19,6 @@ td, th {
 | --- | --- | --- | --- | --- |
 | [Dr. Sicheng Wu]([https://www.uu.se/en/contact-and-organisation/staff?query=N26-773) | 2026.04– |  Postdoc | Sustainable aqueous batteries |
 | [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025.09– |  Researcher | Chemomechanics of all-solid-state batteries |
-| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09– |  Visiting postdoc | Synchrotron studies of next-generation battery materials |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
 | [Axel Hällgren](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482) | 2025.09– |  PhD student (co-supervisor) | Predictive modeling of battery aging |
 | [Lukas Lindén Thöming](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
@@ -43,6 +42,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
+| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09–2026.05 |  Visiting postdoc | Synchrotron studies of next-generation battery materials |
 | [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09–2026.03 |  PhD student (co-supervisor) | A self-driving lab for battery electrolyte design |
 | [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025.08 |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
 | [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |

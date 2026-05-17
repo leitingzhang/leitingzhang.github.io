@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.05.17
+A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Revisiting Deep Delithiation of LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) Cathode Materials," was accepted by Small. [Link](https://doi.org/10.1002/smll.73809)
+
 ### 2026.04.20
 Leiting offered a one-day battery module to MSc students taking the SENSE programme from KTH. This has been the fourth time that Leiting offered such events.
 
