@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.05.26
+Leiting gave two talks at the 249<sup>th</sup> ECS Meeting in Seattle, at Symposium A06 - AI-Accelerated Battery Innovation and Manufacturing Process Optimization and Symposium I04 - Battery Mechano-Electro-Chemical Effects 2.
+
 ### 2026.05.17
 A paper from Jean-Marie Tarascon's group at Collège de France, to which Leiting contributed, "Revisiting Deep Delithiation of LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) Cathode Materials," was accepted by Small. [Link](https://doi.org/10.1002/smll.73809)
 
