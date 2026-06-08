@@ -17,7 +17,7 @@ Visiting address: Room 3403, Ångström Laboratory, Regementsvägen 10
 
 ## Opening
 
-We have a 2-year postdoctoral position on anode-free solid-state batteries. Application deadline: June 1, 2026!
+We do not have any openings at the moment. Stay tuned!
 
 
 

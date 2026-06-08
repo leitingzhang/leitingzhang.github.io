@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.06.02
+Inti successfully defended his licentiate thesis, titled "Listening for Battery Degradation: Online Acoustic Emission Sensing for Diagnosing Battery Ageing." Congratulations! [Photo](https://leitingzhang.github.io/images/aboutpic/inti_licentiate.jpg)
+
 ### 2026.05.26
 Leiting gave two talks at the 249<sup>th</sup> ECS Meeting in Seattle, at Symposium A06 - AI-Accelerated Battery Innovation and Manufacturing Process Optimization and Symposium I04 - Battery Mechano-Electro-Chemical Effects 2.
 
