@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.06.19
+Leiting gave an invited talk at the 2026 Machine Learning for Materials and Molecular Discoveries Symposium (ML2MD), titled "Data-Driven Battery Electrolyte Discovery Through Autonomous Coin Cell Assembly, Testing, and Bayesian Optimization."
+
 ### 2026.06.02
 Inti successfully defended his licentiate thesis, titled "Listening for Battery Degradation: Online Acoustic Emission Sensing for Diagnosing Battery Ageing." Congratulations! [Photo](https://leitingzhang.github.io/images/aboutpic/Inti_licentiate.jpeg)
 
