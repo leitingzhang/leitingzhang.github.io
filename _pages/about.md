@@ -15,6 +15,12 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.07.02
+Leiting participated in the International Symposium on Beyond Lithium-Ion Batteries 2026 - BeLi26 in Zürich, Switzerland, and gave a talk titled "Quantifying Battery Chemomechanical Degradation with Online Acoustic Emission Sensing."
+
+### 2026.06.28
+Leiting was invited to participate in the 1st Healing Bat workshop and gave a talk titled "Battery 2030+: Strategic Pathways to a Sustainable Energy Future."
+
 ### 2026.06.19
 Leiting gave an invited talk at the 2026 Machine Learning for Materials and Molecular Discoveries Symposium (ML2MD), titled "Data-Driven Battery Electrolyte Discovery Through Autonomous Coin Cell Assembly, Testing, and Bayesian Optimization."
 
