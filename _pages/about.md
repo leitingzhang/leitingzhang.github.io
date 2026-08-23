@@ -15,6 +15,15 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.08.17
+Leiting visited Prof. Ming Xie's group at Jianghan University and gave a talk titled "Mechanistic Understanding and Optimization of Next-Generation Batteries: from Online Sensing to Self-Driving Battery Lab."
+
+### 2026.08.12
+Leiting visited Prof. Xiaowei Yang's group at Shanghai Jiao Tong University and gave a talk titled "Mechanistic Understanding and Optimization of Next-Generation Batteries: from Operando Characterization to Self-Driving Battery Lab."
+
+### 2026.08.03
+Dr. Faruk Okur joined our team as a postdoctoral researcher. He will be working on anode-free solid-state batteries. Welcome!
+
 ### 2026.07.02
 Leiting participated in the International Symposium on Beyond Lithium-Ion Batteries 2026 - BeLi26 in Zürich, Switzerland, and gave a talk titled "Quantifying Battery Chemomechanical Degradation with Online Acoustic Emission Sensing."
 
