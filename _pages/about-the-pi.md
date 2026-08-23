@@ -78,6 +78,8 @@ redirect_from:
 ### Invited departmental lectures and seminars
 
 <ol reversed>
+  <li>State Key Laboratory of Precision Blasting, Jianghan University, China (17/08/2026).</li>
+  <li>School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, China (12/08/2026).</li>
   <li>COMPEL biannual meeting, Gothenburg, Sweden (12/11/2025).</li>
   <li>Department of Chemistry, University College London, UK (05/11/2025).</li>
   <li>Swedish Electric Transport Laboratory (SEEL), Gothenburg, Sweden (23/09/2025).</li>
