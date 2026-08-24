@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.08.24
+Prof. Prabeer Barpanda from the Indian Institute of Science (IIS), Bangalore, visited the group and gave an invited seminar titled "Layered manganese oxide as versatile insertion host."
+
 ### 2026.08.17
 Leiting visited Prof. Ming Xie's group at Jianghan University and gave a talk titled "Mechanistic Understanding and Optimization of Next-Generation Batteries: from Online Sensing to Self-Driving Battery Lab."
 
