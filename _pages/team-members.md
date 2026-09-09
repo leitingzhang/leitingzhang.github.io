@@ -17,8 +17,6 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-
-https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593
 | [Dr. Faruk Okur](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1599) | 2026.08– |  Postdoc | Anode-free solid-state batteries |
 | [Dr. Sicheng Wu](https://www.uu.se/en/contact-and-organisation/staff?query=N26-773) | 2026.04– |  Postdoc | Sustainable aqueous batteries |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
