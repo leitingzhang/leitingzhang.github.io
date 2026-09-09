@@ -25,7 +25,7 @@ td, th {
 | [Axel Hällgren](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482) | 2025.09– |  PhD student (co-supervisor) | Predictive modeling of battery aging |
 | [Lukas Lindén Thöming](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
-| [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593)((WISE Research Master Thesis Scholarship)) | 2026.08– |  Master's thesis student | Sustainable seawater batteries |
+| [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593) | 2026.08– |  Master's thesis student | Sustainable seawater batteries |
 
 
 ## Alumni
