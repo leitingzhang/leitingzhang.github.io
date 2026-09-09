@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.09.05
+We received a new grant from the Swedish Energy Agency under the "Research for a competitive and sustainable battery value chain" call to develop gas analysis methods for solid-state batteries! The project consortium consists of Uppsala University (PI), Seoul National University, and Metrilytics AB. [Link](https://www.energimyndigheten.se/forskning-och-innovation/data-om-finansiering-av-forskning-och-innovation/projektdatabas/sokresultat/?registrationnumber=2026-209721)
+
 ### 2026.08.24
 Prof. Prabeer Barpanda from the Indian Institute of Science (IIS), Bangalore, visited the group and gave an invited seminar titled "Layered manganese oxide as versatile insertion host."
 
