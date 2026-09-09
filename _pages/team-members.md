@@ -21,11 +21,11 @@ td, th {
 | [Dr. Sicheng Wu](https://www.uu.se/en/contact-and-organisation/staff?query=N26-773) | 2026.04– |  Postdoc | Sustainable aqueous batteries |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
 | [Ziyin Guo](https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204) | 2023.10– |  PhD student (main supervisor) | Interfacial reactivities in aqueous batteries |
-| [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Nondestructive battery acoustic emission sensing |
+| [Inti Espinoza Ramos](https://www.uu.se/en/contact-and-organisation/staff?query=N22-763) | 2023.09– | PhD student (main supervisor) | Battery acoustic emission sensing |
 | [Axel Hällgren](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482) | 2025.09– |  PhD student (co-supervisor) | Predictive modeling of battery aging |
 | [Lukas Lindén Thöming](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
-| [Arjunraj Padmarajan Ambika (WISE Research Master Thesis Scholarship)](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593)) | 2026.08– |  Master's thesis student | Sustainable seawater batteries |
+| [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593)((WISE Research Master Thesis Scholarship)) | 2026.08– |  Master's thesis student | Sustainable seawater batteries |
 
 
 ## Alumni
