@@ -32,6 +32,8 @@ redirect_from:
 * 2011  Gold Award, President's Cup, HKUST
 
 ## Grants
+* 2026–2030  Project grant (10 MSEK), “Online electrochemical mass spectrometry for probing and stabilizing interfaces in high-energy solid-state batteries,” #2026-03582, Swedish Energy Agency, Sweden (main PI)
+* 2026–2030  Marie Skłodowska-Curie Actions Doctoral Network (649.3 kEUR), “Training researchers in safe, resilient and economically viable ultra-fast battery charging systems (TRAIN-FAST),” #101312848, European Commission (co-PI, work package lead)
 * 2026–2027  Staff grant for early-career AI project (0.3 MSEK), "Machine-learning-assisted battery time-series data interpretation," Faculty of Science and Technology, UU, Sweden
 * 2026–2028  CompelUU postdoc grant (2.2 MSEK), "Learning switching dynamical systems for predictive and mechanistic insights into battery aging," CompelUU, Sweden
 * 2025–2030  Future Research Leaders Grant (FFL-9, 15 MSEK), "High-energy anode-free batteries," #FFL24-0190, Swedish Foundation for Strategic Research (SSF), Sweden
@@ -78,6 +80,7 @@ redirect_from:
 ### Invited departmental lectures and seminars
 
 <ol reversed>
+  <li>Department of Chemistry – Ångström Laboratory, Uppsala University, Sweden (04/09/2026).</li>
   <li>State Key Laboratory of Precision Blasting, Jianghan University, China (17/08/2026).</li>
   <li>School of Chemistry and Chemical Engineering, Shanghai Jiao Tong University, China (12/08/2026).</li>
   <li>COMPEL biannual meeting, Gothenburg, Sweden (12/11/2025).</li>
