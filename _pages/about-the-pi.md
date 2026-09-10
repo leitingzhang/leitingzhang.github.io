@@ -13,7 +13,7 @@ redirect_from:
 * Docent (2025) in Chemistry, Uppsala University (UU)
 * Ph.D. (2018), M.Phil. (2014), and B.Eng. (2011) in Chemical Engineering, The Hong Kong University of Science and Technology (HKUST)
 * Collège de France (Ph.D. co-supervision, 2014–2018)
-* Ph.D. supervisors: [Prof. Guohua Chen](https://cbe.hkust.edu.hk/people/guohua-chen), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://minhuashaogroup.wixsite.com/7102)
+* Ph.D. supervisors: [Prof. Guohua Chen](https://cbe.hkust.edu.hk/people/guohua-chen), [Prof. Jean-Marie Tarascon](https://solid-state-chemistry-energy-lab.org/), [Prof. Minhua Shao](https://seng.hkust.edu.hk/about/people/faculty/minhua-shao)
 
 ## Employment
 * 2023.6–  Assistant Professor/Associate Senior Lecturer, Uppsala University, Sweden
