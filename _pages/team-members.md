@@ -40,16 +40,16 @@ td, th {
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
 | [Dr. Hwamyung Jang](https://www.linkedin.com/in/hwamyung-jang/) | 2025–2026 |  Researcher | Chemomechanics of all-solid-state batteries |
-| [Pius Appiah](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1010) | 2026.04–2026.07 | Visiting PhD student | Machine-learning-assisted electrolyte optimization |
-| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024.10–2026.06 |  Master thesis student | Benchmarking aqueous MnO<sub>2</sub> batteries |
-| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025.09–2026.05 |  Visiting postdoc | Synchrotron studies of next-generation battery materials |
-| [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021.09–2026.03 |  PhD student (co-supervisor) | A self-driving lab for battery electrolyte design |
-| [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025.08 |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
-| [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
-| [William Johansson](https://www.linkedin.com/in/william-johansson-218191241/) | 2025.06–2025.08 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
-| [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025.01–2025.07 |  Master thesis student | Anode-free lithium batteries |
-| [Caroline Albert](https://www.linkedin.com/in/caroline-albert/) | 2024.01–2024.06 |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
-| [Masoud Foroutan Koudahi](https://www.linkedin.com/in/masoudforoutan/)  | 2023.09–2023.12 | Visiting PhD student | Electrochemical testing of hybrid electrolytes |
-| [Inti Espinoza Ramos](https://www.linkedin.com/in/intiramos99/) | 2023.01–2023.06 | Master thesis student (w/ Volvo Cars) | <em>Operando</em> quantification of Li-plating |
-| [Franziska Maria Kühling](https://www.linkedin.com/in/franziska-k%C3%BChling-194960278/) | 2022.09–2023.01 | Erasmus+ exchange student | Intercalation mechanism of TiS<sub>2</sub> in aqueous batteries |
+| [Pius Appiah](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1010) | 2026 | Visiting PhD student | Machine-learning-assisted electrolyte optimization |
+| [Haohui Zhang](https://www.uu.se/en/contact-and-organisation/staff?query=N24-1913) | 2024–2026 |  Master thesis student | Benchmarking aqueous MnO<sub>2</sub> batteries |
+| [Dr. Selen Günaydın](https://www.linkedin.com/in/selen-g-767511128/) | 2025–2026 |  Visiting postdoc | Synchrotron studies of next-generation battery materials |
+| [Jackie Yik](https://www.uu.se/en/contact-and-organisation/staff?query=N21-1121) | 2021–2026 |  PhD student (co-supervisor) | A self-driving lab for battery electrolyte design |
+| [Casper Björkman](https://www.linkedin.com/in/casper-bj%C3%B6rkman-b6762023b/) | 2025 |  Student assistant |  Graphical user interface design of battery acoustic emission sensing |
+| [Yue Zhou](https://www.linkedin.com/in/is-yue-zhou/) | 2025 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
+| [William Johansson](https://www.linkedin.com/in/william-johansson-218191241/) | 2025 |  Student assistant |  Machine-learning-assisted signal process of acoustic emission sensing |
+| [Oskar Byrén](https://www.linkedin.com/in/oskar-byr%C3%A9n-a86995257/) | 2025 |  Master thesis student | Anode-free lithium batteries |
+| [Caroline Albert](https://www.linkedin.com/in/caroline-albert/) | 2024 |  Master thesis student (w/ Volvo Cars) | Characterization of cylindrical Li-ion cells of 46-series |
+| [Masoud Foroutan Koudahi](https://www.linkedin.com/in/masoudforoutan/)  | 2023 | Visiting PhD student | Electrochemical testing of hybrid electrolytes |
+| [Inti Espinoza Ramos](https://www.linkedin.com/in/intiramos99/) | 2023 | Master thesis student (w/ Volvo Cars) | <em>Operando</em> quantification of Li-plating |
+| [Franziska Maria Kühling](https://www.linkedin.com/in/franziska-k%C3%BChling-194960278/) | 2022–2023 | Erasmus+ exchange student | Intercalation mechanism of TiS<sub>2</sub> in aqueous batteries |
 
