@@ -28,8 +28,8 @@ td, th {
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593) | 2026.08– |  Master's thesis student** | Sustainable seawater batteries |
 
-* In collaboration with the UU Department of Information Technology, financed by COMPEL_UU
-** Recipient of the WISE Research Master's Thesis Scholarship
+\* In collaboration with the UU Department of Information Technology, financed by COMPEL_UU
+\*\* Recipient of the WISE Research Master's Thesis Scholarship
 
 ## Alumni
 {% include base_path %}
