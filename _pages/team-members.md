@@ -17,7 +17,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| [Dr. Yeongwoo Kim](https://www.uu.se/en/contact-and-organisation/staff?query=N26-2195) | 2026.09- | Postdoc* | Machine-learning-assisted battery diagnostics |
+| [Dr. Yeongwoo Kim](https://www.uu.se/en/contact-and-organisation/staff?query=N26-2195) | 2026.09- | Postdoc (based at Dept. IT) | Machine-learning-assisted battery diagnostics |
 | [Dr. Faruk Okur](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1599) | 2026.08– |  Postdoc | Anode-free solid-state batteries |
 | [Dr. Sicheng Wu](https://www.uu.se/en/contact-and-organisation/staff?query=N26-773) | 2026.04– |  Postdoc | Sustainable aqueous batteries |
 | [Sisi Wang](https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574) | 2026.01– |  PhD student (main supervisor) | Anode-free lithium-metal batteries |
@@ -26,10 +26,9 @@ td, th {
 | [Axel Hällgren](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482) | 2025.09– |  PhD student (co-supervisor) | Predictive modeling of battery aging |
 | [Lukas Lindén Thöming](https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
 | [Qianyun Bai](https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528) | 2025.01– |  PhD student (co-supervisor) | Next-generation aqueous batteries |
-| [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593) | 2026.08– |  Master's thesis student** | Sustainable seawater batteries |
+| [Arjunraj Padmarajan Ambika](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593) | 2026.08– |  Master's thesis student* | Sustainable seawater batteries |
 
-\* In collaboration with the UU Department of Information Technology, financed by COMPEL_UU
-\*\* Recipient of the WISE Research Master's Thesis Scholarship
+\* Recipient of the WISE Research Master's Thesis Scholarship
 
 ## Alumni
 {% include base_path %}
