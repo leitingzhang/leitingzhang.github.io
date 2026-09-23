@@ -17,7 +17,7 @@ td, th {
 
 | Name | Period | Role | Project |
 | --- | --- | --- | --- | --- |
-| [Dr. Tim Melin](https://www.uu.se/en/contact-and-organisation/staff?query=N19-112) | 2026.09- | Researcher | Anode-free lihtium batteries |
+| [Dr. Tim Melin](https://www.uu.se/en/contact-and-organisation/staff?query=N19-112) | 2026.09- | Researcher | Anode-free lithium metal batteries |
 | [Dr. Yeongwoo Kim](https://www.uu.se/en/contact-and-organisation/staff?query=N26-2195) | 2026.09- | Postdoc (based at Dept. IT) | Machine-learning-assisted battery diagnostics |
 | [Dr. Faruk Okur](https://www.uu.se/en/contact-and-organisation/staff?query=N26-1599) | 2026.08– | Postdoc | Anode-free solid-state batteries |
 | [Dr. Sicheng Wu](https://www.uu.se/en/contact-and-organisation/staff?query=N26-773) | 2026.04– | Postdoc | Sustainable aqueous batteries |
