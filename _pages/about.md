@@ -15,6 +15,9 @@ Welcome to Dr. Leiting Zhang (张雷霆) and his research team's website! We are
 
 # News
 
+### 2026.10.14
+We received a new grant from the WASP-WISE NEST 2 joint call, titled "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems." Leiting will lead the WISE project to investigate and mitigate mechanical degradation in batteries. Out of the 43 applications, only four have been granted in this round. [Link](https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/)
+
 ### 2026.09.05
 We received a new grant from the Swedish Energy Agency under the "Research for a competitive and sustainable battery value chain" call to develop gas analysis methods for solid-state batteries! The project consortium consists of Uppsala University (PI), Seoul National University, and Metrilytics AB. [Link](https://www.energimyndigheten.se/forskning-och-innovation/data-om-finansiering-av-forskning-och-innovation/projektdatabas/sokresultat/?registrationnumber=2026-209721)
 
