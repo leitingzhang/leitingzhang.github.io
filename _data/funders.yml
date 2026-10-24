@@ -1,0 +1,46 @@
+- name: Swedish Foundation for Strategic Research
+  status: ongoing
+  label: SSF
+  url: https://strategiska.se/en/
+  logo: /images/funpic/SSF.png
+  width: 233
+  height: 200
+
+- name: Göran Gustafsson Foundation
+  status: ongoing
+  label: UU/KTH
+  url: https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/
+  logo: /images/funpic/GG.png
+  width: 200
+  height: 200
+
+- name: Swedish Research Council
+  status: ongoing
+  label: VR · Vetenskapsrådet
+  url: https://www.vr.se/english.html
+  logo: /images/funpic/VR.png
+  width: 426
+  height: 200
+
+- name: Swedish Energy Agency
+  status: ongoing
+  label: Energimyndigheten
+  url: https://www.energimyndigheten.se/en/
+  logo: /images/funpic/SEA.png
+  width: 735
+  height: 200
+
+- name: ÅForsk Foundation
+  status: finished
+  url: https://aforsk.com/
+  logo: /images/funpic/ÅForsk.png
+  width: 234
+  height: 200
+
+- name: Wallenberg Initiative Materials Science for Sustainability
+  status: ongoing
+  label: WISE
+  url: https://wise-materials.org/
+  logo: /images/funpic/WISE.png
+  width: 480
+  height: 176

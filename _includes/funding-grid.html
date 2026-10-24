@@ -1,0 +1,17 @@
+<ul class="funding-grid" aria-label="{{ include.label | escape }}">
+{% for funder in include.funders %}
+  <li class="funding-grid__item">
+    <a class="funding-card" href="{{ funder.url | escape }}">
+      <span class="funding-card__logo">
+        <img src="{{ funder.logo | relative_url }}"
+             width="{{ funder.width }}" height="{{ funder.height }}"
+             alt="" decoding="async">
+      </span>
+      <span class="funding-card__name">{{ funder.name | escape }}</span>
+      {% if funder.label %}
+      <span class="funding-card__label">{{ funder.label | escape }}</span>
+      {% endif %}
+    </a>
+  </li>
+{% endfor %}
+</ul>

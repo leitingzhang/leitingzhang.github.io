@@ -5,36 +5,14 @@ permalink: /funding/
 author_profile: true
 ---
 
-{% include base_path %}
+We gratefully acknowledge the support of the following research funders.
 
-<figure>
-  <a href="/images/funpic/SSF.png">
-  <img src="/images/funpic/SSF.png" alt = "SSF" />
-    </a>
-</figure><br>
-  
-  <figure>
-  <a href="/images/funpic/GG.png">
-  <img src="/images/funpic/GG.png" alt = "GG" />
-    </a>
-</figure><br>
+## Ongoing projects
 
-<figure>
-  <a href="/images/funpic/VR.png">
-  <img src="/images/funpic/VR.png" alt = "VR" />
-    </a>
-</figure><br>
+{% assign ongoing_funders = site.data.funders | where: "status", "ongoing" %}
+{% include funding-grid.html funders=ongoing_funders label="Funders of ongoing projects" %}
 
-<figure>
-  <a href="/images/funpic/SEA.png">
-  <img src="/images/funpic/SEA.png" alt = "SEA" />
-    </a>
-</figure><br>
+## Finished projects
 
-<figure>
-  <a href="/images/funpic/ÅForsk.png">
-  <img src="/images/funpic/ÅForsk.png" alt = "ÅForsk" />
-    </a>
-</figure><br>
-
-
+{% assign finished_funders = site.data.funders | where: "status", "finished" %}
+{% include funding-grid.html funders=finished_funders label="Funders of finished projects" %}
