@@ -1,0 +1,31 @@
+.site-content .teaching-courses {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.teaching-course {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.25rem 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid #e2e5e8;
+}
+
+.site-content .teaching-course__title {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: inherit;
+}
+
+.teaching-course__code,
+.teaching-course__terms {
+  color: #5b636b;
+}
+
+@media (max-width: 699px) {
+  .teaching-course {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

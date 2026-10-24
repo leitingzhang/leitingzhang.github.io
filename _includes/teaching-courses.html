@@ -1,0 +1,11 @@
+<ul class="teaching-courses">
+{% for course in include.courses %}
+  <li class="teaching-course">
+    <div>
+      <h3 class="teaching-course__title"><a href="{{ course.url | escape }}">{{ course.title | escape }}</a></h3>
+      <span class="teaching-course__code">{{ course.code | escape }}</span>
+    </div>
+    <span class="teaching-course__terms">{{ course.terms | escape }}</span>
+  </li>
+{% endfor %}
+</ul>
