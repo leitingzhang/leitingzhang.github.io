@@ -5,6 +5,24 @@ The publishing repository is `leitingzhang/leitingzhang.github.io`.
 The live site is `https://leitingzhang.com`, published from `master` at `/`.
 `upstream` is the template repository; publish only to `origin`.
 
+## Content and layout conventions
+
+- Use US English in general prose and sentence case for interface headings.
+  Preserve official names, publication titles, quotations, and historical facts.
+- Display full dates as `14 October 2026` and year ranges as `2023–2026`.
+  Keep currency codes explicit and use `Grant no.` for grant references.
+- Use site-relative links for internal pages and assets. Preserve public URLs.
+- Main pages use the archive layout; articles use single. Both share the
+  `site-content` typography: one body font at 1rem with a consistent heading scale.
+- Keep shared presentation in `_sass/_site-content.scss` and structural page
+  styles in their existing modules. Avoid inline style blocks and font overrides.
+- Use YAML front matter, Markdown for prose, HTML for structured content, and
+  Liquid includes for reusable data-driven sections. Keep each list or component
+  internally consistent rather than mixing Markdown list syntax inside HTML.
+- Check the main navigation pages and blog layouts on desktop and mobile after
+  changing shared styles; preserve funding logos, responsive gallery images,
+  member groups, publication numbering, and scientific notation.
+
 ## Standing authorization to publish
 
 The owner has explicitly authorized automatically committing, pushing, and

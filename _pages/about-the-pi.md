@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- Page content uses HTML consistently; styles live in _sass/_pi.scss. -->
 <section aria-label="Academic profile" class="pi-profile">
-  <h2 id="academic-qualifications">Academic Qualifications</h2>
+  <h2 id="academic-qualifications">Academic qualifications</h2>
   <ul class="pi-bullets">
     <li>
       Docent (2025) in Chemistry with Specialization in Materials Chemistry, Uppsala University (UU), Sweden
@@ -163,7 +163,7 @@ redirect_from:
       <span class="pi-record__text">Student conference grant (49,000 HKD), Research Grants Council, HK</span>
     </li>
   </ul>
-  <h2 id="invited-talks">Invited Talks</h2>
+  <h2 id="invited-talks">Invited talks</h2>
   <h3 id="invited-conference-and-workshop-talks">Invited conference and workshop talks</h3>
   <ol class="pi-talks" reversed="">
     <li>
@@ -314,7 +314,7 @@ redirect_from:
       CRISMAT Laboratory, CNRS, France (8 December 2020, virtual).
     </li>
   </ol>
-  <h2 id="university-and-professional-service">University and Professional Service</h2>
+  <h2 id="university-and-professional-service">University and professional service</h2>
   <ul class="pi-bullets">
     <li>
       Board member of the Master’s Program in Battery Technology and Energy Storage, UU (since 2025)
@@ -404,7 +404,7 @@ redirect_from:
       </ul>
     </li>
   </ul>
-  <h2 id="pedagogy-and-leadership-development">Pedagogy and Leadership Development</h2>
+  <h2 id="pedagogy-and-leadership-development">Pedagogy and leadership development</h2>
   <ul class="pi-records">
     <li>
       <span class="pi-record__period">2025–2030</span>

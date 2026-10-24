@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Our current research has four main themes.
+Our research spans five main themes.
 
 ## Mechanistic understanding of sustainable aqueous batteries
 
@@ -18,68 +18,68 @@ Our research team conducts physicochemical and electrochemical testing to elucid
 
 <figure>
   <a href="/images/respic/ALiB.png">
-  <img src="/images/respic/ALiB.png" alt = "ALiB" />
+  <img src="/images/respic/ALiB.png" alt="Proposed reaction mechanisms in aqueous lithium-ion batteries" />
     </a>
   <figcaption>Proposed reaction mechanisms in (a) TiS<sub>2</sub>-based and (b) V<sub>2</sub>O<sub>5</sub>-based aqueous batteries</figcaption>
 </figure>
 
 Collaborators: [Chao Zhang](https://tec-group.github.io/) (Uppsala University), [Xu Hou](https://www.lunduniversity.lu.se/lucat/user/3b5156dbc9f0353538722b22741c6f3c) (Lund University), [Chaofeng Zhang](https://wky.ahu.edu.cn/2023/0215/c13481a300963/page.htm) (Anhui University), and [MAX IV Laboratory](https://www.maxiv.lu.se/) (Sweden).
 
-### References:
+### References
 
 1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
 2. Li et al. **Angew. Chem. Int. Ed.** 2025, *64*(35), e202508057.
 3. Zhang et al. **Adv. Mater.** 2025, *37*(13), 2407852.
-4. Zhang et al. **ACS Energy Letter.** 2024, *9* (3), 959–966.
+4. Zhang et al. **ACS Energy Lett.** 2024, *9* (3), 959–966.
 5. Hou et al. **Small** 2023, 2308577.
-6. Zhang et al. **Batter. Supercaps** 2022, *5* (12), e202200336. 
+6. Zhang et al. **Batter. Supercaps** 2022, *5* (12), e202200336.
 
 ## Development and application of advanced *operando* characterizations
 
-To investigate the battery performance degradation, researchers typically need to stop the cell, extract and prepare electrodes and/or electrolytes for *ex situ* analysis. However, such conditions typically distort the actual working environment of the sample under study. In contrast, *operando* techniques allow for continuous analysis without interrupting the cell, providing a more authentic understanding of transient changes occurring inside functioning batteries in real-time.
+To investigate battery performance degradation, researchers typically need to stop the cell, extract and prepare electrodes and/or electrolytes for *ex situ* analysis. However, such conditions typically distort the actual working environment of the sample under study. In contrast, *operando* techniques allow for continuous analysis without interrupting the cell, providing a more authentic understanding of transient changes occurring inside functioning batteries in real time.
 
-We possess extensive experience in developing *operando* techniques, including online acoustic emission testing (AE, for mechanical degradation), online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), and *operando* pH monitoring (for acid-base reaction).
+We possess extensive experience in developing *operando* techniques, including online acoustic emission testing (AE, for mechanical degradation), online electrochemical mass spectrometry (OEMS, for gas evolution), electrochemical quartz-crystal microbalance with dissipation monitoring (EQCM-D, for solid deposition), and *operando* pH monitoring (for acid–base reactions).
 
 <figure>
   <a href="/images/respic/Operando.png">
-  <img src="/images/respic/Operando.png" alt = "Operando" />
+  <img src="/images/respic/Operando.png" alt="Complementary operando methods for studying battery degradation" />
     </a>
   <figcaption>Complementary <em>operando</em> methods to study batteries</figcaption>
 </figure>
 
 Collaborators: [Annika Ahlberg Tidblad](https://www.katalog.uu.se/profile/?id=N11-620) (Volvo Cars), [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) (Uppsala University), [Jiaqiang Huang](https://seejhuang.people.ust.hk/) (HKUST(GZ)), and [Qi Zhao](https://qzucb.github.io/index.html) (Hong Kong Polytechnic University).
 
-### References:
+### References
 
 1. Espinoza Ramos et al. **Mater. Today Energy** 2025, *51*, 101899.
-2. Zheng et al. **Energy Environ. Sci** 2025, *18*, 8499-8514.
+2. Zheng et al. **Energy Environ. Sci.** 2025, *18*, 8499–8514.
 3. Espinoza Ramos et al. **J. Mater. Chem. A** 2024, *12* (35), 23280–23296.
 4. Zhang et al. **Energy Storage Mater.** 2021, *42*, 12–21.
 
 ## High-throughput robotic screening of battery electrolytes
 
-The integration of data-driven experimentation represents a significant advancement in battery research, substantially expediting progress by closing the experimentation–analysis loop. In contrast to the traditional manual screening of electrodes and electrolytes, automated processes hold the promise of improving both testing efficiency and reproducibility. 
+The integration of data-driven experimentation represents a significant advancement in battery research, substantially expediting progress by closing the experimentation–analysis loop. In contrast to the traditional manual screening of electrodes and electrolytes, automated processes hold the promise of improving both testing efficiency and reproducibility.
 
-At UU, we have pioneered the development of ODACell, an automated platform for electrolyte formulation preparation and coin cell assembly, equipped with three robotic arms and a liquid-handling robot. Our investigations demonstrate that cells assembled by the robots exhibit exceptional reproducibility and consistency. We have also implemented Bayesian optimization to systematically screen additives for high-performance and low-cost aqueous Li-ion batteries using an upgraded workflow ODACell 2. 
+At UU, we have pioneered the development of ODACell, an automated platform for electrolyte formulation preparation and coin cell assembly, equipped with three robotic arms and a liquid-handling robot. Our investigations demonstrate that cells assembled by the robots exhibit exceptional reproducibility and consistency. We have also implemented Bayesian optimization to systematically screen additives for high-performance and low-cost aqueous Li-ion batteries using an upgraded workflow ODACell 2.
 
 <figure>
   <a href="/images/respic/ODACell.png">
-  <img src="/images/respic/ODACell.png" alt = "ODACell" />
+  <img src="/images/respic/ODACell.png" alt="ODACell robotic platform for battery electrolyte screening" />
     </a>
   <figcaption>The ODACell platform for high-throughput battery research</figcaption>
 </figure>
 
 Collaborators: [Erik Berg](https://www.katalog.uu.se/profile/?id=N8-169) and [Jens Sjölund](https://jsjol.github.io/) (Uppsala University).
 
-### References:
+### References
 
 1. Yik et al. **Cell Rep. Phys. Sci.** 2025, *6*, 102548.
 2. Yik et al. **Digit. Discov.** 2023, *2* (3), 799–808.
 
 ## High-energy anode-free batteries
 
-Funding by the Swedish Foundation for Strategic Research (SSF), we develop anode-free lithium batteries with much higher energy densities and improved safety, potentially transforming the electric aviation landscape. To be updated!
+With funding from the Swedish Foundation for Strategic Research (SSF), we develop anode-free lithium batteries with much higher energy densities and improved safety, potentially transforming the electric aviation landscape.
 
 ## Chemomechanics in solid-state batteries
 
-Funded by the Göran Gustafsson Foundation (UU/KTH), we develop methods to examine chemomechanical degradations in solid-state batteries. To be updated!
+Funded by the Göran Gustafsson Foundation (UU/KTH), we develop methods to examine chemomechanical degradation in solid-state batteries.

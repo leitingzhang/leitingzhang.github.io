@@ -6,18 +6,18 @@ author_profile: true
 ---
 
 
-E-mail: [leiting.zhang@kemi.uu.se](mailto:leiting.zhang@kemi.uu.se)
+**Email:** [leiting.zhang@kemi.uu.se](mailto:leiting.zhang@kemi.uu.se)
 
-Postal address: Box 538, 751 21 Uppsala, Sweden
+**Postal address:** Box 538, 751 21 Uppsala, Sweden
 
-Visiting address: Room 3403, Ångström Laboratory, Regementsvägen 10 
+**Visiting address:** Room 3403, Ångström Laboratory, Regementsvägen 10
 
 [How to get here](https://www.kemi.uu.se/angstrom/about-us#anchor-799832)
 
 
-## Opening
+## Open positions
 
-We do not have any openings at the moment. Stay tuned!
+There are currently no open positions. Please check back for updates.
 
 
 

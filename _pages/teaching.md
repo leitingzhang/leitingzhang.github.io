@@ -5,34 +5,79 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
-| Course name | Course code | Role | Terms |
-| ----------- | ----------- | ---- | ----- |
-| [Rechargeable Batteries](https://www.uu.se/en/study/course?query=1KB738) | 1KB738 | Course responsible | Fall 23–26 |
-| [Future Perspective in Cell Chemistries](https://www.uu.se/en/study/course?query=1KB741) | 1KB741 | Course responsible | Spring 23–26 |
-| [Batteries for Electromobility](https://www.uu.se/en/study/course?query=1KB276) | 1KB276 | Lecturer | Spring & Fall 22–26 |
-| [Introduction to Material Synthesis and Characterization](https://www.uu.se/en/study/course?query=1KB277) | 1KB277 | Lecturer | Fall 23–26 |
-| [Materials Synthesis](https://www.uu.se/en/study/course?query=1KB286) | 1KB286 | Lecturer | Spring 23-26 |
-| [Battery Control and Safety](https://www.uu.se/en/study/course?query=1KB714) | 1KB714 | Lecturer | Fall 23–26 |
-| [Synthesis of Battery Materials](https://www.uu.se/en/study/course?query=1KB729) | 1KB729 | Lecturer | Spring 23–26 |
-| [Introduction to Energy Storage](https://www.uu.se/en/study/course?query=1KB744) | 1KB744 | Lecturer | Fall 22–26 |
-| [Advanced Battery Materials](https://www.uu.se/en/study/course?query=1KB747) | 1KB747 | Lecturer | Fall 23–25 |
-| [Introduction to Electromobility](https://www.uu.se/en/study/course?query=1EL003) | 1EL003 | Lecturer | Fall 24–26 |
-| [Inorganic Chemistry I](https://www.uu.se/en/study/course?query=1KB208) | 1KB208 | Lab teacher | Spring 22 |
-
-
-<!--
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
-
-
-
+<p class="table-hint" id="teaching-table-hint">Scroll horizontally to view all course details.</p>
+<div class="table-scroll" role="region" aria-label="Teaching courses" aria-describedby="teaching-table-hint" tabindex="0">
+<table>
+  <thead>
+    <tr><th scope="col">Course</th><th scope="col">Code</th><th scope="col">Role</th><th scope="col">Terms</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB738">Rechargeable Batteries</a></td>
+      <td>1KB738</td>
+      <td>Course coordinator</td>
+      <td>Fall 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB741">Future Perspective in Cell Chemistries</a></td>
+      <td>1KB741</td>
+      <td>Course coordinator</td>
+      <td>Spring 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB276">Batteries for Electromobility</a></td>
+      <td>1KB276</td>
+      <td>Lecturer</td>
+      <td>Spring and Fall 2022–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB277">Introduction to Material Synthesis and Characterization</a></td>
+      <td>1KB277</td>
+      <td>Lecturer</td>
+      <td>Fall 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB286">Materials Synthesis</a></td>
+      <td>1KB286</td>
+      <td>Lecturer</td>
+      <td>Spring 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB714">Battery Control and Safety</a></td>
+      <td>1KB714</td>
+      <td>Lecturer</td>
+      <td>Fall 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB729">Synthesis of Battery Materials</a></td>
+      <td>1KB729</td>
+      <td>Lecturer</td>
+      <td>Spring 2023–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB744">Introduction to Energy Storage</a></td>
+      <td>1KB744</td>
+      <td>Lecturer</td>
+      <td>Fall 2022–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB747">Advanced Battery Materials</a></td>
+      <td>1KB747</td>
+      <td>Lecturer</td>
+      <td>Fall 2023–2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1EL003">Introduction to Electromobility</a></td>
+      <td>1EL003</td>
+      <td>Lecturer</td>
+      <td>Fall 2024–2026</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.uu.se/en/study/course?query=1KB208">Inorganic Chemistry I</a></td>
+      <td>1KB208</td>
+      <td>Laboratory instructor</td>
+      <td>Spring 2022</td>
+    </tr>
+  </tbody>
+</table>
+</div>

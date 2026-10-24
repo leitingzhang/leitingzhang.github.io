@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You may also find a full list of publications on my <a href="{{ site.author.googlescholar }}"> Google Scholar</a> profile.
+  For the full publication record, see the <a href="{{ site.author.googlescholar }}">Google Scholar</a> profile.
 {% endif %}
 
 <!-- Keep citations in HTML. Add new entries first; reversed numbering is automatic.

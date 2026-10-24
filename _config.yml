@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Leiting Zhang"
 title_separator          : "-"
 name                     : &name "Leiting Zhang"
-description              : &description "personal description"
+description              : &description "Leiting Zhang’s research group at Uppsala University, studying sustainable batteries, interfacial chemistry, and operando diagnostics."
 url                      : https://leitingzhang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leitingzhang/leitingzhang.github.io"
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Stockholm # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

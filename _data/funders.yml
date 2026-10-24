@@ -8,7 +8,7 @@
   height: 200
   projects:
     - title: High-energy anode-free batteries
-      details: "2025–2030 · Future Research Leaders (FFL-9) · 15 MSEK · Grant FFL24-0190"
+      details: "2025–2030 · Future Research Leaders (FFL-9) · 15 MSEK · Grant no. FFL24-0190"
 
 - name: Göran Gustafsson Foundation
   status: ongoing
@@ -20,7 +20,7 @@
   height: 200
   projects:
     - title: Electro-chemo-mechanics of solid-state batteries
-      details: "2025–2028 · Young Researcher Grant · 3.75 MSEK · Grant 2533"
+      details: "2025–2028 · Young Researcher Grant · 3.75 MSEK · Grant no. 2533"
 
 - name: Swedish Research Council
   status: ongoing
@@ -32,7 +32,7 @@
   height: 200
   projects:
     - title: Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries
-      details: "2023–2027 · Starting grant · 4 MSEK · Grant 2022-03856"
+      details: "2023–2027 · Starting grant · 4 MSEK · Grant no. 2022-03856"
 
 - name: Swedish Energy Agency
   status: ongoing
@@ -44,9 +44,9 @@
   height: 200
   projects:
     - title: Online electrochemical mass spectrometry for probing and stabilizing interfaces in high-energy solid-state batteries
-      details: "2026–2030 · Project grant · 10 MSEK · Grant 2026-03582 · Main PI"
+      details: "2026–2030 · Project grant · 10 MSEK · Grant no. 2026-03582 · Main PI"
     - title: Online acoustic emission monitoring of electric vehicle battery health
-      details: "2024–2028 · FFI project grant · 3.3 MSEK · Grant 2023-00990 · Main PI"
+      details: "2024–2028 · FFI project grant · 3.3 MSEK · Grant no. 2023-00990 · Main PI"
 
 - name: ÅForsk Foundation
   status: finished
@@ -57,7 +57,7 @@
   height: 200
   projects:
     - title: "Sound of gas evolution: an acoustic emission study of battery aging"
-      details: "2023–2024 · Young scientist grant · 0.5 MSEK · Grant 23-372"
+      details: "2023–2024 · Young scientist grant · 0.5 MSEK · Grant no. 23-372"
 
 - name: Wallenberg Initiative Materials Science for Sustainability
   status: ongoing
@@ -69,5 +69,5 @@
   height: 176
   projects:
     - title: "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems"
-      details: WASP-WISE NEST 2 joint call
+      details: "2027–2031 · WASP-WISE NEST 2 joint call · 7 MSEK · Grant no. 43 · Main PI"
       url: https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/
