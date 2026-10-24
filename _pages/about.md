@@ -15,6 +15,10 @@ Welcome to the research group of Dr. Leiting Zhang (张雷霆) at the [Ångströ
 
 ## News
 
+<h3 id="20261023" class="news-date">23 October 2026</h3>
+
+Leiting participated in the third and final SKERIC week in Brussels and Lund, where he received comprehensive leadership training in science diplomacy.
+
 <h3 id="20261014" class="news-date">14 October 2026</h3>
 
 We received a new grant from the WASP-WISE NEST 2 joint call, titled "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems." Leiting will lead the WISE project to investigate and mitigate mechanical degradation in batteries. Out of the 43 applications, only four have been granted in this round. [Link](https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/)
