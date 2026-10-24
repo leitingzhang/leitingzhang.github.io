@@ -1,0 +1,73 @@
+/* Match the team and funding pages' typography and understated separators. */
+.pi-profile {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.pi-profile h2 {
+  margin: 2em 0 0.75em;
+  font-family: inherit;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.pi-profile h3 {
+  margin: 1.75em 0 0.75em;
+  font-family: inherit;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.pi-profile .pi-records {
+  margin: 0 0 1.5em;
+  padding: 0;
+  list-style: none;
+}
+
+.pi-records > li {
+  display: grid;
+  grid-template-columns: 8.5em minmax(0, 1fr);
+  gap: 1em;
+  margin: 0;
+  padding: 0.75em 0;
+  border-bottom: 1px solid #e2e5e8;
+}
+
+.pi-record__period {
+  font-weight: 600;
+}
+
+.pi-record__text {
+  min-width: 0;
+}
+
+.pi-profile .pi-group-label {
+  margin: 1.75em 0 0.5em;
+  font-size: inherit;
+  font-weight: 600;
+}
+
+.pi-profile .pi-bullets,
+.pi-profile .pi-talks {
+  margin: 0 0 1.5em;
+  padding-left: 1.5em;
+}
+
+.pi-bullets li,
+.pi-talks li {
+  margin-bottom: 0.65em;
+  padding-left: 0.2em;
+}
+
+.pi-bullets ul {
+  margin: 0.65em 0 0;
+  padding-left: 1.25em;
+}
+
+@media (max-width: 699px) {
+  .pi-records > li {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.25em;
+  }
+}
