@@ -28,6 +28,24 @@ When you are initially working your website, it is very useful to be able to pre
 1. Run `jekyll serve -l` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
 
+## Gallery images
+
+Add original photos to `images/picpic/work/` or `images/picpic/life/`, then list
+them in `_data/pictures_work.yml` or `_data/pictures_life.yml`. Use a descriptive
+`title` because it also supplies the image's alternative text.
+
+Generate the responsive WebP thumbnails with:
+
+```sh
+python -m pip install Pillow PyYAML
+python scripts/optimize_gallery.py
+```
+
+Commit the generated `images/picpic/thumbnails/` files and
+`_data/gallery_thumbnails.json` alongside your changes. Jekyll uses these files
+directly; Python is only needed when generating thumbnails. Originals remain
+available by clicking each image. Regenerate after adding or replacing photos.
+
 # Maintenance 
 
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).

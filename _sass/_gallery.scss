@@ -1,0 +1,21 @@
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1em;
+  margin-bottom: 2em;
+
+  @media (min-width: 600px) {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  a {
+    display: block;
+    align-self: start;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
