@@ -48,6 +48,24 @@ available by clicking each image. Regenerate after adding or replacing photos.
 
 # Maintenance 
 
+## Publishing completed changes
+
+GitHub Pages builds the website from `master` in the repository root after each
+push to `origin`. The repository's `AGENTS.md` instructs Codex to check, commit,
+push, and verify deployment after completed website editing tasks. This is a
+standing instruction from the owner, so a separate publishing request is not
+needed for each task. Say "preview only" or "do not publish" to override it for
+a particular change.
+
+Publishing requires either local Git authentication or a connected GitHub
+integration with repository Contents write permission. Codex can use that
+connection when local Git authentication is unavailable, then synchronize the
+local checkout. To renew an expired local GitHub sign-in on Windows, run
+`git credential-manager github login --username leitingzhang --device --force`.
+A successful push is followed by a Pages build; deployment is complete only when
+that build succeeds. This workflow does not publish arbitrary file saves while
+Codex is idle.
+
 Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
 This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
