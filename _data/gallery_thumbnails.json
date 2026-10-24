@@ -72,6 +72,20 @@
     }
   },
   "life": {
+    "Group202604.jpg": {
+      "variants": [
+        {
+          "src": "/images/picpic/thumbnails/life/Group202604.jpg-320.webp",
+          "width": 320,
+          "height": 213
+        },
+        {
+          "src": "/images/picpic/thumbnails/life/Group202604.jpg-640.webp",
+          "width": 640,
+          "height": 427
+        }
+      ]
+    },
     "Group202403.jpg": {
       "variants": [
         {

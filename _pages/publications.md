@@ -16,6 +16,7 @@ author_profile: true
 
 
 <ol reversed>
+  <li><strong>Zhang, L.*</strong> From Solid Electrolyte Interphase to Liquid Electrolyte Interphase in Aqueous Zinc Batteries, <strong><em>Sci. Bull.</em></strong> 2026. <a href="https://doi.org/10.1016/j.scib.2026.10.050">https://doi.org/10.1016/j.scib.2026.10.050</a>.</li>
   <li>Gao, X.; Wichmann, M.; Bai, Z.; <strong>Zhang, L.</strong>; Rousse, G.; Abakumov, A. M.; Tarascon, J. M. Revisiting Deep Delithiation of LiNi<sub>0.8</sub>Mn<sub>0.1</sub>Co<sub>0.1</sub>O<sub>2</sub> (NMC811) Cathode Materials, <strong>Small</strong> 2026, <em>22</em> (38), e73809 <a href="https://doi.org/10.1002/smll.73809">https://doi.org/10.1002/smll.73809</a></li>
   <li><strong>Zhang, L.*</strong> Unveiling Gas Evolution in Sustainable Aqueous Batteries by Online Electrochemical Mass Spectrometry: Progress and Perspectives, <strong>ACS Mater. Au</strong> 2025, <em>5</em> (6), 896-905. <strong>[Special Issue: 2025 Rising Stars in Materials Science]</strong>. <a href="https://doi.org/10.1021/acsmaterialsau.5c00124">https://doi.org/10.1021/acsmaterialsau.5c00124</a></li>
   <li>Gao, X.; Li, B.; Morozov, A. V.; <strong>Zhang, L.</strong>; Kummer, K.; Elkaïm, E.; Rousse, G.; Abakumov, A. M.; Tarascon, J. M. Unconventional High-Temperature Cycling Stability of O2-type Li<sub>0.75</sub>[Li<sub>0.25</sub>Mn<sub>0.75</sub>]O<sub>2</sub> Cathode, <strong>Joule</strong> 2025, <em>9</em> (9), 102089. <a href="https://doi.org/10.1016/j.joule.2025.102089">https://doi.org/10.1016/j.joule.2025.102089</a></li>
