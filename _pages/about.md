@@ -410,6 +410,6 @@ Our website is now live. Welcome!
 
 
 <div class="visitor-counter">
-<a href='https://www.freevisitorcounters.com'>at www.freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=72b41b9ddc2523c96f28009590c096a29a2f9149'></script>
+<a href='http://www.freevisitorcounters.com'>at www.freevisitorcounters.com</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=72b41b9ddc2523c96f28009590c096a29a2f9149'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/1242703/t/4"></script>
 </div>
