@@ -17,7 +17,7 @@ Welcome to the research group of Dr. Leiting Zhang (张雷霆) at the [Ångströ
 
 <h3 id="20261023" class="news-date">23 October 2026</h3>
 
-Leiting participated in the third and final SKERIC week in Brussels and Lund, where he received comprehensive leadership training in science diplomacy.
+Leiting participated in the third and final SKERIC week in Brussels and Lund, where he received comprehensive leadership training in science diplomacy. [Link](https://www.skeric.org/skericweek-1)
 
 <h3 id="20261014" class="news-date">14 October 2026</h3>
 
