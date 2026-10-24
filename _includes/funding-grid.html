@@ -2,15 +2,17 @@
 {% for funder in include.funders %}
   <li class="funding-grid__item">
     <a class="funding-card" href="{{ funder.url | escape }}">
-      <span class="funding-card__logo">
+      <span class="funding-card__logo" style="--funding-logo-width: {{ funder.display_width | default: 120 }}px;">
         <img src="{{ funder.logo | relative_url }}"
              width="{{ funder.width }}" height="{{ funder.height }}"
              alt="" decoding="async">
       </span>
-      <span class="funding-card__name">{{ funder.name | escape }}</span>
-      {% if funder.label %}
-      <span class="funding-card__label">{{ funder.label | escape }}</span>
-      {% endif %}
+      <span class="funding-card__text">
+        <span class="funding-card__name">{{ funder.name | escape }}</span>
+        {% if funder.label %}
+        <span class="funding-card__label">{{ funder.label | escape }}</span>
+        {% endif %}
+      </span>
     </a>
   </li>
 {% endfor %}

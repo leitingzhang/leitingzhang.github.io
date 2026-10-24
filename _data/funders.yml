@@ -3,6 +3,7 @@
   label: SSF
   url: https://strategiska.se/en/
   logo: /images/funpic/SSF.png
+  display_width: 88
   width: 233
   height: 200
 
@@ -11,6 +12,7 @@
   label: UU/KTH
   url: https://gustafssonsstiftelser.se/sid-4/stiftelse-1-uukth/
   logo: /images/funpic/GG.png
+  display_width: 72
   width: 200
   height: 200
 
@@ -19,6 +21,7 @@
   label: VR · Vetenskapsrådet
   url: https://www.vr.se/english.html
   logo: /images/funpic/VR.png
+  display_width: 144
   width: 426
   height: 200
 
@@ -27,6 +30,7 @@
   label: Energimyndigheten
   url: https://www.energimyndigheten.se/en/
   logo: /images/funpic/SEA.png
+  display_width: 168
   width: 735
   height: 200
 
@@ -34,6 +38,7 @@
   status: finished
   url: https://aforsk.com/
   logo: /images/funpic/ÅForsk.png
+  display_width: 88
   width: 234
   height: 200
 
@@ -42,5 +47,6 @@
   label: WISE
   url: https://wise-materials.org/
   logo: /images/funpic/WISE.png
+  display_width: 120
   width: 480
   height: 176
