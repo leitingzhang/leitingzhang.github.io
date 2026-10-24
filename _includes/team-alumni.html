@@ -1,0 +1,12 @@
+<ul class="team-alumni">
+{% for member in site.data.team_alumni %}
+  <li class="team-alumnus">
+    <div>
+      <a class="team-alumnus__name" href="{{ member.url | escape }}">{{ member.name | escape }}</a>
+      <span class="team-alumnus__role">{{ member.role | escape }}</span>
+    </div>
+    <span class="team-alumnus__period">{{ member.period | escape }}</span>
+    <p class="team-alumnus__project">{{ member.project }}</p>
+  </li>
+{% endfor %}
+</ul>

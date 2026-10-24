@@ -1,0 +1,12 @@
+<ul class="team-members">
+{% for member in include.members %}
+  <li class="team-member">
+    <div class="team-member__content">
+      <h4 class="team-member__name"><a href="{{ member.url | escape }}">{{ member.name | escape }}</a></h4>
+      <p class="team-member__role">{{ member.role | escape }} <span class="team-member__period">&middot; Since {{ member.since | escape }}</span></p>
+      <p class="team-member__project">{{ member.project | escape }}</p>
+      {% if member.note %}<p class="team-member__note">{{ member.note | escape }}</p>{% endif %}
+    </div>
+  </li>
+{% endfor %}
+</ul>

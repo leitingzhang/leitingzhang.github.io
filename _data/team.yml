@@ -1,0 +1,85 @@
+- name: Dr. Tim Melin
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N19-112
+  group: Researchers and postdocs
+  role: Researcher
+  period: 2026.09–
+  project: Anode-free lithium metal batteries
+  since: September 2026
+- name: Dr. Yeongwoo Kim
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N26-2195
+  group: Researchers and postdocs
+  role: Postdoc
+  period: 2026.09–
+  project: Machine-learning-assisted battery diagnostics
+  note: Based at the Department of Information Technology
+  since: September 2026
+- name: Dr. Faruk Okur
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N26-1599
+  group: Researchers and postdocs
+  role: Postdoc
+  period: 2026.08–
+  project: Anode-free solid-state batteries
+  since: August 2026
+- name: Dr. Sicheng Wu
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N26-773
+  group: Researchers and postdocs
+  role: Postdoc
+  period: 2026.04–
+  project: Sustainable aqueous batteries
+  since: April 2026
+- name: Sisi Wang
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N25-2574
+  group: PhD students
+  role: PhD student
+  period: 2026.01–
+  project: Anode-free lithium-metal batteries
+  supervision: main
+  since: January 2026
+- name: Ziyin Guo
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N23-1204
+  group: PhD students
+  role: PhD student
+  period: 2023.10–
+  project: Interfacial reactivities in aqueous batteries
+  supervision: main
+  since: October 2023
+- name: Inti Espinoza Ramos
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N22-763
+  group: PhD students
+  role: PhD student
+  period: 2023.09–
+  project: Battery acoustic emission sensing
+  supervision: main
+  since: September 2023
+- name: Axel Hällgren
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N24-2482
+  group: PhD students
+  role: PhD student
+  period: 2025.09–
+  project: Predictive modeling of battery aging
+  supervision: co
+  since: September 2025
+- name: Lukas Lindén Thöming
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N22-1818
+  group: PhD students
+  role: PhD student
+  period: 2025.01–
+  project: Next-generation aqueous batteries
+  supervision: co
+  since: January 2025
+- name: Qianyun Bai
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N24-2528
+  group: PhD students
+  role: PhD student
+  period: 2025.01–
+  project: Next-generation aqueous batteries
+  supervision: co
+  since: January 2025
+- name: Arjunraj Padmarajan Ambika
+  url: https://www.uu.se/en/contact-and-organisation/staff?query=N26-1593
+  group: Master’s students
+  role: Master’s thesis student
+  period: 2026.08–
+  project: Sustainable seawater batteries
+  note: Recipient of the WISE Research Master’s Thesis Scholarship
+  since: August 2026

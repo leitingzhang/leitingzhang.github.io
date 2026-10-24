@@ -1,0 +1,134 @@
+.team-photo {
+  margin: 0 0 2em;
+}
+
+.team-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.team-photo figcaption {
+  margin-top: 0.5em;
+  color: #5b636b;
+  font-size: 0.8em;
+}
+
+.archive .team-members {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 2em;
+  margin: 0 0 2em;
+  padding: 0;
+  list-style: none;
+}
+
+.team-member {
+  min-width: 0;
+  margin: 0;
+  padding: 1.25em 0;
+  border-top: 1px solid #e2e5e8;
+}
+
+.team-member__content {
+  min-width: 0;
+}
+
+.team-member .team-member__name {
+  margin: 0 0 0.35em;
+  font-size: 1em;
+  line-height: 1.5;
+}
+
+.archive .team-member__name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.archive .team-member__name a:hover,
+.archive .team-member__name a:focus-visible {
+  text-decoration: underline;
+}
+
+.team-member p {
+  margin: 0 0 0.5em;
+  line-height: 1.5;
+}
+
+.team-member .team-member__role {
+  font-size: 0.85em;
+}
+
+.team-member__period {
+  color: #5b636b;
+}
+
+.team-member .team-member__project {
+  font-size: 0.9em;
+}
+
+.team-member .team-member__note {
+  margin-bottom: 0;
+  color: #5b636b;
+  font-size: 0.8em;
+}
+
+.archive .team-section-title {
+  margin-top: 1.75em;
+  margin-bottom: 0.25em;
+  font-size: 1.1em;
+}
+
+.archive .team-alumni {
+  margin: 0 0 2em;
+  padding: 0;
+  list-style: none;
+}
+
+.team-alumnus {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.25em 1em;
+  margin: 0;
+  padding: 1em 0;
+  border-top: 1px solid #e2e5e8;
+}
+
+.archive .team-alumnus__name {
+  color: inherit;
+  font-size: 0.95em;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.archive .team-alumnus__name:hover,
+.archive .team-alumnus__name:focus-visible {
+  text-decoration: underline;
+}
+
+.team-alumnus__role {
+  display: block;
+  margin-top: 0.2em;
+  color: #5b636b;
+  font-size: 0.8em;
+}
+
+.team-alumnus__period {
+  color: #5b636b;
+  font-size: 0.8em;
+  white-space: nowrap;
+}
+
+.team-alumnus .team-alumnus__project {
+  grid-column: 1 / -1;
+  margin: 0.25em 0 0;
+  font-size: 0.85em;
+  line-height: 1.5;
+}
+
+@media (max-width: 699px) {
+  .archive .team-members {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
