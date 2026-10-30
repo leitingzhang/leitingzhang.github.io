@@ -15,6 +15,10 @@ Welcome to the research group of Dr. Leiting Zhang (张雷霆) at the [Ångströ
 
 ## News
 
+<h3 id="20261030" class="news-date">30 October 2026</h3>
+
+We received a new project grant from the Swedish Research Council (VR) for "Nanoconfined proton transport in low-temperature aqueous proton batteries." The project will run from 2027 to 2031 with funding of 4.5 MSEK (Grant no. 2026-06118). [Funding details](/funding/)
+
 <h3 id="20261023" class="news-date">23 October 2026</h3>
 
 Leiting participated in the third and final SKERIC week in Brussels and Lund, where he received comprehensive leadership training in science diplomacy. [Link](https://www.skeric.org/skericweek-1)
