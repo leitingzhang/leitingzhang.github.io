@@ -8,7 +8,10 @@
   height: 200
   projects:
     - title: High-energy anode-free batteries
-      details: "2025–2030 · Future Research Leaders (FFL-9) · 15 MSEK · Grant no. FFL24-0190"
+      funder: Swedish Foundation for Strategic Research
+      period: 2025–2030
+      amount: 15 MSEK
+      details: "Future Research Leaders (FFL-9) · Grant no. FFL24-0190"
 
 - name: Göran Gustafsson Foundation
   status: ongoing
@@ -20,7 +23,10 @@
   height: 200
   projects:
     - title: Electro-chemo-mechanics of solid-state batteries
-      details: "2025–2028 · Young Researcher Grant · 3.75 MSEK · Grant no. 2533"
+      funder: Göran Gustafsson Foundation
+      period: 2025–2028
+      amount: 3.75 MSEK
+      details: "Young Researcher Grant · Grant no. 2533"
 
 - name: Swedish Research Council
   status: ongoing
@@ -32,9 +38,15 @@
   height: 200
   projects:
     - title: Nanoconfined proton transport in low-temperature aqueous proton batteries
-      details: "2027–2031 · Project grant · 4.5 MSEK · Grant no. 2026-06118"
+      funder: Swedish Research Council
+      period: 2027–2031
+      amount: 4.5 MSEK
+      details: "Project grant · Grant no. 2026-06118"
     - title: Electrode–electrolyte interphases in sustainable aqueous alkali-ion batteries
-      details: "2023–2027 · Starting grant · 4 MSEK · Grant no. 2022-03856"
+      funder: Swedish Research Council
+      period: 2023–2027
+      amount: 4 MSEK
+      details: "Starting grant · Grant no. 2022-03856"
 
 - name: Swedish Energy Agency
   status: ongoing
@@ -46,9 +58,15 @@
   height: 200
   projects:
     - title: Online electrochemical mass spectrometry for probing and stabilizing interfaces in high-energy solid-state batteries
-      details: "2026–2030 · Project grant · 10 MSEK · Grant no. 2026-03582 · Main PI"
+      funder: Swedish Energy Agency
+      period: 2026–2030
+      amount: 10 MSEK
+      details: "Project grant · Grant no. 2026-03582 · Main PI"
     - title: Online acoustic emission monitoring of electric vehicle battery health
-      details: "2024–2028 · FFI project grant · 3.3 MSEK · Grant no. 2023-00990 · Main PI"
+      funder: Swedish Energy Agency
+      period: 2024–2028
+      amount: 3.3 MSEK
+      details: "FFI project grant · Grant no. 2023-00990 · Main PI"
 
 - name: ÅForsk Foundation
   status: finished
@@ -59,7 +77,10 @@
   height: 200
   projects:
     - title: "Sound of gas evolution: an acoustic emission study of battery aging"
-      details: "2023–2024 · Young scientist grant · 0.5 MSEK · Grant no. 23-372"
+      funder: ÅForsk Foundation
+      period: 2023–2024
+      amount: 0.5 MSEK
+      details: "Young scientist grant · Grant no. 23-372"
 
 - name: Wallenberg Initiative Materials Science for Sustainability
   status: ongoing
@@ -71,7 +92,10 @@
   height: 176
   projects:
     - title: "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems"
-      details: "2027–2031 · WASP-WISE NEST 2 joint call · 7 MSEK · Grant no. 43 · Main PI"
+      funder: Wallenberg Initiative Materials Science for Sustainability
+      period: 2027–2031
+      amount: 7 MSEK
+      details: "WASP-WISE NEST 2 joint call · Grant no. 43 · Main PI"
       url: https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/
 
 - name: COMPEL
@@ -84,4 +108,7 @@
   height: 724
   projects:
     - title: Learning switching dynamical systems for predictive and mechanistic insights into battery aging
-      details: "2026–2028 · Project grant · 2.2 MSEK"
+      funder: COMPEL
+      period: 2026–2028
+      amount: 2.2 MSEK
+      details: "Project grant"

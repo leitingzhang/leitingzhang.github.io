@@ -1,30 +1,24 @@
-<ul class="funding-grid" aria-label="{{ include.label | escape }}">
+{% assign projects = "" | split: "," %}
 {% for funder in include.funders %}
+  {% assign projects = projects | concat: funder.projects %}
+{% endfor %}
+{% assign projects = projects | sort: "period" | reverse %}
+<ul class="funding-grid" aria-label="{{ include.label | escape }}">
+{% for project in projects %}
+  {% assign funder = include.funders | where: "name", project.funder | first %}
   <li class="funding-grid__item">
     <div class="funding-card">
-      <span class="funding-card__logo" style="--funding-logo-width: {{ funder.display_width | default: 120 }}px;">
+      <span class="funding-card__logo">
         <img src="{{ funder.logo | relative_url }}"
              width="{{ funder.width }}" height="{{ funder.height }}"
              alt="" decoding="async">
       </span>
       <div class="funding-card__text">
-        <span class="funding-card__name"><a class="funding-card__link" href="{{ funder.url | escape }}">{{ funder.name | escape }}</a></span>
-        {% if funder.label %}
-        <span class="funding-card__label">{{ funder.label | escape }}</span>
-        {% endif %}
+        <h3 class="funding-card__title">{% if project.url %}<a href="{{ project.url | escape }}">{{ project.title | escape }}</a>{% else %}{{ project.title | escape }}{% endif %}</h3>
+        <p class="funding-card__funder"><a href="{{ funder.url | escape }}">{{ funder.name | escape }}</a></p>
+        <p class="funding-card__summary">{{ project.period | escape }} <span>·</span> {{ project.amount | escape }}</p>
+        <p class="funding-card__details">{{ project.details | escape }}</p>
       </div>
-        {% if funder.projects %}
-        <ul class="funding-projects">
-          {% for project in funder.projects %}
-          <li>
-            <span class="funding-projects__title">{% if project.url %}<a href="{{ project.url | escape }}">{{ project.title | escape }}</a>{% else %}{{ project.title | escape }}{% endif %}</span>
-            {% if project.details %}
-            <span class="funding-projects__details">{{ project.details | escape }}</span>
-            {% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-        {% endif %}
     </div>
   </li>
 {% endfor %}
