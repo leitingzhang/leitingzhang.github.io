@@ -171,6 +171,9 @@ redirect_from:
   <h3 id="invited-conference-and-workshop-talks">Invited conference and workshop talks</h3>
   <ol class="pi-talks" reversed="">
     <li>
+      MATSUS Conference (Spring), Barcelona, Spain (20 April 2027, invited by Prof. Yang Xu).
+    </li>
+    <li>
       The 3rd International Aqueous Batteries Conference, Hong Kong, China (20 August 2026).
     </li>
     <li>
