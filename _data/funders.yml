@@ -71,3 +71,12 @@
     - title: "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems"
       details: "2027–2031 · WASP-WISE NEST 2 joint call · 7 MSEK · Grant no. 43 · Main PI"
       url: https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/
+
+- name: COMPEL
+  status: ongoing
+  label: Competence and Excellence in Battery Research and Education for the Transport Sector
+  url: https://www.uu.se/en/disciplinary-domain/science-and-technology/research/research-collaborations/compel/
+  logo: /images/funpic/COMPEL.png
+  display_width: 168
+  width: 2172
+  height: 724
