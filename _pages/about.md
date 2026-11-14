@@ -15,6 +15,10 @@ Welcome to the research group of Dr. Leiting Zhang (张雷霆) at the [Ångströ
 
 ## News
 
+<h3 id="20261111-12" class="news-date">11–12 November 2026</h3>
+
+Leiting participated in Battery Innovation Days (BID) in Stockholm, representing Region Uppsala, Ångström Advanced Battery Centre, and COMPEL. He also joined a panel discussion on opportunities across the Swedish battery value chain. [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7526762114242449410/)
+
 <h3 id="20261030" class="news-date">30 October 2026</h3>
 
 We received a new project grant from the Swedish Research Council (VR) for "Nanoconfined proton transport in low-temperature aqueous proton batteries." The project will run from 2027 to 2031 with funding of 4.5 MSEK (Grant no. 2026-06118). [Funding details](/funding/)
