@@ -82,20 +82,26 @@
       amount: 0.5 MSEK
       details: "Young scientist grant · Grant no. 23-372"
 
-- name: Wallenberg Initiative Materials Science for Sustainability
+- name: Knut and Alice Wallenberg Foundation
   status: ongoing
-  label: WISE
-  url: https://wise-materials.org/
-  logo: /images/funpic/WISE.png
+  label: KAW · WISE
+  url: https://kaw.wallenberg.org/en
+  logo: /images/funpic/KAW.svg
   display_width: 120
-  width: 480
-  height: 176
+  width: 226
+  height: 111
+  program_name: Wallenberg Initiative Materials Science for Sustainability (WISE)
+  program_url: https://wise-materials.org/
+  program_logo: /images/funpic/WISE.png
+  program_width: 480
+  program_height: 176
   projects:
     - title: "AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems"
-      funder: Wallenberg Initiative Materials Science for Sustainability
+      funder: Knut and Alice Wallenberg Foundation
       period: 2027–2031
       amount: 7 MSEK
-      details: "WASP-WISE NEST 2 joint call · Grant no. 43 · Main PI"
+      details: "WASP-WISE NEST 2 joint call · Grant no. 43 · WISE main PI"
+      acknowledgement: "We gratefully acknowledge the support of the Knut and Alice Wallenberg Foundation (KAW) and the Wallenberg Initiative Materials Science for Sustainability (WISE) through the WASP–WISE NEST 2 program."
       url: https://wise-materials.org/external/wasp-wise-nest-2-joining-forces-for-breakthrough-research/
 
 - name: COMPEL

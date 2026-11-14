@@ -8,16 +8,22 @@
   {% assign funder = include.funders | where: "name", project.funder | first %}
   <li class="funding-grid__item">
     <div class="funding-card">
-      <span class="funding-card__logo">
+      <span class="funding-card__logo{% if funder.program_logo %} funding-card__logo--multiple{% endif %}">
         <img src="{{ funder.logo | relative_url }}"
              width="{{ funder.width }}" height="{{ funder.height }}"
              alt="" decoding="async">
+        {% if funder.program_logo %}
+        <img src="{{ funder.program_logo | relative_url }}"
+             width="{{ funder.program_width }}" height="{{ funder.program_height }}"
+             alt="" decoding="async">
+        {% endif %}
       </span>
       <div class="funding-card__text">
         <h3 class="funding-card__title">{% if project.url %}<a href="{{ project.url | escape }}">{{ project.title | escape }}</a>{% else %}{{ project.title | escape }}{% endif %}</h3>
-        <p class="funding-card__funder"><a href="{{ funder.url | escape }}">{{ funder.name | escape }}</a></p>
+        <p class="funding-card__funder"><a href="{{ funder.url | escape }}">{{ funder.name | escape }}</a>{% if funder.program_name %}<br><a href="{{ funder.program_url | escape }}">{{ funder.program_name | escape }}</a>{% endif %}</p>
         <p class="funding-card__summary">{{ project.period | escape }} <span>·</span> {{ project.amount | escape }}</p>
         <p class="funding-card__details">{{ project.details | escape }}</p>
+        {% if project.acknowledgement %}<p class="funding-card__acknowledgement">{{ project.acknowledgement | escape }}</p>{% endif %}
       </div>
     </div>
   </li>
