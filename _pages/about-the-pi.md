@@ -97,7 +97,7 @@ redirect_from:
     </li>
     <li>
       <span class="pi-record__period">2027–2031</span>
-      <span class="pi-record__text">WASP-WISE NEST 2 joint project grant (7 MSEK), “AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems,” Grant no. 43, Wallenberg Initiative Materials Science for Sustainability (WISE), Sweden (main PI)</span>
+      <span class="pi-record__text">WASP-WISE NEST 2 joint project grant (7 MSEK), “AIM-BATT: AI-assisted multi-fidelity battery design and management: from materials to systems,” Grant no. 43, Knut and Alice Wallenberg Foundation (KAW), through the Wallenberg Initiative Materials Science for Sustainability (WISE), Sweden (WISE main PI)</span>
     </li>
     <li>
       <span class="pi-record__period">2026–2030</span>
